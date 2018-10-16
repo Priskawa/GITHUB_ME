@@ -179,14 +179,14 @@ Logis de la Licorne dit Cheval Blanc;BE
 Restaurant La Croix Fédérale;BE
 restaurant de la Croix Fédérale;BE
 Restaurant la Croix-Blanche;BE
-Weissen Kreuz / de la Croix-Blanche;BE
+Weissen Kreuz de la Croix-Blanche;BE
 Blauen Engel;BE
 Zum blauen Engel;BE
 Café Engel;BE
 Cave des Anges;BE
 Engelberg;BE
 Gasthof Engelberg;BE
-Hôtel - Restaurant de l'étoile la Table et Logis SA;BE
+Hôtel Restaurant de l'étoile la Table et Logis SA;BE
 de l'Etoile;BE
 Pizzeria de l'Etoile Sàrl;BE
 Hotel Hirschen;BE
@@ -199,7 +199,7 @@ Restaurant Hirschen;BE
 Restaurant Hirschen;BE
 Restaurant Hirschen;BE
 Gasthof Hirschen Sangernboden;BE
-Restaurant Kreuz / ILLUSORIA-LAND;BE
+Restaurant Kreuz ILLUSORIA-LAND;BE
 Restaurant Kreuz;BE
 Restaurant Kreuz;BE
 Restaurant Kreuz;BE
@@ -234,7 +234,7 @@ CAFE RESTAURANT DE L'OURS MOUTIER;BE
 Restaurant de l'Ours;BE
 de l'Ours;BE
 Hôtel de l'Ours;BE
-Bären Twann Hotel - Restaurant;BE
+Bären Twann Hotel Restaurant;BE
 Café Restaurant Post Zäntrum;BE
 Alte Post Restaurant;BE
 Restaurant zur alten Post;BE
@@ -282,7 +282,7 @@ Hotel Restaurant Sternen;BE
 Restaurant Bären;BL
 Gasthof Restaurant Pizzeria Bären;BL
 Bären;BL
-gastro-abc Restaurant Engel;BL
+gastro abc Restaurant Engel;BL
 Hotel Engel;BL
 Landgasthof Hirschen;BL
 Hirschen;BL
@@ -320,7 +320,7 @@ Restaurant Sternen;BL
 Restaurant Sternen;BL
 Restaurant Sternen;BL
 Pizzeria Sternen;BL
-Restaurant & Bar Roter Bären;BS
+Restaurant Bar Roter Bären;BS
 Roter Engel;BS
 Hirscheneck;BS
 Linde;BS
@@ -424,15 +424,15 @@ Rössli;GL
 Sonne;GL
 Sonne;GL
 Sonne;GL
-Taverna Thessaloniki - Sonnegg;GL
+Taverna Thessaloniki Sonnegg;GL
 Hotel Restaurant Sternen;GL
 Restaurant Sternen;GL
-Restaurant Sternen by Oi Asia - Thai;GL
+Restaurant Sternen by Oi Asia Thai;GL
 Restaurant Sternen;GL
 Restaurant Crusch Alba;GR
 Alpengasthof Crusch Alba ed Alvetern;GR
 Crusch alva;GR
-Hotel Crusch Alba & Crusch Alba Swiss Lodge;GR
+Hotel Crusch Alba und Crusch Alba Swiss Lodge;GR
 Crusch Alva;GR
 Stüva im Hotel Crusch Alva;GR
 Hotel Crusch Alba;GR
@@ -450,9 +450,9 @@ Hotel Weisses Kreuz;GR
 Restaurant Weiss-Kreuz;GR
 Hotel Alte Herberge Weiss Kreuz;GR
 Ristorante italiano Weisses Kreuz;GR
-z. Weissen Kreuz;GR
+z Weissen Kreuz;GR
 Linde;GR
-Restaurant / Ustria Stiva Biala;GR
+Restaurant Ustria Stiva Biala;GR
 Restaurant Bäsebeizli Lindengärtli;GR
 Bistro Löwen;GR
 Hotel Alte Post Restaurant;GR
@@ -476,7 +476,7 @@ Restaurant Sonnenhotel Soldanella-Sonneck;GR
 Restaurant Sternen;GR
 Gartenhotel Sternen;GR
 Sternen;GR
-Astras Hotel & Restaurant;GR
+Astras Hotel und Restaurant;GR
 Stern;GR
 Ange Bar;JU
 Café, restaurant du Cerf;JU
@@ -515,7 +515,7 @@ de la Poste;JU
 de la Poste;JU
 Restaurant du Soleil;JU
 Restaurant du Soleil;JU
-Café - Restaurant Le Soleil de Châtillon;JU
+Café Restaurant Le Soleil de Châtillon;JU
 Hôtel du Soleil;JU
 Hôtel du Soleil;JU
 Restaurant Bären;LU
@@ -587,7 +587,7 @@ Neptun Seehotel Sternen;LU
 Venus Seehotel Sternen;LU
 Sternen Hotel;LU
 Hotel & Restaurant Stern Luzern;LU
-Restaurant l'Angélus;NE
+Restaurant l'Angelus;NE
 du Cerf;NE
 Café du Cerf;NE
 La T'Chaux;NE
@@ -605,13 +605,13 @@ Au Lion d'Or;NE
 Crêperie Le Lion d'Or;NE
 Crêperie Le Lion d'Or;NE
 Restaurant de l'Ours;NE
-Hôtel Restaurant de la Poste - Guenat;NE
+Hôtel Restaurant de la Poste Guenat;NE
 Restaurant de la Poste Da Costa Maria;NE
-Restaurant de la Poste, Gutaj & Cie;NE
+Restaurant de la Poste, Gutaj und Cie;NE
 Hôtel Restaurant de la Poste ;NE
 Le Manoir de la Poste;NE
 Brasserie de l'Ancienne Poste;NE
-Hotel -Restaurant du Soleil;NE
+Hotel Restaurant du Soleil;NE
 Trattoria du Soleil;NE
 Engel;NW
 Engel;NW
@@ -791,7 +791,7 @@ Restaurant Rössli;SO
 Gasthof zum weissen Rössli;SO
 Gasthof Rössli Luterbach;SO
 Gasthof zum Rössli;SO
-Hong Huang (Rössli);SO
+Hong Huang Rössli;SO
 Rössli;SO
 Rössli;SO
 Restaurant Sonne;SO
@@ -826,7 +826,7 @@ Restaurant Hirschen;SZ
 Restaurant Hirschen;SZ
 Restaurant Hirschen;SZ
 Gasthaus Hirschen;SZ
-Hirschen Backpacker-Hotel & Pub;SZ
+Hirschen Backpacker-Hotel und Pub;SZ
 Hirschen;SZ
 Hirschen;SZ
 zum Hirschen;SZ
@@ -836,7 +836,7 @@ Restaurant Kreuz;SZ
 Gasthaus Kreuz;SZ
 Gasthaus Kreuz;SZ
 Kreuz Ibach;SZ
-Kreuz & Quer Schwyz GmbH;SZ
+Kreuz und Quer Schwyz GmbH;SZ
 Kreuzplatz;SZ
 Hotel Restaurant Linde;SZ
 Linde;SZ
@@ -845,7 +845,7 @@ Restaurant Löwen;SZ
 Restaurant zum Löwen;SZ
 Wirtschaft zum Löwen;SZ
 Löwen;SZ
-Restaurant Pizzeria „Zur alten Post“;SZ
+Restaurant Pizzeria Zur alten Post;SZ
 Hotel Restaurant Pizzeria Post;SZ
 Gasthaus Post;SZ
 Post Pizzeria;SZ
@@ -856,7 +856,7 @@ Hotel-Restaurant Rössli;SZ
 Restaurant Rössli;SZ
 Restaurant Rossli;SZ
 Restaurant Rössli;SZ
-Joe's Rössli Restaurant;SZ
+Joes Rössli Restaurant;SZ
 Wysses Rössli;SZ
 Gasthof Rössli;SZ
 Weisses Rössli;SZ
@@ -915,10 +915,10 @@ Restaurant Löwen;TG
 Restaurant Löwen;TG
 Restaurant Löwen;TG
 Restaurant Löwen Nussbaumen;TG
-Restaurant, Bäckerei-Konditorei z. Löwen;TG
+Restaurant, Bäckerei-Konditorei z Löwen;TG
 Landgasthof Löwen Sulgen AG;TG
 Braxxas GmbH Restaurant Post;TG
-Gasthof / Hotel Post;TG
+Gasthof Hotel Post;TG
 Alte Post Mettlen GmbH;TG
 Bahnhof Post;TG
 Restaurant zur Post;TG
@@ -930,7 +930,7 @@ Restaurant Pöstli;TG
 Restaurant Sonne;TG
 Gasthaus Sonne;TG
 Sonne;TG
-Restaurant Bar- Bistro Sonne;TG
+Restaurant Bar Bistro Sonne;TG
 Restaurant Landgasthof Sonne;TG
 Gasthaus Sonne;TG
 Il ristorantino Sonne Islikon GmbH;TG
@@ -955,7 +955,7 @@ Bistro Sternen;TG
 Sternen;TG
 Sternen;TG
 Sternen;TG
-dell'Angelo Albergo;TI
+dell Angelo Albergo;TI
 Osteria Cervo;TI
 Grotto Osteria Croce;TI
 Osteria Croce Federale;TI
@@ -991,26 +991,26 @@ Bären Restaurant Rooms;UR
 Bären;UR
 Restaurant Bärenclub;UR
 Hotel Restaurant Hirschen;UR
-Joe Epp, Restaurant Hirschen;UR
+Joe Epp Restaurant Hirschen;UR
 Kreuz;UR
 Restaurant Linde;UR
 Zum Schwarzen Lowen;UR
 Drei Könige und Post;UR
-Restaurant Alten Post M.Pajkovic;UR
+Restaurant Alten Post M Pajkovic;UR
 Restaurant Alte Post;UR
 Restaurant Alte Post;UR
 Hotel Stern & Post;UR
 Restaurant Posthaus;UR
 Postillion;UR
 Restaurant Rössli;UR
-Rössli- Haus der Gäst;UR
+Rössli Haus der Gäst;UR
 Hotel Sonne;UR
 Gasthaus Sonne;UR
 Hotel Restaurant Sternen;UR
 Hostellerie Sternen;UR
 Sternen;UR
 zum Sternen;UR
-Hotel Stern & Post;UR
+Hotel Stern und Post;UR
 Crêperie L'Ange Bleu;VD
 Pizza des Anges Sàrl;VD
 Angel's Bar;VD
@@ -1065,7 +1065,7 @@ Restaurant de l'Ours;VD
 Restaurant de l'Ours Sàrl;VD
 Brasserie de l'Ours;VD
 Hôtel de l'Ours;VD
-SV (Schweiz) AG Restaurant La Poste Daylis;
+SV Schweiz AG Restaurant La Poste Daylis;
 Hôtel Restaurant de la Poste;
 Café Restaurant de la Poste;
 Restaurant de la poste;
@@ -1126,7 +1126,7 @@ du Soleil;VS
 Le Soleil de Dugny;VS
 Portes du Soleil;VS
 Soleil;VS
-Télé Champéry-Crosets Portes du Soleil SA (TCCPS);VS
+Télé Champéry-Crosets Portes du Soleil SA TCCPS;VS
 Centre Soleil;VS
 Restaurant zur Sonne;VS
 Sonne;VS
@@ -1201,14 +1201,14 @@ zur Linde;ZH
 Linde Weiningen;ZH
 Linde;ZH
 Zur Linde;ZH
-Linde Bakery & Bistro;ZH
+Linde Bakery und Bistro;ZH
 Linde;ZH
 Gasthof Loewen;ZH
 HOTEL RESTAURANT LÖWEN;ZH
 Restaurant Löwen;ZH
 Restaurant Löwen Andelfingen GmbH;ZH
 Restaurant Löwen;ZH
-Restaurant Löwen 'u Pabu';ZH
+Restaurant Löwen u Pabu;ZH
 Restaurant Löwen;ZH
 Pizzeria Restaurant Löwen;ZH
 Restaurant Lowen;ZH
@@ -1249,7 +1249,7 @@ Restaurant Sternen;ZH
 Restaurant Sternen;ZH
 Restaurant zum Sternen;ZH
 Restaurant Gasthaus Sternen;ZH
-Sternen Grill + Sternen Grill Restaurant im oberen Stock;ZH
+Sternen Grill und Sternen Grill Restaurant im oberen Stock;ZH
 Restaurant Pizzeria Sternen;ZH
 STERNEN RESTAURANT & BAR;ZH
 Sternen Oerlikon;ZH
