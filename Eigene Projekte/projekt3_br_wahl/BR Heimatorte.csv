@@ -1,0 +1,155 @@
+ID,Name,Kanton,Eintritt BR,Austritt BR,Heimatort,ID Heimatort,Gewählt Wahlgang,Gewählt Stimmen,Absolutes Mehr,Stimmen ü aMehr,Partei
+1,"Ochsenbein, Ulrich",BE,16.11.1848,31.12.1854,Nidau,0743,1,92,67,25,FDP
+2,"Naeff, Wilhelm Matthias",SG,16.11.1848,31.12.1875,Altstätten,3251,1,72,65,7,FDP
+3,"Munzinger, Martin J.",SO,16.11.1848,06.02.1855,Olten,2581,2,71,67,4,FDP
+4,"Furrer, Jonas",ZH,16.11.1848,25.07.1861,Winterthur,0230,2,85,67,18,FDP
+5,"Frey-Herosé, Friedrich",AG,16.11.1848,31.12.1866,Aarau,4001,2,70,66,4,FDP
+6,"Franscini, Stefano",TI,16.11.1848,19.07.1857,Bodio,5064,3,68,67,1,FDP
+7,"Druey, Daniel-Henri",VD,16.11.1848,29.03.1855,Faoug,5458,1,76,67,9,FDP
+8,"Stämpfli, Jakob",BE,06.12.1854,31.12.1863,Schwanden(Glarus Süd),1631,6,88,73,15,FDP
+9,"Fornerod, Constant",VD,11.07.1855,31.10.1867,Avenches,5451,3,84,75,9,FDP
+10,"Knüsel , Melchior Josef Martin",LU,14.07.1855,31.12.1875,Luzern,1061,2,94,72,22,FDP
+11,"Pioda, Giovanni Battista",TI,30.07.1857,26.01.1864,Locarno,5113,1,64,64,0,FDP
+12,"Dubs, Jakob",ZH,30.07.1861,28.05.1872,Affoltern a A.,0002,1,90,63,27,FDP
+13,"Schenk, Karl",BE,12.12.1863,18.07.1895,Signau,0907,1,84,83,1,FDP
+14,"Challet-Venel, Jean-Jacques",GE,12.07.1864,31.12.1872,Genève,6621,6,86,83,3,FDP
+15,"Welti, Emil",AG,08.12.1866,31.12.1891,Zurzach,4323,1,103,80,23,FDP
+16,"Ruffy, Victor",VD,06.12.1867,29.12.1869,Lutry,5606,1,120,78,42,FDP
+17,"Ceresole, Paul",VD,01.02.1870,31.12.1875,Vevey,5890,2,83,78,5,FDP
+18,"Scherer, Johann Jakob",ZH,12.07.1872,23.12.1878,Winterthur,0230,4,91,74,17,FDP
+19,"Borel, Eugène",NE,07.12.1872,31.12.1875,Neuchâtel,6458,2,90,85,5,FDP
+20,"Heer, Joachim",GL,10.12.1875,31.12.1878,Glarus,1632,1,91,86,5,FDP
+21,"Hammer, Bernhard",SO,10.12.1875,31.12.1890,Olten,2581,5,85,85,0,FDP
+22,"Anderwert , Fridolin",TG,10.12.1875,25.12.1880,Emmishofen (Kreuzlingen),4671,3,91,86,5,FDP
+23,"Droz, Numa",NE,18.12.1875,31.12.1892,La Chaux-de-Fonds,6421,2,85,85,0,FDP
+24,"Bavier , Simeon",GR,10.12.1878,05.01.1883,Chur,3901,1,108,87,21,FDP
+25,"Hertenstein, Wilhelm",ZH,21.03.1879,27.11.1888,Kyburg (Illnau-Effretikon),0296,1,92,84,8,FDP
+26,"Ruchonnet , Antoine Louis John",VD,03.03.1881,14.09.1893,St.-Saphorin,5610,3,87,84,3,FDP
+27,"Deucher, Adolf",TG,10.04.1883,10.07.1912,Steckborn,4864,1,95,88,7,FDP
+28,"Hauser, Walter",ZH,13.12.1888,22.10.1902,Wädenswil,0142,1,117,88,29,FDP
+28,"Hauser, Walter",ZH,13.12.1888,22.10.1902,St.Gallen,3203,1,117,88,29,FDP
+29,"Frey, Emil",BL,11.12.1890,31.03.1897,Münchenstein,2769,1,94,91,3,FDP
+30,"Zemp, Joseph",LU,17.12.1891,17.06.1908,Entlebuch,1002,1,129,78,51,CVP
+31,"Lachenal, Adrien",GE,15.12.1892,31.12.1899,Genève,6621,1,139,85,54,FDP
+32,"Ruffy, Eugène",VD,14.12.1893,31.10.1899,Lutry,5606,1,87,75,12,FDP
+33,"Müller, Eduard",BE,16.08.1895,09.11.1919,Nidau,0743,1,136,83,53,FDP
+34,"Brenner, Ernst",BS,25.03.1897,11.03.1911,Basel,1200,4,96,90,6,FDP
+35,"Ruchet, Marc-Emile",VD,14.12.1899,13.07.1912,Bex,5402,1,124,84,40,FDP
+36,"Comtesse , Robert",NE,14.12.1899,04.03.1912,La Sagne,6423,1,148,89,59,FDP
+36,"Comtesse , Robert",NE,14.12.1899,04.03.1912,Cernier(Val-de-Ruz),6487,1,148,89,59,FDP
+37,"Forrer, Ludwig",ZH,11.12.1902,31.12.1917,Bäretswil,0111,1,113,100,13,FDP
+37,"Forrer, Ludwig",ZH,11.12.1902,31.12.1917,Winterthur,0230,1,113,100,13,FDP
+38,"Schobinger, Josef Anton",LU,17.06.1908,27.11.1911,Luzern,1061,1,141,90,51,CVP
+39,"Hoffmann, Arthur",SG,04.04.1911,19.06.1917,St. Gallen,3203,1,186,97,89,FDP
+40,"Motta, Giuseppe",TI,14.12.1911,23.01.1940,Airolo,5061,1,184,100,84,CVP
+41,"Perrier, Louis",NE,12.03.1912,16.05.1913,Neuchâtel,6458,1,160,97,63,FDP
+41,"Perrier, Louis",NE,12.03.1912,16.05.1913,Ste-Croix,5568,1,160,97,63,FDP
+42,"Schulthess, Edmund",AG,17.07.1912,15.04.1935,Brugg,4095,1,128,89,39,FDP
+43,"Decoppet, Camille",VD,17.07.1912,31.12.1919,Suscevaz,5930,1,173,93,80,FDP
+43,"Decoppet, Camille",VD,17.07.1912,31.12.1919,Yverdon,5938,1,173,93,80,FDP
+44,"Calonder, Felix-Louis",GR,12.06.1913,31.12.1919,Trin,3734,2,151,100,51,FDP
+45,"Ador, Gustave",GE,26.06.1917,31.12.1919,Genève,6621,1,168,97,71,LIBERALE
+46,"Haab, Robert",ZH,13.12.1917,31.12.1929,Wädenswil,0142,1,163,105,58,FDP
+47,"Scheurer, Karl",BE,11.12.1919,14.11.1929,Erlach,0492,1,155,97,58,FDP
+48,"Musy, Jean-Marie",FR,11.12.1919,30.04.1934,Albeuve(Haut-Intyamon),2121,1,144,105,39,CVP
+49,"Chuard, Ernest",VD,11.12.1919,31.12.1928,Corcelles s. Payerne,5816,5,159,109,50,FDP
+50,"Häberlin, Heinrich",TG,12.02.1920,30.04.1934,Bissegg (Amlikon-Bissegg),4881,1,124,80,44,FDP
+50,"Häberlin, Heinrich",TG,12.02.1920,30.04.1934,Frauenfeld,4566,1,124,80,44,FDP
+51,"Pilet-Golaz, Marcel",VD,13.12.1928,31.12.1944,Château-d'Oex,5841,1,151,113,38,FDP
+52,"Minger, Rudolf",BE,12.12.1929,31.12.1940,Schüpfen,0311,1,148,117,31,SVP
+52,"Minger, Rudolf",BE,12.12.1929,31.12.1940,Mülchi (Fraubrunnen),0538,1,148,117,31,SVP
+53,"Meyer, Albert",ZH,12.12.1929,31.12.1938,Fällanden,0193,4,100,100,0,FDP
+53,"Meyer, Albert",ZH,12.12.1929,31.12.1938,Zürich,0261,4,100,100,0,FDP
+54,"Baumann, Johannes",AR,22.03.1934,31.12.1940,Herisau,3001,3,141,108,33,FDP
+55,"Etter, Philipp",ZG,28.03.1934,31.12.1959,Menzingen,1704,1,115,104,11,CVP
+56,"Obrecht, Hermann",SO,04.04.1935,31.07.1940,Grenchen,2546,1,125,103,22,FDP
+57,"Wetter, Ernst",ZH,15.12.1938,31.12.1943,Winterthur,0230,1,117,108,9,FDP
+58,"Celio, Enrico",TI,22.02.1940,15.10.1950,Ambri (Quinto),5079,2,118,112,6,CVP
+59,"Stampfli, Walther",SO,18.07.1940,31.12.1947,Aeschi,0562,1,142,109,33,FDP
+60,"von Steiger, Eduard",BE,10.12.1940,31.12.1951,Bern,0351,1,130,114,16,SVP
+60,"von Steiger, Eduard",BE,10.12.1940,31.12.1951,Langnau i. E.,0902,1,130,114,16,SVP
+61,"Kobelt , Karl",SG,10.12.1940,31.12.1954,Marbach,3253,5,117,108,9,FDP
+62,"Nobs, Ernst",ZH,15.12.1943,31.12.1951,Seedorf,1214,1,122,91,31,SP
+62,"Nobs, Ernst",ZH,15.12.1943,31.12.1951,Grindelwald,0576,1,122,91,31,SP
+62,"Nobs, Ernst",ZH,15.12.1943,31.12.1951,Zürich,0261,1,122,91,31,SP
+63,"Petitpierre, Max",NE,14.12.1944,30.06.1961,Couvet(Val-de-Travers),6512,1,122,114,8,FDP
+63,"Petitpierre, Max",NE,14.12.1944,30.06.1961,Neuchâtel,6458,1,122,114,8,FDP
+64,"Rubattel, Rodolphe",VD,11.12.1947,31.12.1954,Villarzel,5830,1,138,116,22,FDP
+65,"Escher, Josef",VS,14.09.1950,09.12.1954,Simplon-Dorf,6009,1,165,99,66,CVP
+66,"Weber, Max",ZH,13.12.1951,31.01.1954,Zürich,0261,1,133,106,27,SP
+67,"Feldmann, Markus",BE,13.12.1951,03.11.1958,Glarus,1632,1,184,102,82,SVP
+67,"Feldmann, Markus",BE,13.12.1951,03.11.1958,Bern,0351,1,184,102,82,SVP
+68,"Streuli, Hans",ZH,22.12.1953,31.12.1959,Wädenswil,0142,2,113,109,4,FDP
+68,"Streuli, Hans",ZH,22.12.1953,31.12.1959,Richterswil,0138,2,113,109,4,FDP
+69,"Lepori, Giuseppe",TI,16.12.1954,31.12.1959,Lopagno (Capriasca),5226,2,128,117,11,CVP
+70,"Holenstein, Thomas",SG,16.12.1954,31.12.1959,Bütschwil (Bütschwil-Ganterschwil),3395,1,182,108,74,CVP
+71,"Chaudet, Paul",VD,16.12.1954,31.12.1966,Corsier s. Vevey,5884,1,135,110,25,FDP
+72,"Wahlen, Friedrich Traugott",BE,11.12.1958,31.12.1965,Trimstein(Münsigen),0616,2,125,116,9,SVP
+72,"Wahlen, Friedrich Traugott",BE,11.12.1958,31.12.1965,Bern,0351,2,125,116,9,SVP
+73,"von Moos, Ludwig",OW,17.12.1959,31.12.1971,Sachseln,1406,1,148,114,34,CVP
+74,"Tschudi, Hans-Peter",BS,17.12.1959,31.12.1973,Schwanden(Glarus Süd),1631,3,129,116,13,SP
+74,"Tschudi, Hans-Peter",BS,17.12.1959,31.12.1973,Basel,1200,3,129,116,13,SP
+75,"Spühler, Willy",ZH,17.12.1959,31.01.1970,Zürich,0261,1,149,114,35,SP
+76,"Bourgknecht, Jean",FR,17.12.1959,30.09.1962,Fribourg,2196,1,134,117,17,CVP
+77,"Schaffner, Hans",AG,15.06.1961,31.12.1969,Gränichen,4006,1,175,108,67,FDP
+78,"Bonvin, Roger",VS,27.09.1962,31.12.1973,Icogne-Lens,6239,5,142,114,28,CVP
+78,"Bonvin, Roger",VS,27.09.1962,31.12.1973,Chermignon (Crans-Montana),6253,5,142,114,28,CVP
+78,"Bonvin, Roger",VS,27.09.1962,31.12.1973,Nendaz,6024,5,142,114,28,CVP
+79,"Gnägi, Rudolf",BE,08.12.1965,31.12.1979,Schwadernau,0748,1,176,108,68,SVP
+80,"Celio, Nello",TI,14.12.1966,31.12.1973,Quinto,5079,1,136,117,19,FDP
+81,"Graber, Pierre",NE,10.12.1969,31.01.1978,Langenbruck,2888,1,188,111,77,SP
+81,"Graber, Pierre",NE,10.12.1969,31.01.1978,La Chaux-de-Fonds,6421,1,188,111,77,SP
+82,"Brugger, Ernst",ZH,10.12.1969,31.01.1978,Gossau,3443,1,160,119,41,FDP
+82,"Brugger, Ernst",ZH,10.12.1969,31.01.1978,Möriken (Möriken-Wildegg),4203,1,160,119,41,FDP
+83,"Furgler, Kurt",SG,08.12.1971,31.12.1986,"Pfäfers, Valens",3294,1,125,115,10,CVP
+84,"Ritschard, Willi",SO,05.12.1973,16.10.1983,Oberhofen,0934,1,123,121,2,SP
+84,"Ritschard, Willi",SO,05.12.1973,16.10.1983,Luterbach,2527,1,123,121,2,SP
+85,"Hürlimann, Hans",ZG,05.12.1973,31.12.1982,Walchwil,1710,1,132,115,17,CVP
+86,"Chevallaz, Georges-André",VD,05.12.1973,31.12.1983,Montherod,5432,1,137,121,16,FDP
+87,"Honegger, Fritz",ZH,07.12.1977,31.12.1982,Fischenthal,0114,1,173,105,68,FDP
+87,"Honegger, Fritz",ZH,07.12.1977,31.12.1982,Rüschlikon,0139,1,173,105,68,FDP
+88,"Aubert, Pierre",NE,07.12.1977,31.12.1987,Savagnier(Val-de-Ruz),6487,1,190,117,73,SP
+89,"Schlumpf , Leon",GR,05.12.1979,31.12.1987,Felsberg,3731,1,159,121,38,SVP
+89,"Schlumpf , Leon",GR,05.12.1979,31.12.1987,Mönchaltdorf,0196,1,159,121,38,SVP
+90,"Friedrich, Rudolf",ZH,08.12.1982,20.10.1984,Winterthur,0230,1,130,123,7,FDP
+91,"Egli, Alphons",LU,08.12.1982,31.12.1986,Entlebuch,1002,1,125,123,2,CVP
+91,"Egli, Alphons",LU,08.12.1982,31.12.1986,Luzern,1061,1,125,123,2,CVP
+92,"Stich, Otto",SO,07.12.1983,31.10.1995,Kleinlützel,2619,1,124,123,1,SP
+93,"Delamuraz, Jean-Pascal",VD,07.12.1983,31.03.1998,Longirod,5429,1,130,121,9,FDP
+94,"Kopp, Elisabeth",ZH,02.10.1984,12.01.1989,Niederönz,0982,1,124,121,3,FDP
+94,"Kopp, Elisabeth",ZH,02.10.1984,12.01.1989,Luzern,1061,1,124,121,3,FDP
+94,"Kopp, Elisabeth",ZH,02.10.1984,12.01.1989,Zumikon,0160,1,124,121,3,FDP
+95,"Koller, Arnold",AI,10.12.1986,30.04.1999,Gossau,3443,1,180,122,58,CVP
+95,"Koller, Arnold",AI,10.12.1986,30.04.1999,Oberbüren,3424,1,180,122,58,CVP
+96,"Cotti , Flavio",TI,10.12.1986,30.04.1999,Prato Sornico (Lavizzara),5323,1,163,120,43,CVP
+97,"Ogi , Adolf",BE,09.12.1987,31.12.2000,Kandersteg,0565,2,132,121,11,SVP
+98,"Felber, René",NE,09.12.1987,31.03.1993,Kottwil(Ettiswil),1128,1,152,115,37,SP
+98,"Felber, René",NE,09.12.1987,31.03.1993,Le Locle,6436,1,152,115,37,SP
+99,"Villiger, Kaspar",LU,01.02.1989,31.12.2003,Sins,4239,1,124,118,6,FDP
+99,"Villiger, Kaspar",LU,01.02.1989,31.12.2003,Pfeffikon(Rickenbach),1097,1,124,118,6,FDP
+100,"Dreifuss, Ruth",GE,10.03.1993,31.12.2002,Endingen,4305,3,144,96,48,SP
+101,"Leuenberger, Moritz",ZH,27.09.1995,31.10.2010,Rohrbach,0338,5,124,106,18,SP
+102,"Couchepin, Pascal",VS,11.03.1998,31.10.2009,Martigny,6131,5,146,120,26,FDP
+103,"Metzler-Arnold, Ruth",AI,11.03.1999,31.12.2003,Willisau-Stadt,1151,4,126,123,3,CVP
+103,"Metzler-Arnold, Ruth",AI,11.03.1999,31.12.2003,Balgach,3232,4,126,123,3,CVP
+104,"Deiss, Joseph",FR,11.03.1999,31.07.2006,Zeihen,4183,6,120,120,0,CVP
+105,"Schmid, Samuel",BE,06.12.2000,31.12.2008,Attiswil,0971,6,121,117,4,BDP
+106,"Calmy-Rey, Micheline",GE,04.12.2002,31.12.2011,Chermignon(Crans-Montana),6253,5,131,100,31,SP
+107,"Merz, Hans-Rudolf",AR,10.12.2003,31.10.2010,Beinwil a S.,4131,2,127,120,7,FDP
+108,"Blocher, Christoph",ZH,10.12.2003,31.12.2007,Meilen,0156,3,121,119,2,SVP
+108,"Blocher, Christoph",ZH,10.12.2003,31.12.2007,Zürich,0261,3,121,119,2,SVP
+108,"Blocher, Christoph",ZH,10.12.2003,31.12.2007,Schattenhalb,0786,3,121,119,2,SVP
+109,"Leuthard, Doris",AG,14.06.2006,,Merenschwand,4234,1,133,118,15,CVP
+109,"Leuthard, Doris",AG,14.06.2006,,Sarnen,1407,1,133,118,15,CVP
+110,"Widmer-Schlumpf, Eveline",GR,12.12.2007,31.12.2015,Felsberg,3731,2,125,122,3,BDP
+110,"Widmer-Schlumpf, Eveline",GR,12.12.2007,31.12.2015,Mönchaltdorf,0196,2,125,122,3,BDP
+111,"Maurer, Ueli",ZH,10.12.2008,,Adelboden,0561,3,122,122,0,SVP
+111,"Maurer, Ueli",ZH,10.12.2008,,Hinwil,0117,3,122,122,0,SVP
+112,"Burkhalter, Didier",NE,16.09.2009,31.10.2017,Neuchâtel,6458,4,129,120,9,FDP
+112,"Burkhalter, Didier",NE,16.09.2009,31.10.2017,Sumiswald,0957,4,129,120,9,FDP
+113,"Sommaruga, Simonetta",BE,22.09.2010,,Lugano,5192,4,159,121,38,SP
+113,"Sommaruga, Simonetta",BE,22.09.2010,,Eggiwil,0901,4,159,121,38,SP
+114,"Schneider-Ammann, Johann N.",BE,22.09.2010,,Hasle bei Burgdorf,0406,5,144,119,25,FDP
+115,"Berset, Alain",FR,14.12.2011,,Misery-Courtion,2272,2,126,123,3,SP
+116,"Parmelin, Guy",VD,09.12.2015,,Bursins,5853,3,138,119,19,SVP
+117,"Cassis, Ignazio",TI,20.09.2017,,Sessa,5222,2,125,123,2,FDP
