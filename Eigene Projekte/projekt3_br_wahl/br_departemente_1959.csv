@@ -1,0 +1,444 @@
+Jahr,ID,Name,Partei,Departement,Dep kurz,Partei
+2018,115,"Berset, Alain",FR,Eidgenössisches Departement des Innern ,EDI,SP
+2018,117,"Cassis, Ignazio",TI,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,FDP
+2018,109,"Leuthard, Doris",AG,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,CVP
+2018,116,"Parmelin, Guy",VD,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2018,114,"Schneider-Ammann, Johann N.",BE,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung ",WBF,FDP
+2018,111,"Maurer, Ueli",ZH,Eidgenössisches Finanzdepartement ,EFD,SVP
+2018,113,"Sommaruga, Simonetta",BE,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SP
+2017,115,"Berset, Alain",FR,Eidgenössisches Departement des Innern ,EDI,SP
+2017,117,"Cassis, Ignazio",TI,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,FDP
+2017,112,"Burkhalter, Didier",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,FDP
+2017,109,"Leuthard, Doris",AG,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,CVP
+2017,116,"Parmelin, Guy",VD,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2017,114,"Schneider-Ammann, Johann N.",BE,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung ",WBF,FDP
+2017,111,"Maurer, Ueli",ZH,Eidgenössisches Finanzdepartement ,EFD,SVP
+2017,113,"Sommaruga, Simonetta",BE,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SP
+2016,115,"Berset, Alain",FR,Eidgenössisches Departement des Innern ,EDI,SP
+2016,112,"Burkhalter, Didier",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,FDP
+2016,109,"Leuthard, Doris",AG,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,CVP
+2016,116,"Parmelin, Guy",VD,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2016,114,"Schneider-Ammann, Johann N.",BE,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung ",WBF,FDP
+2016,111,"Maurer, Ueli",ZH,Eidgenössisches Finanzdepartement ,EFD,SVP
+2016,113,"Sommaruga, Simonetta",BE,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SP
+2015,115,"Berset, Alain",FR,Eidgenössisches Departement des Innern ,EDI,SP
+2015,112,"Burkhalter, Didier",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,FDP
+2015,109,"Leuthard, Doris",AG,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,CVP
+2015,111,"Maurer, Ueli",ZH,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2015,114,"Schneider-Ammann, Johann N.",BE,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung ",WBF,FDP
+2015,110,"Widmer-Schlumpf, Eveline",GR,Eidgenössisches Finanzdepartement ,EFD,BDP
+2015,113,"Sommaruga, Simonetta",BE,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SP
+2014,115,"Berset, Alain",FR,Eidgenössisches Departement des Innern ,EDI,SP
+2014,112,"Burkhalter, Didier",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,FDP
+2014,109,"Leuthard, Doris",AG,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,CVP
+2014,111,"Maurer, Ueli",ZH,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2014,114,"Schneider-Ammann, Johann N.",BE,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung ",WBF,FDP
+2014,110,"Widmer-Schlumpf, Eveline",GR,Eidgenössisches Finanzdepartement ,EFD,BDP
+2014,113,"Sommaruga, Simonetta",BE,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SP
+2013,115,"Berset, Alain",FR,Eidgenössisches Departement des Innern ,EDI,SP
+2013,112,"Burkhalter, Didier",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,FDP
+2013,109,"Leuthard, Doris",AG,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,CVP
+2013,111,"Maurer, Ueli",ZH,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2013,114,"Schneider-Ammann, Johann N.",BE,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung ",WBF,FDP
+2013,110,"Widmer-Schlumpf, Eveline",GR,Eidgenössisches Finanzdepartement ,EFD,BDP
+2013,113,"Sommaruga, Simonetta",BE,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SP
+2012,115,"Berset, Alain",FR,Eidgenössisches Departement des Innern ,EDI,SP
+2012,112,"Burkhalter, Didier",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,FDP
+2012,109,"Leuthard, Doris",AG,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,CVP
+2012,111,"Maurer, Ueli",ZH,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2012,110,"Widmer-Schlumpf, Eveline",GR,Eidgenössisches Finanzdepartement ,EFD,BDP
+2012,113,"Sommaruga, Simonetta",BE,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SP
+2012,114,"Schneider-Ammann, Johann N.",BE,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+2011,112,"Burkhalter, Didier",NE,Eidgenössisches Departement des Innern ,EDI,FDP
+2011,106,"Calmy-Rey, Micheline",GE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+2011,109,"Leuthard, Doris",AG,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,CVP
+2011,111,"Maurer, Ueli",ZH,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2011,110,"Widmer-Schlumpf, Eveline",GR,Eidgenössisches Finanzdepartement ,EFD,BDP
+2011,113,"Sommaruga, Simonetta",BE,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SP
+2011,114,"Schneider-Ammann, Johann N.",BE,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+2010,112,"Burkhalter, Didier",NE,Eidgenössisches Departement des Innern ,EDI,FDP
+2010,106,"Calmy-Rey, Micheline",GE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+2010,109,"Leuthard, Doris",AG,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,CVP
+2010,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2010,111,"Maurer, Ueli",ZH,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2010,110,"Widmer-Schlumpf, Eveline",GR,Eidgenössisches Finanzdepartement ,EFD,BDP
+2010,107,"Merz, Hans-Rudolf",AR,Eidgenössisches Finanzdepartement ,EFD,FDP
+2010,113,"Sommaruga, Simonetta",BE,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SP
+2010,110,"Widmer-Schlumpf, Eveline",GR,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,BDP
+2010,114,"Schneider-Ammann, Johann N.",BE,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+2010,109,"Leuthard, Doris",AG,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+2009,112,"Burkhalter, Didier",NE,Eidgenössisches Departement des Innern ,EDI,FDP
+2009,102,"Couchepin, Pascal",VS,Eidgenössisches Departement des Innern ,EDI,FDP
+2009,106,"Calmy-Rey, Micheline",GE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+2009,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2009,111,"Maurer, Ueli",ZH,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2009,107,"Merz, Hans-Rudolf",AR,Eidgenössisches Finanzdepartement ,EFD,FDP
+2009,110,"Widmer-Schlumpf, Eveline",GR,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,BDP
+2009,109,"Leuthard, Doris",AG,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+2008,102,"Couchepin, Pascal",VS,Eidgenössisches Departement des Innern ,EDI,FDP
+2008,106,"Calmy-Rey, Micheline",GE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+2008,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2008,105,"Schmid, Samuel",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,BDP
+2008,107,"Merz, Hans-Rudolf",AR,Eidgenössisches Finanzdepartement ,EFD,FDP
+2008,110,"Widmer-Schlumpf, Eveline",GR,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,BDP
+2008,109,"Leuthard, Doris",AG,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+2007,102,"Couchepin, Pascal",VS,Eidgenössisches Departement des Innern ,EDI,FDP
+2007,106,"Calmy-Rey, Micheline",GE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+2007,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2007,105,"Schmid, Samuel",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2007,107,"Merz, Hans-Rudolf",AR,Eidgenössisches Finanzdepartement ,EFD,FDP
+2007,108,"Blocher, Christoph",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SVP
+2007,109,"Leuthard, Doris",AG,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+2006,102,"Couchepin, Pascal",VS,Eidgenössisches Departement des Innern ,EDI,FDP
+2006,106,"Calmy-Rey, Micheline",GE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+2006,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2006,105,"Schmid, Samuel",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2006,107,"Merz, Hans-Rudolf",AR,Eidgenössisches Finanzdepartement ,EFD,FDP
+2006,108,"Blocher, Christoph",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SVP
+2006,109,"Leuthard, Doris",AG,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+2006,104,"Deiss, Joseph",FR,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+2005,102,"Couchepin, Pascal",VS,Eidgenössisches Departement des Innern ,EDI,FDP
+2005,106,"Calmy-Rey, Micheline",GE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+2005,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2005,105,"Schmid, Samuel",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2005,107,"Merz, Hans-Rudolf",AR,Eidgenössisches Finanzdepartement ,EFD,FDP
+2005,108,"Blocher, Christoph",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SVP
+2005,104,"Deiss, Joseph",FR,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+2004,102,"Couchepin, Pascal",VS,Eidgenössisches Departement des Innern ,EDI,FDP
+2004,106,"Calmy-Rey, Micheline",GE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+2004,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2004,105,"Schmid, Samuel",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2004,107,"Merz, Hans-Rudolf",AR,Eidgenössisches Finanzdepartement ,EFD,FDP
+2004,108,"Blocher, Christoph",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,SVP
+2004,104,"Deiss, Joseph",FR,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+2003,102,"Couchepin, Pascal",VS,Eidgenössisches Departement des Innern ,EDI,FDP
+2003,106,"Calmy-Rey, Micheline",GE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+2003,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2003,105,"Schmid, Samuel",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2003,099,"Villiger, Kaspar",LU,Eidgenössisches Finanzdepartement ,EFD,FDP
+2003,103,"Metzler-Arnold, Ruth",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+2003,104,"Deiss, Joseph",FR,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+2002,100,"Dreifuss, Ruth",GE,Eidgenössisches Departement des Innern ,EDI,SP
+2002,104,"Deiss, Joseph",FR,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+2002,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2002,105,"Schmid, Samuel",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2002,099,"Villiger, Kaspar",LU,Eidgenössisches Finanzdepartement ,EFD,FDP
+2002,103,"Metzler-Arnold, Ruth",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+2002,102,"Couchepin, Pascal",VS,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+2001,100,"Dreifuss, Ruth",GE,Eidgenössisches Departement des Innern ,EDI,SP
+2001,104,"Deiss, Joseph",FR,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+2001,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2001,105,"Schmid, Samuel",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2001,099,"Villiger, Kaspar",LU,Eidgenössisches Finanzdepartement ,EFD,FDP
+2001,103,"Metzler-Arnold, Ruth",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+2001,102,"Couchepin, Pascal",VS,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+2000,100,"Dreifuss, Ruth",GE,Eidgenössisches Departement des Innern ,EDI,SP
+2000,104,"Deiss, Joseph",FR,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+2000,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+2000,097,"Ogi , Adolf",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+2000,099,"Villiger, Kaspar",LU,Eidgenössisches Finanzdepartement ,EFD,FDP
+2000,103,"Metzler-Arnold, Ruth",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+2000,102,"Couchepin, Pascal",VS,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1999,100,"Dreifuss, Ruth",GE,Eidgenössisches Departement des Innern ,EDI,SP
+1999,104,"Deiss, Joseph",FR,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+1999,096,"Cotti , Flavio",TI,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+1999,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+1999,097,"Ogi , Adolf",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+1999,099,"Villiger, Kaspar",LU,Eidgenössisches Finanzdepartement ,EFD,FDP
+1999,103,"Metzler-Arnold, Ruth",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1999,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1999,102,"Couchepin, Pascal",VS,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1998,100,"Dreifuss, Ruth",GE,Eidgenössisches Departement des Innern ,EDI,SP
+1998,096,"Cotti , Flavio",TI,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+1998,101,"Leuenberger, Moritz",ZH,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",UVEK,SP
+1998,097,"Ogi , Adolf",BE,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport ",VBS,SVP
+1998,099,"Villiger, Kaspar",LU,Eidgenössisches Finanzdepartement ,EFD,FDP
+1998,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1998,102,"Couchepin, Pascal",VS,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1998,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1997,100,"Dreifuss, Ruth",GE,Eidgenössisches Departement des Innern ,EDI,SP
+1997,096,"Cotti , Flavio",TI,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+1997,099,"Villiger, Kaspar",LU,Eidgenössisches Finanzdepartement ,EFD,FDP
+1997,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1997,097,"Ogi , Adolf",BE,Eidgenössisches Militärdepartement,VBS,SVP
+1997,101,"Leuenberger, Moritz",ZH,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1997,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1996,100,"Dreifuss, Ruth",GE,Eidgenössisches Departement des Innern ,EDI,SP
+1996,096,"Cotti , Flavio",TI,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+1996,099,"Villiger, Kaspar",LU,Eidgenössisches Finanzdepartement ,EFD,FDP
+1996,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1996,097,"Ogi , Adolf",BE,Eidgenössisches Militärdepartement,VBS,SVP
+1996,101,"Leuenberger, Moritz",ZH,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1996,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1995,100,"Dreifuss, Ruth",GE,Eidgenössisches Departement des Innern ,EDI,SP
+1995,096,"Cotti , Flavio",TI,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+1995,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1995,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1995,099,"Villiger, Kaspar",LU,Eidgenössisches Militärdepartement,VBS,FDP
+1995,101,"Leuenberger, Moritz",ZH,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1995,097,"Ogi , Adolf",BE,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1995,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1994,100,"Dreifuss, Ruth",GE,Eidgenössisches Departement des Innern ,EDI,SP
+1994,096,"Cotti , Flavio",TI,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,CVP
+1994,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1994,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1994,099,"Villiger, Kaspar",LU,Eidgenössisches Militärdepartement,VBS,FDP
+1994,097,"Ogi , Adolf",BE,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1994,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1993,096,"Cotti , Flavio",TI,Eidgenössisches Departement des Innern ,EDI,CVP
+1993,098,"Felber, René",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1993,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1993,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1993,099,"Villiger, Kaspar",LU,Eidgenössisches Militärdepartement,VBS,FDP
+1993,097,"Ogi , Adolf",BE,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1993,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1992,096,"Cotti , Flavio",TI,Eidgenössisches Departement des Innern ,EDI,CVP
+1992,098,"Felber, René",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1992,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1992,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1992,099,"Villiger, Kaspar",LU,Eidgenössisches Militärdepartement,VBS,FDP
+1992,097,"Ogi , Adolf",BE,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1992,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1991,096,"Cotti , Flavio",TI,Eidgenössisches Departement des Innern ,EDI,CVP
+1991,098,"Felber, René",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1991,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1991,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1991,099,"Villiger, Kaspar",LU,Eidgenössisches Militärdepartement,VBS,FDP
+1991,097,"Ogi , Adolf",BE,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1991,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1990,096,"Cotti , Flavio",TI,Eidgenössisches Departement des Innern ,EDI,CVP
+1990,098,"Felber, René",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1990,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1990,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1990,099,"Villiger, Kaspar",LU,Eidgenössisches Militärdepartement,VBS,FDP
+1990,097,"Ogi , Adolf",BE,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1990,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1989,096,"Cotti , Flavio",TI,Eidgenössisches Departement des Innern ,EDI,CVP
+1989,098,"Felber, René",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1989,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1989,095,"Koller, Arnold",AI,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1989,094,"Kopp, Elisabeth",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,FDP
+1989,099,"Villiger, Kaspar",LU,Eidgenössisches Militärdepartement,VBS,FDP
+1989,095,"Koller, Arnold",AI,Eidgenössisches Militärdepartement,VBS,CVP
+1989,097,"Ogi , Adolf",BE,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1989,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1988,096,"Cotti , Flavio",TI,Eidgenössisches Departement des Innern ,EDI,CVP
+1988,098,"Felber, René",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1988,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1988,094,"Kopp, Elisabeth",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,FDP
+1988,095,"Koller, Arnold",AI,Eidgenössisches Militärdepartement,VBS,CVP
+1988,097,"Ogi , Adolf",BE,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1988,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1987,096,"Cotti , Flavio",TI,Eidgenössisches Departement des Innern ,EDI,CVP
+1987,088,"Aubert, Pierre",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1987,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1987,094,"Kopp, Elisabeth",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,FDP
+1987,095,"Koller, Arnold",AI,Eidgenössisches Militärdepartement,VBS,CVP
+1987,089,"Schlumpf , Leon",GR,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1987,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1986,091,"Egli, Alphons",LU,Eidgenössisches Departement des Innern ,EDI,CVP
+1986,088,"Aubert, Pierre",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1986,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1986,094,"Kopp, Elisabeth",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,FDP
+1986,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Militärdepartement,VBS,FDP
+1986,089,"Schlumpf , Leon",GR,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1986,083,"Furgler, Kurt",SG,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+1985,091,"Egli, Alphons",LU,Eidgenössisches Departement des Innern ,EDI,CVP
+1985,088,"Aubert, Pierre",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1985,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1985,094,"Kopp, Elisabeth",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,FDP
+1985,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Militärdepartement,VBS,FDP
+1985,089,"Schlumpf , Leon",GR,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1985,083,"Furgler, Kurt",SG,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+1984,091,"Egli, Alphons",LU,Eidgenössisches Departement des Innern ,EDI,CVP
+1984,088,"Aubert, Pierre",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1984,092,"Stich, Otto",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1984,094,"Kopp, Elisabeth",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,FDP
+1984,090,"Friedrich, Rudolf",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,FDP
+1984,093,"Delamuraz, Jean-Pascal",VD,Eidgenössisches Militärdepartement,VBS,FDP
+1984,089,"Schlumpf , Leon",GR,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1984,083,"Furgler, Kurt",SG,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+1983,091,"Egli, Alphons",LU,Eidgenössisches Departement des Innern ,EDI,CVP
+1983,088,"Aubert, Pierre",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1983,084,"Ritschard, Willi",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1983,090,"Friedrich, Rudolf",ZH,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,FDP
+1983,086,"Chevallaz, Georges-André",VD,Eidgenössisches Militärdepartement,VBS,FDP
+1983,089,"Schlumpf , Leon",GR,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1983,083,"Furgler, Kurt",SG,Eidgenössisches Volkswirtschaftsdepartement,WBF,CVP
+1982,085,"Hürlimann, Hans",ZG,Eidgenössisches Departement des Innern ,EDI,CVP
+1982,088,"Aubert, Pierre",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1982,084,"Ritschard, Willi",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1982,083,"Furgler, Kurt",SG,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1982,086,"Chevallaz, Georges-André",VD,Eidgenössisches Militärdepartement,VBS,FDP
+1982,089,"Schlumpf , Leon",GR,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1982,087,"Honegger, Fritz",ZH,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1981,085,"Hürlimann, Hans",ZG,Eidgenössisches Departement des Innern ,EDI,CVP
+1981,088,"Aubert, Pierre",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1981,084,"Ritschard, Willi",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1981,083,"Furgler, Kurt",SG,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1981,086,"Chevallaz, Georges-André",VD,Eidgenössisches Militärdepartement,VBS,FDP
+1981,089,"Schlumpf , Leon",GR,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1981,087,"Honegger, Fritz",ZH,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1980,085,"Hürlimann, Hans",ZG,Eidgenössisches Departement des Innern ,EDI,CVP
+1980,088,"Aubert, Pierre",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1980,084,"Ritschard, Willi",SO,Eidgenössisches Finanzdepartement ,EFD,SP
+1980,083,"Furgler, Kurt",SG,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1980,086,"Chevallaz, Georges-André",VD,Eidgenössisches Militärdepartement,VBS,FDP
+1980,089,"Schlumpf , Leon",GR,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1980,087,"Honegger, Fritz",ZH,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1979,085,"Hürlimann, Hans",ZG,Eidgenössisches Departement des Innern ,EDI,CVP
+1979,088,"Aubert, Pierre",NE,Eidgenössisches Departement für auswärtige Angelegenheiten,EDA,SP
+1979,086,"Chevallaz, Georges-André",VD,Eidgenössisches Finanzdepartement ,EFD,FDP
+1979,083,"Furgler, Kurt",SG,Eidgenössisches Justiz- und Polizeidepartement ,EJPD,CVP
+1979,079,"Gnägi, Rudolf",BE,Eidgenössisches Militärdepartement,VBS,SVP
+1979,084,"Ritschard, Willi",SO,Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1979,087,"Honegger, Fritz",ZH,Eidgenössisches Volkswirtschaftsdepartement,WBF,FDP
+1978,085,"Hürlimann, Hans",ZG,Departement des Innern,EDI,CVP
+1978,086,"Chevallaz, Georges-André",VD,Finanz- und Zolldepartement,EFD,FDP
+1978,083,"Furgler, Kurt",SG,Justiz- und Polizeidepartement,EJPD,CVP
+1978,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1978,088,"Aubert, Pierre",NE,Politisches Departement,EDA,SP
+1978,081,"Graber, Pierre",NE,Politisches Departement,EDA,SP
+1978,084,"Ritschard, Willi",SO,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1978,087,"Honegger, Fritz",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1978,082,"Brugger, Ernst",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1977,085,"Hürlimann, Hans",ZG,Departement des Innern,EDI,CVP
+1977,086,"Chevallaz, Georges-André",VD,Finanz- und Zolldepartement,EFD,FDP
+1977,083,"Furgler, Kurt",SG,Justiz- und Polizeidepartement,EJPD,CVP
+1977,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1977,081,"Graber, Pierre",NE,Politisches Departement,EDA,SP
+1977,084,"Ritschard, Willi",SO,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1977,082,"Brugger, Ernst",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1976,085,"Hürlimann, Hans",ZG,Departement des Innern,EDI,CVP
+1976,086,"Chevallaz, Georges-André",VD,Finanz- und Zolldepartement,EFD,FDP
+1976,083,"Furgler, Kurt",SG,Justiz- und Polizeidepartement,EJPD,CVP
+1976,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1976,081,"Graber, Pierre",NE,Politisches Departement,EDA,SP
+1976,084,"Ritschard, Willi",SO,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1976,082,"Brugger, Ernst",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1975,085,"Hürlimann, Hans",ZG,Departement des Innern,EDI,CVP
+1975,086,"Chevallaz, Georges-André",VD,Finanz- und Zolldepartement,EFD,FDP
+1975,083,"Furgler, Kurt",SG,Justiz- und Polizeidepartement,EJPD,CVP
+1975,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1975,081,"Graber, Pierre",NE,Politisches Departement,EDA,SP
+1975,084,"Ritschard, Willi",SO,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1975,082,"Brugger, Ernst",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1974,085,"Hürlimann, Hans",ZG,Departement des Innern,EDI,CVP
+1974,086,"Chevallaz, Georges-André",VD,Finanz- und Zolldepartement,EFD,FDP
+1974,083,"Furgler, Kurt",SG,Justiz- und Polizeidepartement,EJPD,CVP
+1974,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1974,081,"Graber, Pierre",NE,Politisches Departement,EDA,SP
+1974,084,"Ritschard, Willi",SO,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1974,082,"Brugger, Ernst",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1973,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1973,080,"Celio, Nello",TI,Finanz- und Zolldepartement,EFD,FDP
+1973,083,"Furgler, Kurt",SG,Justiz- und Polizeidepartement,EJPD,CVP
+1973,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1973,081,"Graber, Pierre",NE,Politisches Departement,EDA,SP
+1973,078,"Bonvin, Roger",VS,Verkehrs- und Energiewirtschaftsdepartement,UVEK,CVP
+1973,082,"Brugger, Ernst",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1972,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1972,080,"Celio, Nello",TI,Finanz- und Zolldepartement,EFD,FDP
+1972,083,"Furgler, Kurt",SG,Justiz- und Polizeidepartement,EJPD,CVP
+1972,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1972,081,"Graber, Pierre",NE,Politisches Departement,EDA,SP
+1972,078,"Bonvin, Roger",VS,Verkehrs- und Energiewirtschaftsdepartement,UVEK,CVP
+1972,082,"Brugger, Ernst",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1971,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1971,080,"Celio, Nello",TI,Finanz- und Zolldepartement,EFD,FDP
+1971,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1971,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1971,081,"Graber, Pierre",NE,Politisches Departement,EDA,SP
+1971,078,"Bonvin, Roger",VS,Verkehrs- und Energiewirtschaftsdepartement,UVEK,CVP
+1971,082,"Brugger, Ernst",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1970,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1970,080,"Celio, Nello",TI,Finanz- und Zolldepartement,EFD,FDP
+1970,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1970,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1970,081,"Graber, Pierre",NE,Politisches Departement,EDA,SP
+1970,075,"Spühler, Willy",ZH,Politisches Departement,EDA,SP
+1970,078,"Bonvin, Roger",VS,Verkehrs- und Energiewirtschaftsdepartement,UVEK,CVP
+1970,082,"Brugger, Ernst",ZH,Volkswirtschaftsdepartement,WBF,FDP
+1969,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1969,080,"Celio, Nello",TI,Finanz- und Zolldepartement,EFD,FDP
+1969,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1969,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1969,075,"Spühler, Willy",ZH,Politisches Departement,EDA,SP
+1969,078,"Bonvin, Roger",VS,Verkehrs- und Energiewirtschaftsdepartement,UVEK,CVP
+1969,077,"Schaffner, Hans",AG,Volkswirtschaftsdepartement,WBF,FDP
+1968,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1968,080,"Celio, Nello",TI,Finanz- und Zolldepartement,EFD,FDP
+1968,078,"Bonvin, Roger",VS,Finanz- und Zolldepartement,EFD,CVP
+1968,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1968,079,"Gnägi, Rudolf",BE,Militärdepartement,VBS,SVP
+1968,080,"Celio, Nello",TI,Militärdepartement,VBS,FDP
+1968,075,"Spühler, Willy",ZH,Politisches Departement,EDA,SP
+1968,078,"Bonvin, Roger",VS,Verkehrs- und Energiewirtschaftsdepartement,UVEK,CVP
+1968,079,"Gnägi, Rudolf",BE,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1968,077,"Schaffner, Hans",AG,Volkswirtschaftsdepartement,WBF,FDP
+1967,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1967,078,"Bonvin, Roger",VS,Finanz- und Zolldepartement,EFD,CVP
+1967,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1967,080,"Celio, Nello",TI,Militärdepartement,VBS,FDP
+1967,075,"Spühler, Willy",ZH,Politisches Departement,EDA,SP
+1967,079,"Gnägi, Rudolf",BE,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1967,077,"Schaffner, Hans",AG,Volkswirtschaftsdepartement,WBF,FDP
+1966,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1966,078,"Bonvin, Roger",VS,Finanz- und Zolldepartement,EFD,CVP
+1966,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1966,071,"Chaudet, Paul",VD,Militärdepartement,VBS,FDP
+1966,075,"Spühler, Willy",ZH,Politisches Departement,EDA,SP
+1966,079,"Gnägi, Rudolf",BE,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SVP
+1966,077,"Schaffner, Hans",AG,Volkswirtschaftsdepartement,WBF,FDP
+1965,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1965,078,"Bonvin, Roger",VS,Finanz- und Zolldepartement,EFD,CVP
+1965,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1965,071,"Chaudet, Paul",VD,Militärdepartement,VBS,FDP
+1965,072,"Wahlen, Friedrich Traugott",BE,Politisches Departement,EDA,SVP
+1965,075,"Spühler, Willy",ZH,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1965,077,"Schaffner, Hans",AG,Volkswirtschaftsdepartement,WBF,FDP
+1964,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1964,078,"Bonvin, Roger",VS,Finanz- und Zolldepartement,EFD,CVP
+1964,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1964,071,"Chaudet, Paul",VD,Militärdepartement,VBS,FDP
+1964,072,"Wahlen, Friedrich Traugott",BE,Politisches Departement,EDA,SVP
+1964,075,"Spühler, Willy",ZH,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1964,077,"Schaffner, Hans",AG,Volkswirtschaftsdepartement,WBF,FDP
+1963,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1963,078,"Bonvin, Roger",VS,Finanz- und Zolldepartement,EFD,CVP
+1963,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1963,071,"Chaudet, Paul",VD,Militärdepartement,VBS,FDP
+1963,072,"Wahlen, Friedrich Traugott",BE,Politisches Departement,EDA,SVP
+1963,075,"Spühler, Willy",ZH,Verkehrs- und Energiewirtschaftsdepartement,UVEK,SP
+1963,077,"Schaffner, Hans",AG,Volkswirtschaftsdepartement,WBF,FDP
+1962,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1962,078,"Bonvin, Roger",VS,Finanz- und Zolldepartement,EFD,CVP
+1962,076,"Bourgknecht, Jean",FR,Finanz- und Zolldepartement,EFD,CVP
+1962,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1962,071,"Chaudet, Paul",VD,Militärdepartement,VBS,FDP
+1962,072,"Wahlen, Friedrich Traugott",BE,Politisches Departement,EDA,SVP
+1962,075,"Spühler, Willy",ZH,Post- und Eisenbahndepartement,UVEK,SP
+1962,077,"Schaffner, Hans",AG,Volkswirtschaftsdepartement,WBF,FDP
+1961,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1961,076,"Bourgknecht, Jean",FR,Finanz- und Zolldepartement,EFD,CVP
+1961,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1961,071,"Chaudet, Paul",VD,Militärdepartement,VBS,FDP
+1961,072,"Wahlen, Friedrich Traugott",BE,Politisches Departement,EDA,SVP
+1961,063,"Petitpierre, Max",NE,Politisches Departement,EDA,FDP
+1961,075,"Spühler, Willy",ZH,Post- und Eisenbahndepartement,UVEK,SP
+1961,077,"Schaffner, Hans",AG,Volkswirtschaftsdepartement,WBF,FDP
+1961,072,"Wahlen, Friedrich Traugott",BE,Volkswirtschaftsdepartement,WBF,SVP
+1960,074,"Tschudi, Hans-Peter",BS,Departement des Innern,EDI,SP
+1960,076,"Bourgknecht, Jean",FR,Finanz- und Zolldepartement,EFD,CVP
+1960,073,"von Moos, Ludwig",OW,Justiz- und Polizeidepartement,EJPD,CVP
+1960,071,"Chaudet, Paul",VD,Militärdepartement,VBS,FDP
+1960,063,"Petitpierre, Max",NE,Politisches Departement,EDA,FDP
+1960,075,"Spühler, Willy",ZH,Post- und Eisenbahndepartement,UVEK,SP
+1960,072,"Wahlen, Friedrich Traugott",BE,Volkswirtschaftsdepartement,WBF,SVP
+1959,055,"Etter, Philipp",ZG,Departement des Innern,EDI,CVP
+1959,068,"Streuli, Hans",ZH,Finanz- und Zolldepartement,EFD,FDP
+1959,072,"Wahlen, Friedrich Traugott",BE,Justiz- und Polizeidepartement,EJPD,SVP
+1959,071,"Chaudet, Paul",VD,Militärdepartement,VBS,FDP
+1959,063,"Petitpierre, Max",NE,Politisches Departement,EDA,FDP
+1959,069,"Lepori, Giuseppe",TI,Post- und Eisenbahndepartement,UVEK,CVP
+1959,070,"Holenstein, Thomas",SG,Volkswirtschaftsdepartement,WBF,CVP
