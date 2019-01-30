@@ -1,0 +1,22 @@
+classe,ordre,famille,genre,espèce,sous-espèce,D,statut CH,critères,Bemerkungen
+Sauropsida,Cheloniens,Emydidae,Emys,orbicularis,orbicularis,Sumpfschildkröte,CR,"B2a, B2b(iii)",
+Sauropsida,Squamata,Lacertidae,Lacerta,agilis,agilis,Zauneidechse,VU,"B2a, B2b(ii,iii)",Genereller Rückgang
+Sauropsida,Squamata,Lacertidae,Lacerta,bilineata,bilineata,Smaragdeidechse,VU,"B2a, B2b(iii, iv)",Starker Rückgang in den Kantonen VD und GE
+Sauropsida,Squamata,Lacertidae,Podarcis,muralis,muralis,Mauereidechse (muralis),LC,,"Gefährdet in den Kantonen AG, SH, ZH"
+Sauropsida,Squamata,Lacertidae,Podarcis,muralis,maculiventris,"Mauereidechse
+ (maculiventris)",LC,,
+Sauropsida,Squamata,Lacertidae,Zootoca,vivipara,vivipara,Waldeidechse,LC,,
+Sauropsida,Squamata,Anguidae,Anguis,fragilis,fragilis,Blindschleiche,LC,,Rückgang im Tiefland
+Sauropsida,Squamata,Colubridae,Hierophis,viridiflavus,viridiflavus,Zornnatter,EN,"B2a, B2b(iii, iv)",Kleines Verbreitungsgebiet in der Schweiz
+Sauropsida,Squamata,Colubridae,Zamenis,longissimus,,Äskulapnatter,EN,"B2a, B2b(iii, iv)",Kleines Verbreitungsgebiet in der Schweiz
+Sauropsida,Squamata,Colubridae,Coronella,austriaca,austriaca,Schlingnatter,VU,"B2a, B2b(iii, iv)",Im Mittelland vom Aussterben bedroht
+Sauropsida,Squamata,Colubridae,Natrix,natrix,natrix,Ringelnatter (natrix),EN,"A2c, B2a, B2b(iii, iv)",Nordostschweiz
+Sauropsida,Squamata,Colubridae,Natrix,natrix,helvetica,"Ringelnatter (helvetica), Barrenringelnatter",VU,"A2c, B2a, B2b(iii, iv)",Genereller Rückgang im Tiefland
+Sauropsida,Squamata,Colubridae,Natrix,maura,,Vipernatter,CR,"B2a, B2b(iii,iv)􀃃","GE, VD, VS"
+Sauropsida,Squamata,Colubridae,Natrix,tessellata,,Würfelnatter,EN,"B2a, B2b(iii,iv)",Alpensüdflanke
+Sauropsida,Squamata,Viperidae,Vipera,aspis,aspis,Juraviper,CR,"B2a, B2b(iv)","Genereller Rückgang, regional ausgestorben"
+Sauropsida,Squamata,Viperidae,Vipera,aspis,atra,Alpenviper,VU,"A2c, B2a, B2b(iii,iv)",Rückgang in den Tieflagen
+Sauropsida,Squamata,Viperidae,Vipera,aspis,francisciredi,Rediviper,EN,"B2a, B2(iii,iv)",Alpensüdflanke
+Sauropsida,Squamata,Viperidae,Vipera,berus,berus,Kreuzotter (nördliche Klade),EN,"A2c, B2a, B2b(iv)","Regional ausgestorben, lokal kritische Populationsgrösse"
+Sauropsida,Squamata,Viperidae,Vipera,berus,berus,"Kreuzotter
+ (italienische Klade)",EN,"A2c, B2a, B2b(iii,iv)",Kleines Verbreitungsgebiet in der Schweiz

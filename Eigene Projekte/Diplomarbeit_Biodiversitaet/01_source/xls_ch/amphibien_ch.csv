@@ -1,0 +1,22 @@
+classe,ordre,famille,genre,espèce,D,statut CH,critères,Bemerkungen
+Amphibia,Urodela,Salamandridae,Salamandra,atra,Alpensalamander,LC,,Leichte Abnahme der Bestände
+Amphibia,Urodela,Salamandridae,Salamandra,salamandra,Feuersalamander,VU,"A3c,e",Unerklärter Rückgang geht vermutlich weiter
+Amphibia,Urodela,Salamandridae,Triturus,alpestris,Bergmolch,LC,,
+Amphibia,Urodela,Salamandridae,Triturus,carnifex,Italienischer Kammmolch,EN,"B2a, B2b(ii, iv)",Natürlicherweise kleines Verbreitungsgebiet in der Schweiz (Tessin)
+Amphibia,Urodela,Salamandridae,Triturus,cristatus,Kammmolch,EN,"A2c, B2a, B2b(ii, iv)",
+Amphibia,Urodela,Salamandridae,Triturus,helveticus,Fadenmolch,VU,"A2c, B2a, B2b(ii, iv)",
+Amphibia,Urodela,Salamandridae,Triturus,vulgaris,Teichmolch,EN,"A2c, B2a, B2b(ii, iv)",
+Amphibia,Anura,Discoglossidae,Alytes,obstetricans,Geburtshelferkröte,EN,A2c,
+Amphibia,Anura,Discoglossidae,Bombina,variegata,Gelbbauchunke,EN,A2c,
+Amphibia,Anura,Pelobatidae,Pelobates,fuscus,Knoblauchkröte,DD,,"Unklar, ob es in der Schweiz je Populationen gab"
+Amphibia,Anura,Bufonidae,Bufo,bufo,Erdkröte,VU,A2c,
+Amphibia,Anura,Bufonidae,Bufo,calamita,Kreuzkröte,EN,A2c,
+Amphibia,Anura,Bufonidae,Bufo,viridis,Wechselkröte,RE,,
+Amphibia,Anura,Hylidae,Hyla,arborea,Laubfrosch,EN,A2c,
+Amphibia,Anura,Hylidae,Hyla,intermedia,Italienischer Laubfrosch,EN,"B2a, B2b(ii, iv)",Natürlicherweise kleines Verbreitungsgebiet in der Schweiz (Tessin)
+Amphibia,Anura,Ranidae,Rana,arvalis,Moorfrosch,DD,,"Unklar, ob es in der Schweiz je Populationen gab"
+Amphibia,Anura,Ranidae,Rana,dalmatina,Springfrosch,EN,"B2a, B2b(ii, iv)",Natürlicherweise kleines Verbreitungsgebiet in der Schweiz
+Amphibia,Anura,Ranidae,Rana,esculenta/lessonae,Wasserfrosch-Komplex,NT,,Abnahme der Bestände nicht ausreichend für VU
+Amphibia,Anura,Ranidae,Rana,latastei,Italienischer Springfrosch,VU,"C2a(ii), D2",
+Amphibia,Anura,Ranidae,Rana,ridibunda,Seefrosch,NE,,Eingeschleppte Art
+Amphibia,Anura,Ranidae,Rana,temporaria,Grasfrosch,LC,,

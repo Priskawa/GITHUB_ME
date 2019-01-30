@@ -1,0 +1,200 @@
+,family,dt name,sc name,cat,bemerkungen,einteilung,untergruppe
+0,Entenvögel (Anatidae),Brandgans,Tadorna tadorna (L.),VU,,Vögel,Enten und Taucher
+1,Entenvögel (Anatidae),Schnatterente,Anas strepera L.,EN,,Vögel,Enten und Taucher
+2,Entenvögel (Anatidae),Krickente,Anas crecca L.,VU,,Vögel,Enten und Taucher
+3,Entenvögel (Anatidae),Stockente,Anas platyrhynchos L.,LC,,Vögel,Enten und Taucher
+4,Entenvögel (Anatidae),Knäkente,Anas querquedula L.,EN,Änderung des SPEC-Status 2004 führt neu zur Rückstufung um nur 1 Kategorie,Vögel,Enten und Taucher
+5,Entenvögel (Anatidae),Löffelente,Anas clypeata L.,EN,Änderung des SPEC-Status 2004 führt neu zur Rückstufung um nur 1 Kategorie,Vögel,Enten und Taucher
+6,Entenvögel (Anatidae),Kolbenente,Kolbenente Netta rufina (Pall.),NT,"Rückstufung im zweiten Schritt, da keine SPEC-Art mehr.",Vögel,Enten und Taucher
+7,Entenvögel (Anatidae),Tafelente,Aythya ferina (L.),EN,Änderung des SPEC-Status 2004 führt neu zur Rückstufung um nur 1 Kategorie,Vögel,Enten und Taucher
+8,Entenvögel (Anatidae),Reiherente,Aythya fuligula (L.),VU,Änderung des SPEC-Status 2004 führt neu nicht mehr zur Rückstufung,Vögel,Enten und Taucher
+9,Entenvögel (Anatidae),Eiderente,Somateria mollissima (L.),VU,,Vögel,Enten und Taucher
+10,Entenvögel (Anatidae),Schellente,Bucephala clangula (L.),VU,,Vögel,Enten und Taucher
+11,Entenvögel (Anatidae),Mittelsäger,Mergus serrator L.,VU,,Vögel,Enten und Taucher
+12,Entenvögel (Anatidae),Gänsesäger,Mergus merganser L.,VU,,Vögel,Enten und Taucher
+13,Hühner (Phasianidae),Haselhuhn,Bonasa bonasia (L.),NT,,Vögel,Hühner
+14,Hühner (Phasianidae),Alpenschneehuhn,Lagopus muta (Montin),NT,,Vögel,Hühner
+15,Hühner (Phasianidae),Birkhuhn,Tetrao tetrix L.,NT,,Vögel,Hühner
+16,Hühner (Phasianidae),Auerhuhn,Tetrao urogallus L.,EN,,Vögel,Hühner
+17,Hühner (Phasianidae),Steinhuhn,Alectoris graeca (Meisn.),NT,,Vögel,Hühner
+18,Hühner (Phasianidae),Rothuhn,Alectoris rufa (L.),RE,Letzter Brutnachweis: vor 1900,Vögel,Hühner
+19,Hühner (Phasianidae),Rebhuhn,Perdix perdix (L.),CR,,Vögel,Hühner
+20,Hühner (Phasianidae),Wachtel,Coturnix coturnix (L.),LC,,Vögel,Hühner
+21,Lappentaucher (Podicipedidae),Zwergtaucher,Tachybaptus ruficollis (Pall.),VU,,Vögel,Enten und Taucher
+22,Lappentaucher (Podicipedidae),Haubentaucher,Podiceps cristatus (L.),LC,,Vögel,Enten und Taucher
+23,Lappentaucher (Podicipedidae),Schwarzhalstaucher,Podiceps nigricollis Brehm,VU,,Vögel,Enten und Taucher
+24,Kormorane (Phalacrocoracidae),Kormoran,Phalacrocorax carbo (L.),LC,,Vögel,Kormorane
+25,Reiher (Ardeidae),Zwergdommel,Ixobrychus minutus (L.),EN,,Vögel,Schreitvögel
+26,Reiher (Ardeidae),Nachtreiher,Nycticorax nycticorax (L.),EN,,Vögel,Schreitvögel
+27,Reiher (Ardeidae),Graureiher,Ardea cinerea L.,LC,,Vögel,Schreitvögel
+28,Reiher (Ardeidae),Purpurreiher,Ardea purpurea L.,CR,,Vögel,Schreitvögel
+29,Störche (Ciconiidae),Weissstorch,Ciconia ciconia (L.),VU,,Vögel,Schreitvögel
+30,Habichtartige (Accipitridae),Wespenbussard,Pernis apivorus (L.),NT,,Vögel,Greifvögel
+31,Habichtartige (Accipitridae),Schwarzmilan,Milvus migrans (Bodd.),LC,,Vögel,Greifvögel
+32,Habichtartige (Accipitridae),Rotmilan,Milvus milvus (L.),LC,,Vögel,Greifvögel
+33,Habichtartige (Accipitridae),Bartgeier,Gypaetus barbatus (L.),CR,Wiedereinbürgerungsprogramm mit guten Prognosen,Vögel,Greifvögel
+34,Habichtartige (Accipitridae),Rohrweihe,Circus aeruginosus (L.),VU,,Vögel,Greifvögel
+35,Habichtartige (Accipitridae),Wiesenweihe,Circus pygargus (L.),VU,,Vögel,Greifvögel
+36,Habichtartige (Accipitridae),Habicht,Accipiter gentilis (L.),LC,,Vögel,Greifvögel
+37,Habichtartige (Accipitridae),Sperber,Accipiter nisus (L.),LC,,Vögel,Greifvögel
+38,Habichtartige (Accipitridae),Mäusebussard,Buteo buteo (L.),LC,,Vögel,Greifvögel
+39,Habichtartige (Accipitridae),Steinadler,Aquila chrysaetos (L.),VU,,Vögel,Greifvögel
+40,Fischadler (Pandionidae),Fischadler,Pandion haliaetus (L.),RE,Letzter Brutnachweis: 1911,Vögel,Greifvögel
+41,Falkenartige (Falconidae),Turmfalke,Falco tinnunculus L.,NT,,Vögel,Greifvögel
+42,Falkenartige (Falconidae),Baumfalke,Falco subbuteo L.,NT,,Vögel,Greifvögel
+43,Falkenartige (Falconidae),Wanderfalke,Falco peregrinus Tunst.,NT,,Vögel,Greifvögel
+44,Rallen (Rallidae),Wasserralle,Rallus aquaticus L.,LC,,Vögel,Rallen
+45,Rallen (Rallidae),Tüpfelsumpfhuhn,Porzana porzana (L.),VU,,Vögel,Rallen
+46,Rallen (Rallidae),Kleines Sumpfhuhn,Porzana parva (Scop.),VU,,Vögel,Rallen
+47,Rallen (Rallidae),Zwergsumpfhuhn,Porzana pusilla (Pall.),EN,,Vögel,Rallen
+48,Rallen (Rallidae),Wachtelkönig,Crex crex (L.),CR,,Vögel,Rallen
+49,Rallen (Rallidae),Teichhuhn,Gallinula chloropus (L.),LC,,Vögel,Rallen
+50,Rallen (Rallidae),Blässhuhn,Fulica atra L.,LC,,Vögel,Rallen
+51,Regenpfeifer (Charadriidae),Flussregenpfeifer,Charadrius dubius Scop.,EN,,Vögel,Watvögel
+52,Regenpfeifer (Charadriidae),Kiebitz,Vanellus vanellus (L.),CR,,Vögel,Watvögel
+53,Schnepfen (Scolopacidae),Bekassine,Gallinago gallinago (L.),CR,,Vögel,Watvögel
+54,Schnepfen (Scolopacidae),Waldschnepfe,Scolopax rusticola L.,VU,,Vögel,Watvögel
+55,Schnepfen (Scolopacidae),Grosser Brachvogel,Numenius arquata (L.),CR,,Vögel,Watvögel
+56,Schnepfen (Scolopacidae),Rotschenkel,Tringa totanus (L.),RE,Letzter Brutnachweis: 1919,Vögel,Watvögel
+57,Schnepfen (Scolopacidae),Flussuferläufer,Actitis hypoleucos (L.),EN,,Vögel,Watvögel
+58,Möwen (Laridae),Schwarzkopfmöwe,Larus melanocephalus Temm.,VU,,Vögel,Watvögel
+59,Möwen (Laridae),Lachmöwe,Larus ridibundus L.,EN,,Vögel,Watvögel
+60,Möwen (Laridae),Sturmmöwe,Larus canus L.,EN,,Vögel,Watvögel
+61,Möwen (Laridae),Mittelmeermöwe,Larus michahellis Naumann,LC,,Vögel,Watvögel
+62,Seeschwalben (Sternidae),Flussseeschwalbe,Sterna hirundo L.,NT,auf künstliche Nisthilfen angewiesen.,Vögel,Watvögel
+63,Tauben (Columbidae),Hohltaube,Columba oenas L.,LC,,Vögel,Tauben
+64,Tauben (Columbidae),Ringeltaube,Columba palumbus L.,LC,,Vögel,Tauben
+65,Tauben (Columbidae),Türkentaube,Streptopelia decaocto (Friv.),LC,,Vögel,Tauben
+66,Tauben (Columbidae),Turteltaube,Streptopelia turtur (L.),NT,,Vögel,Tauben
+67,Kuckucke (Cuculidae),Kuckuck,Cuculus canorus L.,NT,,Vögel,Andere
+68,Schleiereulen (Tytonidae),Schleiereule,Tyto alba (Scop.),NT,,Vögel,Eulen
+69,Ohreulen und Käuze (Strigidae),Zwergohreule,Otus scops (L.),EN,,Vögel,Eulen
+70,Ohreulen und Käuze (Strigidae),Uhu  Bubo,Bubo bubo (L.),EN,,Vögel,Eulen
+71,Ohreulen und Käuze (Strigidae),Sperlingskauz,Glaucidium passerinum (L.),LC,"Neue Bestandsschätzung höher, aber keine wirkliche Veränderung",Vögel,Eulen
+72,Ohreulen und Käuze (Strigidae),Steinkauz,Athene noctua (Scop.),EN,,Vögel,Eulen
+73,Ohreulen und Käuze (Strigidae),Waldkauz,Strix aluco L.,LC,,Vögel,Eulen
+74,Ohreulen und Käuze (Strigidae),Waldohreule,Asio otus (L.),NT,,Vögel,Eulen
+75,Ohreulen und Käuze (Strigidae),Raufusskauz,Aegolius funereus (L.),LC,,Vögel,Eulen
+76,Nachtschwalben (Caprimulgidae),Ziegenmelker,Caprimulgus europaeus L.,EN,,Vögel,Andere
+77,Segler (Apodidae),Alpensegler,Apus melba (L.),NT,Bestand nur dank Schutzprogrammen so hoch,Vögel,Andere
+78,Segler (Apodidae),Mauersegler,Apus apus (L.),NT,auf Schutzmassnahmen angewiesen,Vögel,Andere
+79,Segler (Apodidae),Fahlsegler,Apus pallidus (Shelley),VU,,Vögel,Andere
+80,Eisvögel (Alcedinidae),Eisvogel,Alcedo atthis (L.),VU,,Vögel,Andere
+81,Bienenfresser (Meropidae),Bienenfresser,Merops apiaster L.,EN,,Vögel,Andere
+82,Wiedehopfe (Upupidae),Wiedehopf,Upupa epops L.,VU,,Vögel,Andere
+83,Spechte (Picidae),Wendehals,Wendehals Jynx torquilla L.,NT,,Vögel,Spechte
+84,Spechte (Picidae),Grauspecht,Picus canus Gmel.,VU,,Vögel,Spechte
+85,Spechte (Picidae),Grünspecht,Picus viridis L.,LC,,Vögel,Spechte
+86,Spechte (Picidae),Schwarzspecht,Dryocopus martius (L.),LC,,Vögel,Spechte
+87,Spechte (Picidae),Buntspecht,Dendrocopos major (L.),LC,,Vögel,Spechte
+88,Spechte (Picidae),Mittelspecht,Dendrocopos medius (L.),NT,,Vögel,Spechte
+89,Spechte (Picidae),Weissrückenspecht,Dendrocopos leucotos (Bechst.),VU,,Vögel,Spechte
+90,Spechte (Picidae),Kleinspecht,Dendrocopos minor (L.),LC,,Vögel,Spechte
+91,Spechte (Picidae),Dreizehenspecht,Picoides tridactylus (L.),LC,,Vögel,Spechte
+92,Lerchen (Alaudidae),Haubenlerche,Galerida cristata (L.),RE,Letzter Brutnachweis: 1976,Vögel,Singvögel
+93,Lerchen (Alaudidae),Heidelerche,Lullula arborea (L.),VU,,Vögel,Singvögel
+94,Lerchen (Alaudidae),Feldlerche,Alauda arvensis L.,NT,,Vögel,Singvögel
+95,Schwalben (Hirundinidae),Uferschwalbe,Riparia riparia (L.),VU,,Vögel,Singvögel
+96,Schwalben (Hirundinidae),Felsenschwalbe,Ptyonoprogne rupestris (Scop.),LC,,Vögel,Singvögel
+97,Schwalben (Hirundinidae),Rauchschwalbe,Hirundo rustica L.,LC,,Vögel,Singvögel
+98,Schwalben (Hirundinidae),Mehlschwalbe,Delichon urbicum (L.),NT,,Vögel,Singvögel
+99,Pieper und Stelzen (Motacillidae),Brachpieper,Anthus campestris (L.),EN,"letzter Brutnachweis 2001, seither vereinzelte Sänger",Vögel,Singvögel
+100,Pieper und Stelzen (Motacillidae),Baumpieper,Anthus trivialis (L.),LC,,Vögel,Singvögel
+101,Pieper und Stelzen (Motacillidae),Wiesenpieper,Anthus pratensis (L.),VU,,Vögel,Singvögel
+102,Pieper und Stelzen (Motacillidae),Bergpieper,Anthus spinoletta (L.),LC,,Vögel,Singvögel
+103,Pieper und Stelzen (Motacillidae),Schafstelze,Motacilla flava L.,NT,,Vögel,Singvögel
+104,Pieper und Stelzen (Motacillidae),Bergstelze,Motacilla cinerea Tunst.,LC,,Vögel,Singvögel
+105,Pieper und Stelzen (Motacillidae),Bachstelze,Motacilla alba L.,LC,,Vögel,Singvögel
+106,Wasseramseln (Cinclidae),Wasseramsel,Cinclus cinclus (L.),LC,,Vögel,Singvögel
+107,Zaunkönige (Troglodytidae),Zaunkönig,Troglodytes troglodytes (L.),LC,,Vögel,Singvögel
+108,Braunellen (Prunellidae),Heckenbraunelle,Prunella modularis (L.),LC,,Vögel,Singvögel
+109,Braunellen (Prunellidae),Alpenbraunelle,Prunella collaris (Scop.),LC,,Vögel,Singvögel
+110,Drosselvögel (Turdidae),Rotkehlchen,Erithacus rubecula (L.),LC,,Vögel,Singvögel
+111,Drosselvögel (Turdidae),Nachtigall,Luscinia megarhynchos Brehm,NT,"starker Rückgang im Wallis, schlecht dokumentiert",Vögel,Singvögel
+112,Drosselvögel (Turdidae),Blaukehlchen*,Luscinia svecica (L.),VU,,Vögel,Singvögel
+113,Drosselvögel (Turdidae),Hausrotschwanz,Phoenicurus ochruros (Gmel.),LC,,Vögel,Singvögel
+114,Drosselvögel (Turdidae),Gartenrotschwanz,Phoenicurus phoenicurus (L.),NT,,Vögel,Singvögel
+115,Drosselvögel (Turdidae),Braunkehlchen,Saxicola rubetra (L.),VU,,Vögel,Singvögel
+116,Drosselvögel (Turdidae),Schwarzkehlchen,Saxicola torquatus (L.),NT,,Vögel,Singvögel
+117,Drosselvögel (Turdidae),Steinschmätzer,Oenanthe oenanthe (L.),LC,,Vögel,Singvögel
+118,Drosselvögel (Turdidae),Steinrötel,Monticola saxatilis (L.),LC,,Vögel,Singvögel
+119,Drosselvögel (Turdidae),Blaumerle,Monticola solitarius (L.),EN,,Vögel,Singvögel
+120,Drosselvögel (Turdidae),Ringdrossel,Turdus torquatus L.,VU,,Vögel,Singvögel
+121,Drosselvögel (Turdidae),Amsel,Turdus merula L.,LC,,Vögel,Singvögel
+122,Drosselvögel (Turdidae),Wacholderdrossel,Turdus pilaris L.,VU,,Vögel,Singvögel
+123,Drosselvögel (Turdidae),Singdrossel,Turdus philomelos Brehm,LC,,Vögel,Singvögel
+124,Drosselvögel (Turdidae),Misteldrossel,Turdus viscivorus L.,LC,,Vögel,Singvögel
+125,Zweigsänger (Sylviidae),Seidensänger*,Cettia cetti (Temm.),VU,,Vögel,Singvögel
+126,Zweigsänger (Sylviidae),Feldschwirl,Locustella naevia (Bodd.),NT,,Vögel,Singvögel
+127,Zweigsänger (Sylviidae),Rohrschwirl,Locustella luscinioides (Savi),NT,,Vögel,Singvögel
+128,Zweigsänger (Sylviidae),Mariskensänger*,Acrocephalus melanopogon (Temm.),VU,,Vögel,Singvögel
+129,Zweigsänger (Sylviidae),Teichrohrsänger,Acrocephalus scirpaceus (Herm.),LC,,Vögel,Singvögel
+130,Zweigsänger (Sylviidae),Sumpfrohrsänger,Acrocephalus palustris (Bechst.),LC,,Vögel,Singvögel
+131,Zweigsänger (Sylviidae),Drosselrohrsänger,Acrocephalus arundinaceus (L.),NT,,Vögel,Singvögel
+132,Zweigsänger (Sylviidae),Gelbspötter,Hippolais icterina (Vieill.),VU,,Vögel,Singvögel
+133,Zweigsänger (Sylviidae),Orpheusspötter,Hippolais polyglotta (Vieill.),NT,,Vögel,Singvögel
+134,Zweigsänger (Sylviidae),Mönchsgrasmücke,Sylvia atricapilla (L.),LC,,Vögel,Singvögel
+135,Zweigsänger (Sylviidae),Gartengrasmücke,Sylvia borin (Bodd.),NT,,Vögel,Singvögel
+136,Zweigsänger (Sylviidae),Sperbergrasmücke*,Sylvia nisoria (Bechst.),VU,,Vögel,Singvögel
+137,Zweigsänger (Sylviidae),Klappergrasmücke,Sylvia curruca (L.),LC,,Vögel,Singvögel
+138,Zweigsänger (Sylviidae),Orpheusgrasmücke*,Sylvia hortensis (Gmel.),RE,"letzter Brutnachweis: 1989, 1990 eine mögliche Brut",Vögel,Singvögel
+139,Zweigsänger (Sylviidae),Dorngrasmücke,Sylvia communis Lath.,NT,,Vögel,Singvögel
+140,Zweigsänger (Sylviidae),Berglaubsänger,Phylloscopus bonelli (Vieill.),LC,,Vögel,Singvögel
+141,Zweigsänger (Sylviidae),Waldlaubsänger,Phylloscopus sibilatrix (Bechst.),VU,,Vögel,Singvögel
+142,Zweigsänger (Sylviidae),Zilpzalp,Phylloscopus collybita (Vieill.),LC,,Vögel,Singvögel
+143,Zweigsänger (Sylviidae),Fitis,Phylloscopus trochilus (L.),VU,,Vögel,Singvögel
+144,Zweigsänger (Sylviidae),Wintergoldhähnchen,Regulus regulus (L.),LC,,Vögel,Singvögel
+145,Zweigsänger (Sylviidae),Sommergoldhähnchen,Regulus ignicapilla (Temm.),LC,,Vögel,Singvögel
+146,Fliegenschnäpper (Muscicapidae),Grauschnäpper,Muscicapa striata (Pall.),LC,,Vögel,Singvögel
+147,Fliegenschnäpper (Muscicapidae),Halsbandschnäpper,Ficedula albicollis (Temm.),EN,,Vögel,Singvögel
+148,Fliegenschnäpper (Muscicapidae),Trauerschnäpper,Ficedula hypoleuca (Pall.),LC,,Vögel,Singvögel
+149,Timalien (Timaliidae),Bartmeise,Panurus biarmicus (L.),VU,,Vögel,Singvögel
+150,Schwanzmeisen (Aegithalidae),Schwanzmeise,Aegithalos caudatus (L.),LC,,Vögel,Singvögel
+151,Meisen (Paridae),Sumpfmeise,Parus palustris L.,LC,,Vögel,Singvögel
+152,Meisen (Paridae),Mönchsmeise,Parus montanus Conrad,LC,Rückgang in den Tieflagen,Vögel,Singvögel
+153,Meisen (Paridae),Haubenmeise,Parus cristatus L.,LC,,Vögel,Singvögel
+154,Meisen (Paridae),Tannenmeise,Parus ater L.,LC,,Vögel,Singvögel
+155,Meisen (Paridae),Blaumeise,Parus caeruleus L.,LC,,Vögel,Singvögel
+156,Meisen (Paridae),Kohlmeise,Parus major L.,LC,,Vögel,Singvögel
+157,Kleiber (Sittidae),Kleiber,Sitta europaea L.,LC,,Vögel,Singvögel
+158,Mauerläufer (Tichodromadidae),Mauerläufer,Tichodroma muraria (L.),LC,,Vögel,Singvögel
+159,Baumläufer (Certhiidae),Waldbaumläufer,Certhia familiaris L.,LC,,Vögel,Singvögel
+160,Baumläufer (Certhiidae),Gartenbaumläufer,Certhia brachydactyla Brehm,LC,,Vögel,Singvögel
+161,Beutelmeisen (Remizidae),Beutelmeise,Remiz pendulinus (L.),VU,letzter Brutnachweis: 1999,Vögel,Singvögel
+162,Pirole (Oriolidae),Pirol,Oriolus oriolus (L.),LC,,Vögel,Singvögel
+163,Würger (Laniidae),Neuntöter,Lanius collurio L.,LC,,Vögel,Singvögel
+164,Würger (Laniidae),Schwarzstirnwürger,Lanius minor Gmel.,RE,Letzter Brutnachweis: 1972,Vögel,Singvögel
+165,Würger (Laniidae),Raubwürger,Lanius excubitor L.,RE,Letzter Brutnachweis: 1986,Vögel,Singvögel
+166,Würger (Laniidae),Rotkopfwürger,Lanius senator L.,CR,,Vögel,Singvögel
+167,Krähenvögel (Corvidae),Eichelhäher,Garrulus glandarius (L.),LC,,Vögel,Singvögel
+168,Krähenvögel (Corvidae),Elster,Pica pica (L.),LC,,Vögel,Singvögel
+169,Krähenvögel (Corvidae),Tannenhäher,Nucifraga caryocatactes (L.),LC,,Vögel,Singvögel
+170,Krähenvögel (Corvidae),Alpendohle,Pyrrhocorax graculus (L.),LC,,Vögel,Singvögel
+171,Krähenvögel (Corvidae),Alpenkrähe,Pyrrhocorax pyrrhocorax (L.),EN,,Vögel,Singvögel
+172,Krähenvögel (Corvidae),Dohle,Corvus monedula L.,VU,,Vögel,Singvögel
+173,Krähenvögel (Corvidae),Saatkrähe,Corvus frugilegus L.,LC,,Vögel,Singvögel
+174,Krähenvögel (Corvidae),Raben(Nebel-)krähe,Corvus corone L.,LC,,Vögel,Singvögel
+175,Krähenvögel (Corvidae),Kolkrabe,Corvus corax L.,LC,,Vögel,Singvögel
+176,Stare (Sturnidae),Star,Sturnus vulgaris L.,LC,,Vögel,Singvögel
+177,Sperlinge (Passeridae),Haussperling,Passer domesticus (L.),LC,,Vögel,Singvögel
+178,Sperlinge (Passeridae),Italiensperling,Passer hispaniolensis italiae (Vieill.),LC,,Vögel,Singvögel
+179,Sperlinge (Passeridae),Feldsperling,Passer montanus (L.),LC,,Vögel,Singvögel
+180,Sperlinge (Passeridae),Schneesperling,Montifringilla nivalis (L.),LC,,Vögel,Singvögel
+181,Finkenvögel (Fringillidae),Buchfink,Fringilla coelebs L.,LC,,Vögel,Singvögel
+182,Finkenvögel (Fringillidae),Girlitz,Serinus serinus (L.),LC,,Vögel,Singvögel
+183,Finkenvögel (Fringillidae),Zitronengirlitz,Serinus citrinella (Pall.),LC,,Vögel,Singvögel
+184,Finkenvögel (Fringillidae),Grünfink,Carduelis chloris (L.),LC,,Vögel,Singvögel
+185,Finkenvögel (Fringillidae),Distelfink,Carduelis carduelis (L.),LC,,Vögel,Singvögel
+186,Finkenvögel (Fringillidae),Erlenzeisig,Carduelis spinus (L.),LC,,Vögel,Singvögel
+187,Finkenvögel (Fringillidae),Hänfling,Carduelis cannabina (L.),NT,,Vögel,Singvögel
+188,Finkenvögel (Fringillidae),Alpenbirkenzeisig,Carduelis cabaret (L.),LC,,Vögel,Singvögel
+189,Finkenvögel (Fringillidae),Fichtenkreuzschnabel,Loxia curvirostra L.,LC,,Vögel,Singvögel
+190,Finkenvögel (Fringillidae),Karmingimpel*,Carpodacus erythrinus (Pall.),VU,,Vögel,Singvögel
+191,Finkenvögel (Fringillidae),Gimpel,Pyrrhula pyrrhula (L.),LC,,Vögel,Singvögel
+192,Finkenvögel (Fringillidae),Kernbeisser,Coccothraustes coccothraustes (L.),LC,,Vögel,Singvögel
+193,Ammern (Emberizidae),Goldammer,Emberiza citrinella L.,LC,,Vögel,Singvögel
+194,Ammern (Emberizidae),Zaunammer,Emberiza cirlus L.,NT,,Vögel,Singvögel
+195,Ammern (Emberizidae),Zippammer,Emberiza cia L.,LC,,Vögel,Singvögel
+196,Ammern (Emberizidae),Ortolan,Emberiza hortulana L.,CR,,Vögel,Singvögel
+197,Ammern (Emberizidae),Rohrammer,Emberiza schoeniclus (L.),VU,,Vögel,Singvögel
+198,Ammern (Emberizidae),Grauammer,Emberiza calandra L.,VU,,Vögel,Singvögel

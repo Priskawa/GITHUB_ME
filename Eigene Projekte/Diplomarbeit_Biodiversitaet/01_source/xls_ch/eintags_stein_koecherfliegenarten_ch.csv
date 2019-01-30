@@ -1,0 +1,508 @@
+GROUP,ORDER,FAMILY,GENUS,SPECIES,Scientific name,Deutscher Name,CAT,Criteria,Bemerkungen
+Insecta,Ephemeroptera,Baetidae,Acentrella,sinaica,"Acentrella sinaica Bogoescu, 1931",-,CR,"B2a, B2b (ii,iii)",Sehr beschränktes Verbreitungsgebiet
+Insecta,Ephemeroptera,Baetidae,Alainites,muticus,"Alainites muticus (Linnaeus, 1758)",-,LC,,
+Insecta,Ephemeroptera,Ameletidae,Ameletus,inopinatus,"Ameletus inopinatus Eaton, 1887",-,CR,"B2a, B2b (iii, iv)",Nur 2 Populationen bekannt
+Insecta,Ephemeroptera,Baetidae,Baetis,alpinus,"Baetis alpinus (Pictet, 1843)",-,LC,,
+Insecta,Ephemeroptera,Baetidae,Baetis,buceratus,"Baetis buceratus Eaton, 1870",-,VU,B2b (iv),
+Insecta,Ephemeroptera,Baetidae,Baetis,fuscatus,"Baetis fuscatus (Linné, 1761)",-,LC,,
+Insecta,Ephemeroptera,Baetidae,Baetis,liebenauae,"Baetis liebenauae Keffermüller, 1974",-,VU,"B2a, B2b (iv)",
+Insecta,Ephemeroptera,Baetidae,Baetis,lutheri,"Baetis lutheri Müller-Liebenau, 1967",-,LC,,
+Insecta,Ephemeroptera,Baetidae,Baetis,melanonyx,"Baetis melanonyx (Pictet, 1843)",-,NT,B2b (ii),
+Insecta,Ephemeroptera,Baetidae,Baetis,nubecularis,"Baetis nubecularis Eaton, 1898",-,VU,"B2b (iii, iv)",Jura-Endemit
+Insecta,Ephemeroptera,Baetidae,Baetis,pentaphlebodes,"Baetis pentaphlebodes Ujhelyi, 1966",-,VU,B2a,Erstnachweis 2002; 3 bekannte Populationen
+Insecta,Ephemeroptera,Baetidae,Baetis,rhodani,"Baetis rhodani (Pictet, 1843)",-,LC,,
+Insecta,Ephemeroptera,Baetidae,Baetis,scambus,"Baetis scambus Eaton, 1870",-,LC,,
+Insecta,Ephemeroptera,Baetidae,Baetis,vardarensis,"Baetis vardarensis IKonomov, 1962",-,NT,B2b (iv),
+Insecta,Ephemeroptera,Baetidae,Baetis,vernus,"Baetis vernus Curtis, 1834",-,LC,,
+Insecta,Ephemeroptera,Caenidae,Caenis,beskidensis,"Caenis beskidensis Sowa, 1973",-,VU,"B2b (ii, iii, iv)",
+Insecta,Ephemeroptera,Caenidae,Caenis,horaria,"Caenis horaria (Linnaeus, 1758)",-,LC,,
+Insecta,Ephemeroptera,Caenidae,Caenis,lactea,"Caenis lactea (Burmeister, 1839)",-,VU,B2b (iv),
+Insecta,Ephemeroptera,Caenidae,Caenis,luctuosa,"Caenis luctuosa (Burmeister, 1839)",-,LC,,
+Insecta,Ephemeroptera,Caenidae,Caenis,macrura,"Caenis macrura Stephens, 1835",-,LC,,
+Insecta,Ephemeroptera,Caenidae,Caenis,pusilla,"Caenis pusilla Navas, 1913",-,CR,"B2a, B2b (ii), B2c(ii)",Rezente Abnahme nachgewiesen
+Insecta,Ephemeroptera,Caenidae,Caenis,rivulorum,"Caenis rivulorum Eaton, 1884",-,EN,"B2a, B2b (ii, iv)",
+Insecta,Ephemeroptera,Caenidae,Caenis,robusta,"Caenis robusta Eaton, 1884",-,NT,B2b (iii),
+Insecta,Ephemeroptera,Baetidae,Centroptilum,luteolum,"Centroptilum luteolum (Müller, 1776)",-,LC,,
+Insecta,Ephemeroptera,Leptophlebiidae,Choroterpes,picteti,"Choroterpes picteti Eaton, 1871",-,EN,"B2a, B2b (ii, iii,iv)",
+Insecta,Ephemeroptera,Baetidae,Cloeon,dipterum,"Cloeon dipterum (Linné, 1761)",-,LC,,
+Insecta,Ephemeroptera,Baetidae,Cloeon,simile,"Cloeon simile Eaton, 1870",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,alpinus,"Ecdyonurus alpinus Hefti, Tomka, Zurwerra, 1987",-,NT,B2b (i),
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,dispar,"Ecdyonurus dispar (Curtis, 1834)",-,VU,"B2b (ii, iii)",
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,helveticus,"Ecdyonurus helveticus (Eaton, 1885)",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,insignis,"Ecdyonurus insignis (Eaton, 1870)",-,CR,"B2b (ii, iii, iv)","Ausschliesslich Larvennachweise 1910, 1942, 2009"
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,parahelveticus,"Ecdyonurus parahelveticus Hefti, Tomka, Zurwerra, 1986",-,VU,"B2b (i, iv)",Sehr beschränktes Verbreitungsgebiet
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,picteti,"Ecdyonurus picteti (Meyer-Dür, 1864)",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,torrentis,"Ecdyonurus torrentis Kimmins, 1942",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,venosus,"Ecdyonurus venosus (Fabricius, 1775)",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,zelleri,"Ecdyonurus zelleri (Eaton, 1885)",-,DD,,
+Insecta,Ephemeroptera,Heptageniidae,Electrogena,lateralis,"Electrogena lateralis (Curtis, 1834)",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Electrogena,ujhelyii,"Electrogena ujhelyii (Sowa, 1981)",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Epeorus,alpicola,"Epeorus alpicola (Eaton, 1871)",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Epeorus,assimilis,"Epeorus assimilis (Eaton, 1885",-,LC,,
+Insecta,Ephemeroptera,Ephemeridae,Ephemera,danica,"Ephemera danica Müller, 1764",-,LC,,
+Insecta,Ephemeroptera,Ephemeridae,Ephemera,glaucops,"Ephemera glaucops Pictet, 1843-1845",-,CR,"B2a, B2b (ii,iii, iv)",
+Insecta,Ephemeroptera,Ephemeridae,Ephemera,lineata,"Ephemera lineata Eaton, 1870",-,EN,"B2a, B2b (ii, iii)",
+Insecta,Ephemeroptera,Ephemeridae,Ephemera,vulgata,"Ephemera vulgata Linnaeus, 1758",-,VU,"B2b (ii, iii, iv)",
+Insecta,Ephemeroptera,Ephemerellidae,Ephemerella,mucronata,"Ephemerella mucronata (Bengtsson, 1909)",-,LC,,
+Insecta,Ephemeroptera,Ephemerellidae,Ephemerella,notata,"Ephemerella notata Eaton, 1887",-,CR,"B2a, B2b (ii, iii, iv)",
+Insecta,Ephemeroptera,Polymitarcyidae,Ephoron,virgo,"Ephoron virgo (Olivier, 1791)",-,RE,,Einziger Nachweis 1870
+Insecta,Ephemeroptera,Leptophlebiidae,Habroleptoides,auberti,"Habroleptoides auberti (Biancheri, 1954)",-,LC,,
+Insecta,Ephemeroptera,Leptophlebiidae,Habroleptoides,confusa,"Habroleptoides confusa Sartori & Jacob, 1986",-,LC,,
+Insecta,Ephemeroptera,Leptophlebiidae,Habrophlebia,eldae,"Habrophlebia eldae Jacob & Sartori, 1984",-,VU,B2c (ii),Erstnachweis 1989
+Insecta,Ephemeroptera,Leptophlebiidae,Habrophlebia,fusca,"Habrophlebia fusca (Curtis, 1834)",-,CR,"B2a, B2b (iii, iv)",Erstnachweis 1996
+Insecta,Ephemeroptera,Leptophlebiidae,Habrophlebia,lauta,"Habrophlebia lauta Eaton, 1884",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Heptagenia,coerulans,"Heptagenia coerulans Rostock, 1877",-,RE,,Einziger Nachweis 1905
+Insecta,Ephemeroptera,Heptageniidae,Heptagenia,longicauda,"Heptagenia longicauda (Stephens, 1836)",-,RE,,Zwei Nachweise 1905–1974
+Insecta,Ephemeroptera,Heptageniidae,Heptagenia,sulphurea,"Heptagenia sulphurea (Müller, 1776)",-,LC,,
+Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebia,marginata,"Leptophlebia marginata (Linnaeus, 1767)",-,EN,"B2b (ii, iii, iv)",
+Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebia,vespertina,"Leptophlebia vespertina (Linnaeus, 1758)",-,CR,"B2a, B2b (iii, iv)",
+Insecta,Ephemeroptera,Ameletidae,Metreletus,balcanicus,"Metreletus balcanicus (Ulmer, 1920)",-,CR,"B2a, B2b (iii, iv)",Nur 1 Bestand bekannt
+Insecta,Ephemeroptera,Baetidae,Nigrobaetis,niger,"Nigrobaetis niger (Linné, 1761)",-,CR,"B2b (ii, iii, iv)",Sehr beschränktes Verbreitungsgebiet in CH
+Insecta,Ephemeroptera,Oligoneuriidae,Oligoneuriella,rhenana,"Oligoneuriella rhenana (Imhoff, 1852)",-,CR,"B2a, B2b (ii, iii, iv)",Sehr beschränktes Verbreitungsgebiet in CH
+Insecta,Ephemeroptera,Leptophlebiidae,Paraleptophlebia,cincta,"Paraleptophlebia cincta (Retzius, 1783)",-,NE,,
+Insecta,Ephemeroptera,Leptophlebiidae,Paraleptophlebia,submarginata,"Paraleptophlebia submarginata (Stephens, 1835)",-,LC,,
+Insecta,Ephemeroptera,Potamanthidae,Potamanthus,luteus,"Potamanthus luteus (Linnaeus, 1767)",-,NT,B2b (ii),
+Insecta,Ephemeroptera,Baetidae,Procloeon,bifidum,"Procloeon bifidum (Bengtsson, 1912)",-,EN,B2b (iv),Beschränktes Verbreitungsgebiet in CH
+Insecta,Ephemeroptera,Baetidae,Procloeon,pennulatum,"Procloeon pennulatum (Eaton, 1870)",-,VU,"B2cii, B2b( iii, iv)",
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,allobrogica,"Rhithrogena allobrogica Sowa & Degrange, 1987",-,VU,"B2a, B2b (iv)",
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,alpestris,"Rhithrogena alpestris Eaton, 1885",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,beskidensis,"Rhithrogena beskidensis Alba-Tercedor & Sowa, 1987",-,VU,"B2a, B2b (ii, iv)",
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,carpatoalpina,"Rhithrogena carpatoalpina Klonowska, Olechowska, Sartori & Weichselbaumer, 1987",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,degrangei,"Rhithrogena degrangei Sowa, 1969",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,dorieri,"Rhithrogena dorieri Sowa, 1971",-,NT,B2b (iii),Vermutlich eine Waldart
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,germanica,"Rhithrogena germanica Eaton, 1885",-,CR,"B2a, B2b (ii, iii, iv)",Rezente Abnahme nachgewiesen
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,gratianopolitana,"Rhithrogena gratianopolitana Sowa, Degrange & Sartori, 1986",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,grischuna,"Rhithrogena grischuna Sartori & Oswald, 1988",-,NT,B2b (i),Beschränktes Verbreitungsgebiet
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,hybrida,"Rhithrogena hybrida Eaton, 1885",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,landai,"Rhithrogena landai Sowa & Soldan, 1984",-,EN,"B2b (ii, iv)",
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,loyolaea,"Rhithrogena loyolaea Navas, 1922",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,nivata,"Rhithrogena nivata (Eaton, 1871)",-,NT,B2b (i),
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,picteti,"Rhithrogena picteti Sowa, 1971",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,puthzi,"Rhithrogena puthzi Sowa, 1984",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,puytoraci,"Rhithrogena puytoraci Sowa & Degrange, 1987",-,DD,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,savoiensis,"Rhithrogena savoiensis Alba-Tercedor & Sowa, 1987",-,LC,,
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,semicolorata,"Rhithrogena semicolorata (Curtis, 1834)",-,LC,,
+Insecta,Ephemeroptera,Ephemerellidae,Serratella,ignita,"Serratella ignita (Poda, 1761)",-,LC,,
+Insecta,Ephemeroptera,Siphlonuridae,Siphlonurus,aestivalis,"Siphlonurus aestivalis (Eaton, 1903)",-,EN,"B2b (ii, iii, iv)",Nur eine grosse Population in CH
+Insecta,Ephemeroptera,Siphlonuridae,Siphlonurus,lacustris,"Siphlonurus lacustris (Eaton, 1870)",-,NT,B2b (iii),
+Insecta,Ephemeroptera,Ephemerellidae,Torleya,major,"Torleya major (Klapalek, 1905)",-,VU,"B2b (ii, iii,iv)",Starke Abnahme in der Westschweiz
+Insecta,Plecoptera,Nemouridae,Amphinemura,standfussi,"Amphinemura standfussi (Ris, 1902)",-,NT,B2a,
+Insecta,Plecoptera,Nemouridae,Amphinemura,sulcicollis,"Amphinemura sulcicollis (Stephens, 1836)",-,LC,,
+Insecta,Plecoptera,Nemouridae,Amphinemura,triangularis,"Amphinemura triangularis (Ris, 1902)",-,LC,,
+Insecta,Plecoptera,Perlodidae,Besdolus,imhoffi,"Besdolus imhoffi Pictet, 1841",-,EN,"B2a, B2b (i, ii, iii, iv)",Grosse Flüsse tieferer Lagen
+Insecta,Plecoptera,Perlodidae,Besdolus,ventralis,"Besdolus ventralis (Pictet, 1841)",-,RE,,"Letzter Nachweis 1910, grosse Flüsse, Mittelland"
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,braueri,"Brachyptera braueri (Klapalek, 1900)",-,RE,,"Einziger Nachweis 1870,grosse Flüsse Mittelland"
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,monilicornis,"Brachyptera monilicornis (Pictet, 1841)",-,RE,,"Letzter Nachweis 1948, Flüsse Mittelland"
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,risi,"Brachyptera risi (Morton, 1896)",-,LC,,
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,seticornis,"Brachyptera seticornis (Klapalek, 1902)",-,VU,"B2b (ii, iii)","Bäche, Flüsse"
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,trifasciata,"Brachyptera trifasciata (Pictet, 1832)",-,CR,"B2a, B2b (i, ii, iii, iv)","Grosse Flüsse, Mittelland"
+Insecta,Plecoptera,Capniidae,Capnia,bifrons,"Capnia bifrons (Newman, 1839)",-,VU,"B2a, B2b (iii)","Kleine Bäche, auch trockenfallende"
+Insecta,Plecoptera,Capniidae,Capnia,nigra,"Capnia nigra (Pictet, 1833)",-,LC,,
+Insecta,Plecoptera,Capniidae,Capnia,vidua,"Capnia vidua Klapalek, 1904",-,NT,B2b (iii),
+Insecta,Plecoptera,Capniidae,Capnioneura,nemuroides,"Capnioneura nemuroides Ris, 1905",-,LC,,
+Insecta,Plecoptera,Chloroperlidae,Chloroperla,susemicheli,"Chloroperla susemicheli Zwick, 1967",-,LC,,
+Insecta,Plecoptera,Chloroperlidae,Chloroperla,tripunctata,"Chloroperla tripunctata (Scopoli, 1763)",-,LC,,
+Insecta,Plecoptera,Perlodidae,Dictyogenus,alpinus,"Dictyogenus alpinus (Pictet, 1841)",-,LC,,
+Insecta,Plecoptera,Perlodidae,Dictyogenus,fontium,"Dictyogenus fontium Ris, 1896",-,NT,B2b (iii),
+Insecta,Plecoptera,Perlidae,Dinocras,cephalotes,"Dinocras cephalotes (Curtis, 1827)",-,LC,,
+Insecta,Plecoptera,Perlidae,Dinocras,ferreri,"Dinocras ferreri (Pictet, 1841)",-,EN,"B2b (ii, iii, iv)","Quellen, Bäche, Tessin"
+Insecta,Plecoptera,Perlidae,Dinocras,megacephala,"Dinocras megacephala (Klapalek, 1907)",-,VU,"B2a, B2b (i, ii, iii, iv)","Bäche, Flüsse"
+Insecta,Plecoptera,Perlodidae,Isogenus,nubecula,"Isogenus nubecula Newman, 1833",-,RE,,"Letzter Nachweis 1953, grosse Flüsse"
+Insecta,Plecoptera,Perlodidae,Isoperla,carbonaria,"Isoperla carbonaria Aubert, 1953",-,NT,,
+Insecta,Plecoptera,Perlodidae,Isoperla,grammatica,"Isoperla grammatica (Poda, 1761)",-,LC,,
+Insecta,Plecoptera,Perlodidae,Isoperla,lugens,"Isoperla lugens (Klapalek, 1923",-,CR,"B2a, B2b (iii, iv)","Quellen, Quellbäche, Alpen"
+Insecta,Plecoptera,Perlodidae,Isoperla,obscura,"Isoperla obscura (Zetterstedt, 1840)",-,EN,"B2a, B2b (i, ii, iii, iv)",Flüsse am Alpenrand
+Insecta,Plecoptera,Perlodidae,Isoperla,orobica,"Isoperla orobica Ravizza, 1975",-,EN,"B2a, B2b (iii, iv)","Bäche und Flüsse, Alpensüdseite"
+Insecta,Plecoptera,Perlodidae,Isoperla,oxylepis,"Isoperla oxylepis (Despax, 1936)",-,EN,"B2a, B2b (iii)","Bäche und Flüsse, Jura"
+Insecta,Plecoptera,Perlodidae,Isoperla,rivulorum,"Isoperla rivulorum (Pictet, 1841",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,albida,"Leuctra albida Kempny, 1899",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,alpina,"Leuctra alpina Kühtreiber, 1934",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,ameliae,"Leuctra ameliae Vinçon & Ravizza, 1996",-,EN,"B2a, B2b (ii, iii, iv)","Quellen, Quellbäche"
+Insecta,Plecoptera,Leuctridae,Leuctra,armata,"Leuctra armata Kempny, 1899",-,NT,B2b (iii),
+Insecta,Plecoptera,Leuctridae,Leuctra,aurita,"Leuctra aurita Navas, 1919",-,NT,"B2b (ii, iv)",
+Insecta,Plecoptera,Leuctridae,Leuctra,autumnalis,"Leuctra autumnalis Aubert, 1948",-,VU,"B2a, B2b (iii)",
+Insecta,Plecoptera,Leuctridae,Leuctra,braueri,"Leuctra braueri Kempny, 1898",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,cingulata,"Leuctra cingulata Kempny, 1899",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,dolasilla,"Leuctra dolasilla Consiglio, 1955",-,VU,"B2a, B2b (iii)",
+Insecta,Plecoptera,Leuctridae,Leuctra,elisabethae,"Leuctra elisabethae Ravizza, 1985",-,EN,"B2b (ii, iii)","Quellen, kleinere Waldbäche, Tessin"
+Insecta,Plecoptera,Leuctridae,Leuctra,festai,"Leuctra festai Aubert, 1954",-,DD,,"Erstnachweis 2003, Quellen, Quellbäche, Alpensüdseite"
+Insecta,Plecoptera,Leuctridae,Leuctra,fusca,"Leuctra fusca (Linnaeus, 1758)",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,geniculata,"Leuctra geniculata Stephens, 1836",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,handlirschi,"Leuctra handlirschi Kempny, 1898",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,helvetica,"Leuctra helvetica Aubert, 1956",-,EN,"B2a, B2b (ii, iii, iv)","Quellbäche, kleine Bäche, oberhalb 1000m"
+Insecta,Plecoptera,Leuctridae,Leuctra,hexacantha,"Leuctra hexacantha Despax, 1940",-,VU,"B2a, B2b (ii, iv)",
+Insecta,Plecoptera,Leuctridae,Leuctra,hippopus,"Leuctra hippopus Kempny, 1899",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,inermis,"Leuctra inermis Kempny, 1899",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,insubrica,"Leuctra insubrica Aubert, 1949",-,VU,"B2a, B2b (ii, iii)","Quellbäche, Bäche"
+Insecta,Plecoptera,Leuctridae,Leuctra,leptogaster,"Leuctra leptogaster Aubert, 1949",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,major,"Leuctra major Brinck, 1949",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,meridionalis,"Leuctra meridionalis Aubert, 1951",-,NT,,
+Insecta,Plecoptera,Leuctridae,Leuctra,mortoni,"Leuctra mortoni Kempny, 1899",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,moselyi,"Leuctra moselyi Morton, 1929",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,nigra,"Leuctra nigra (Olivier, 1811)",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,niveola,"Leuctra niveola Schmid, 1947",-,VU,"B2a, B2b (iii)","Quellbäche, Bäche"
+Insecta,Plecoptera,Leuctridae,Leuctra,prima,"Leuctra prima Kempny, 1899",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,pseudorosinae,"Leuctra pseudorosinae Aubert, 1954",-,EN,"B2a, B2b (iii)","Quellen kleine Bäche, Westschweiz"
+Insecta,Plecoptera,Leuctridae,Leuctra,pseudosignifera,"Leuctra pseudosignifera Aubert, 1954",-,NT,B2b (iii),
+Insecta,Plecoptera,Leuctridae,Leuctra,rauscheri,"Leuctra rauscheri Aubert, 1957",-,NT,B2b (iii),
+Insecta,Plecoptera,Leuctridae,Leuctra,ravizzai,"Leuctra ravizzai Ravizza, Dematteis & Vinçon, 1994",-,CR,"B2a, B2b (iii, iv)","Quellen, kleine Bäche oberhalb 1800m, Alpen"
+Insecta,Plecoptera,Leuctridae,Leuctra,rosinae,"Leuctra rosinae Kempny, 1900",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,schmidi,"Leuctra schmidi Aubert, 1946",-,EN,"B2a, B2b (ii, iii, iv)","Kleine Bäche, westlicher Alpenbogen"
+Insecta,Plecoptera,Leuctridae,Leuctra,sesvenna,"Leuctra sesvenna Aubert, 1953",-,CR,"B2a, B2b (ii, iii, iv)","Kleine Bäche, Alpen"
+Insecta,Plecoptera,Leuctridae,Leuctra,subalpina,"Leuctra subalpina Vinçon, Ravizza, Aubert, 1995",-,NT,B2b (iii),
+Insecta,Plecoptera,Leuctridae,Leuctra,teriolensis,"Leuctra teriolensis Kempny, 1900",-,LC,,
+Insecta,Plecoptera,Leuctridae,Leuctra,vinconi,"Leuctra vinconi aubertorum Ravizza & Ravizza Dematteis, 1994",-,CR,"B2a, B2b (iii)","Quellen, Quellbäche"
+Insecta,Plecoptera,Leuctridae,Leuctra,zwicki,"Leuctra zwicki Ravizza & Vinçon, 1991",-,CR,"B2a, B2b (iii)","Quellbäche, kleine Bäche"
+Insecta,Plecoptera,Nemouridae,Nemoura,avicularis,"Nemoura avicularis Morton, 1894",-,EN,"B2a, B2b (ii, iii, iv)","Bäche, Seen"
+Insecta,Plecoptera,Nemouridae,Nemoura,cambrica,"Nemoura cambrica Stephens, 1836",-,NT,"B2b (iii, iv)",
+Insecta,Plecoptera,Nemouridae,Nemoura,cinerea,"Nemoura cinerea (Retzius, 1783)",-,LC,,
+Insecta,Plecoptera,Nemouridae,Nemoura,dubitans,"Nemoura dubitans Morton, 1894",-,CR,"B2a, B2b (iii, iv), B2c (ii, iv)",Moortümpel
+Insecta,Plecoptera,Nemouridae,Nemoura,flexuosa,"Nemoura flexuosa Aubert, 1949",-,LC,,
+Insecta,Plecoptera,Nemouridae,Nemoura,marginata,"Nemoura marginata Pictet, 1836",-,LC,,
+Insecta,Plecoptera,Nemouridae,Nemoura,minima,"Nemoura minima Aubert, 1946",-,NT,"B2b (iii, iv)",
+Insecta,Plecoptera,Nemouridae,Nemoura,mortoni,"Nemoura mortoni Ris, 1902",-,LC,,
+Insecta,Plecoptera,Nemouridae,Nemoura,obtusa,"Nemoura obtusa Ris, 1902",-,NT,B2b (iii),
+Insecta,Plecoptera,Nemouridae,Nemoura,palliventris,"Nemoura palliventris Aubert, 1953",-,EN,"B2a, B2b (iii, iv)","Kleine Bäche, Tessin"
+Insecta,Plecoptera,Nemouridae,Nemoura,pesarinii,"Nemoura pesarinii Ravizza & Ravizza-Dematteis, 1979",-,DD,,"Erstnachweis 2000, kleine Bäche, Tessin"
+Insecta,Plecoptera,Nemouridae,Nemoura,sciurus,"Nemoura sciurus Aubert, 1949",-,CR,"B2a, B2b (iii, iv)","Quellen, Quellbäche und kleine Bäche"
+Insecta,Plecoptera,Nemouridae,Nemoura,sinuata,"Nemoura sinuata Ris, 1902",-,NT,B2b (iii),
+Insecta,Plecoptera,Nemouridae,Nemoura,uncinata,"Nemoura uncinata Despax, 1934",-,EN,"B2a, B2b (iii)","Quellen, kleine Bäche"
+Insecta,Plecoptera,Nemouridae,Nemoura,undulata,"Nemoura undulata Ris, 1902",-,CR,"B2a, B2b (ii, iii, iv)","Quellen, Quellbäche, östlicher Alpenbogen"
+Insecta,Plecoptera,Nemouridae,Nemurella,pictetii,"Nemurella pictetii Klapalek, 1900",-,LC,,
+Insecta,Plecoptera,Perlidae,Perla,abdominalis,"Perla abdominalis Burmeister, 1839",-,CR,"B2a, B2b (i, ii, iii, iv)","Flüsse, Mittelland"
+Insecta,Plecoptera,Perlidae,Perla,grandis,"Perla grandis Rambur, 1842",-,LC,,
+Insecta,Plecoptera,Perlidae,Perla,marginata,"Perla marginata (Panzer, 1799)",-,NT,B2b (iii),
+Insecta,Plecoptera,Perlodidae,Perlodes,dispar,"Perlodes dispar (Rambur, 1842)",-,EN,"B2a, B2b (i, ii, iii, iv)","Grössere Flüsse, Mittelland"
+Insecta,Plecoptera,Perlodidae,Perlodes,intricatus,"Perlodes intricatus (Pictet, 1841)",-,LC,,
+Insecta,Plecoptera,Perlodidae,Perlodes,jurassicus,"Perlodes jurassicus Aubert, 1946",-,NT,B2b (iii),
+Insecta,Plecoptera,Perlodidae,Perlodes,microcephalus,"Perlodes microcephalus (Pictet, 1833)",-,LC,,
+Insecta,Plecoptera,Nemouridae,Protonemura,algovia,"Protonemura algovia Mendl, 1968",-,VU,"B2a, B2b (iii)","Bäche und Flüsse, Alpen"
+Insecta,Plecoptera,Nemouridae,Protonemura,auberti,"Protonemura auberti Illies, 1954",-,NT,B2b (iii),
+Insecta,Plecoptera,Nemouridae,Protonemura,brevistyla,"Protonemura brevistyla (Ris, 1902)",-,LC,,
+Insecta,Plecoptera,Nemouridae,Protonemura,intricata,"Protonemura intricata (Ris, 1902)",-,LC,,
+Insecta,Plecoptera,Nemouridae,Protonemura,lateralis,"Protonemura lateralis (Pictet, 1836)",-,LC,,
+Insecta,Plecoptera,Nemouridae,Protonemura,meyeri,"Protonemura meyeri (Pictet, 1841)",-,VU,"B2a, B2b (ii, iii)",
+Insecta,Plecoptera,Nemouridae,Protonemura,nimborella,"Protonemura nimborella Mosely, 1930",-,VU,"B2a, B2b (iii)","Quellbäche, Bäche, Alpen"
+Insecta,Plecoptera,Nemouridae,Protonemura,nimborum,"Protonemura nimborum (Ris, 1902)",-,LC,,
+Insecta,Plecoptera,Nemouridae,Protonemura,nitida,"Protonemura nitida (Pictet, 1835)",-,LC,,
+Insecta,Plecoptera,Nemouridae,Protonemura,praecox,"Protonemura praecox (Morton, 1894)",-,LC,,
+Insecta,Plecoptera,Nemouridae,Protonemura,risi,"Protonemura risi (Jacobson & Bianchi, 1905)",-,LC,,
+Insecta,Plecoptera,Taeniopterygidae,Rhabdiopteryx,alpina,"Rhabdiopteryx alpina Kühtreiber, 1934",-,NT,B2b (iii),
+Insecta,Plecoptera,Taeniopterygidae,Rhabdiopteryx,harperi,"Rhabdiopteryx harperi Vinçon & Muranyi, 2008",-,VU,"B2a, B2b (iii)","Bäche, Flüsse, oberhalb 1000 m, Alpen"
+Insecta,Plecoptera,Taeniopterygidae,Rhabdiopteryx,neglecta,"Rhabdiopteryx neglecta (Albarda, 1889)",-,LC,,
+Insecta,Plecoptera,Chloroperlidae,Siphonoperla,montana,"Siphonoperla montana (Pictet, 1841)",-,NT,B2b (iii),
+Insecta,Plecoptera,Chloroperlidae,Siphonoperla,torrentium,"Siphonoperla torrentium (Pictet, 1841)",-,LC,,
+Insecta,Plecoptera,Taeniopterygidae,Taeniopteryx,hubaulti,"Taeniopteryx hubaulti Aubert, 1946",-,VU,"B2a, B2b (iii)","Flüsse, Voralpen"
+Insecta,Plecoptera,Taeniopterygidae,Taeniopteryx,kuehtreiberi,"Taeniopteryx kuehtreiberi Aubert, 1950",-,LC,,
+Insecta,Plecoptera,Taeniopterygidae,Taeniopteryx,nebulosa,"Taeniopteryx nebulosa (Linnaeus, 1758)",-,RE,,"Letzter Nachweis 1886, grosse Flüsse Mittelland"
+Insecta,Plecoptera,Taeniopterygidae,Taeniopteryx,schoenemundi,"Taeniopteryx schoenemundi Mertens, 1923",-,RE,,"Letzter Nachweis 1961, grosse Flüsse Mittelland"
+Insecta,Plecoptera,Chloroperlidae,Xanthoperla,apicalis,"Xanthoperla apicalis (Newman, 1836)",-,RE,,"Letzter Nachweis 1949, grosse Flüsse Mitelland"
+Insecta,Trichoptera,Limnephilidae,Acrophylax,zerberus,"Acrophylax zerberus Brauer, 1867",-,VU,"B2a, b(iii)","Seen, Bäche, hochalpin"
+Insecta,Trichoptera,Leptoceridae,Adicella,filicornis,"Adicella filicornis (Pictet, 1834)",-,EN,"B2a, b(i,ii,iii,iv)",Quellen
+Insecta,Trichoptera,Leptoceridae,Adicella,reducta,"Adicella reducta (McLachlan, 1865)",-,EN,"B2a, b(i,ii,iii,iv)","Bäche, Giessen"
+Insecta,Trichoptera,Glossosomatidae,Agapetus,fuscipes,"Agapetus fuscipes Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Glossosomatidae,Agapetus,laniger,"Agapetus laniger Pictet, 1834",-,VU,"B2a, b(iii)","Flüsse, Mittelland"
+Insecta,Trichoptera,Glossosomatidae,Agapetus,nimbulus,"Agapetus nimbulus McLachlan, 1879",-,VU,"B2a, b(ii,iii)","Quellen, Flüsse, Giessen"
+Insecta,Trichoptera,Glossosomatidae,Agapetus,ochripes,"Agapetus ochripes Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Agraylea,multipunctata,"Agraylea multipunctata Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Agraylea,sexmaculata,"Agraylea sexmaculata Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Phryganeidae,Agrypnia,obsoleta,"Agrypnia obsoleta (Hagen, 1864)",-,CR,"B2a, b(i,ii,iii,iv)","Moore, Gebirgsseen, Alpen"
+Insecta,Trichoptera,Phryganeidae,Agrypnia,pagetana,"Agrypnia pagetana Curtis, 1835",-,LC,,
+Insecta,Trichoptera,Phryganeidae,Agrypnia,picta,"Agrypnia picta Kolenati, 1848",-,RE,,Letzter Nachweis 1909; Moorgewässer
+Insecta,Trichoptera,Phryganeidae,Agrypnia,varia,"Agrypnia varia (Fabricius, 1793)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Allogamus,antennatus,"Allogamus antennatus McLachlan, 1876",-,VU,"B2 b(ii,iii)",Tessin
+Insecta,Trichoptera,Limnephilidae,Allogamus,auricollis,"Allogamus auricollis (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Allogamus,hilaris,"Allogamus hilaris (McLachlan, 1876)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Allogamus,mendax,"Allogamus mendax (McLachlan, 1876)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Allogamus,periphetes,"Allogamus periphetes Malicky, 2004",-,DD,,Einziger Nachweis 1980
+Insecta,Trichoptera,Limnephilidae,Allogamus,uncatus,"Allogamus uncatus (Brauer, 1857)",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Allotrichia,pallicornis,"Allotrichia pallicornis (Eaton, 1873)",-,VU,"B2a, b(ii, iii)",Flüsse
+Insecta,Trichoptera,Limnephilidae,Anabolia,brevipennis,"Anabolia brevipennis (Curtis, 1834)",-,CR,"B2a, b(i,ii,iii,iv)","Moore, auch temporäre Gewässer"
+Insecta,Trichoptera,Limnephilidae,Anabolia,furcata,"Anabolia furcata Brauer, 1857",-,DD,,Einziger Nachweis 2001 larval
+Insecta,Trichoptera,Limnephilidae,Anabolia,lombarda,"Anabolia lombarda Ris, 1897",-,EN,"B2a, b(i,ii,iii,iiv)",Tessin
+Insecta,Trichoptera,Limnephilidae,Anabolia,nervosa,"Anabolia nervosa (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Anisogamus,difformis,"Anisogamus difformis (McLachlan, 1867)",-,VU,"B2a, b(iv, iii)",Quellen
+Insecta,Trichoptera,Limnephilidae,Annitella,obscurata,"Annitella obscurata (McLachlan, 1876)",-,VU,"B2a,b(iv)",
+Insecta,Trichoptera,Limnephilidae,Anomalopterygella,chauviniana,"Anomalopterygella chauviniana (Stein, 1874)",-,EN,"B2a,b(iii)",Einziger Fundort: Wutach
+Insecta,Trichoptera,Limnephilidae,Apatania,fimbriata,"Apatania fimbriata (Pictet, 1834)",-,EN,"B2a, b(i,ii,iii,iv)","Quellen, Alpen, Eiszeitrelikt, parthenogenetisch"
+Insecta,Trichoptera,Limnephilidae,Apatania,helvetica,"Apatania helvetica Schmid, 1954",-,EN,"B2a, b(i,ii,iii,iv)","Quellen, Alpen, parthenogenetisch"
+Insecta,Trichoptera,Limnephilidae,Apatania,muliebris,"Apatania muliebris McLachlan, 1866",-,EN,"B2a, b(ii,iii,iv)","Quellen, Mittelland, Voralpen, parthenogenetisch"
+Insecta,Trichoptera,Leptoceridae,Athripsodes,albifrons,"Athripsodes albifrons (Linnaeus, 1758)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Athripsodes,aterrimus,"Athripsodes aterrimus (Stephens, 1836)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Athripsodes,bilineatus,"Athripsodes bilineatus (Linnaeus, 1758)",-,VU,"B 2a, b(iii)",
+Insecta,Trichoptera,Leptoceridae,Athripsodes,cinereus,"Athripsodes cinereus (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Athripsodes,leucophaeus,"Athripsodes leucophaeus (Rambur, 1842)",-,RE,,Letzter Nachweis 1944; Seen
+Insecta,Trichoptera,Beraeidae,Beraea,maurus,"Beraea maurus (Curtis, 1834)",-,NT,,
+Insecta,Trichoptera,Beraeidae,Beraea,pullata,"Beraea pullata (Curtis, 1834)",-,NT,,
+Insecta,Trichoptera,Beraeidae,Beraeamyia,squamosa,"Beraeamyia squamosa Mosely, 1930",-,EN,"B2a, b(iii)",Tessin
+Insecta,Trichoptera,Beraeidae,Beraeodes,minutus,"Beraeodes minutus (Linnaeus, 1761)",-,VU,"B2a, b(ii, iii,iv)",Kleine Bäche
+Insecta,Trichoptera,Brachycentridae,Brachycentrus,maculatus,"Brachycentrus maculatus (Fourcroy, 1785)",-,CR,"b(i,ii,iii,iv)","Flüsse, Mittelland"
+Insecta,Trichoptera,Brachycentridae,Brachycentrus,montanus,"Brachycentrus montanus Klapalek, 1892",-,RE,,Letzter Nachweis 1900; Flüsse Mittellland
+Insecta,Trichoptera,Brachycentridae,Brachycentrus,subnubilus,"Brachycentrus subnubilus Curtis, 1834",-,RE,,Letzter Nachweis 1916; grosse Flüsse Mittelland
+Insecta,Trichoptera,Glossosomatidae,Catagapetus,nigrans,"Catagapetus nigrans McLachlan, 1884",-,EN,"B2 b(ii,iv)","Quellbäche, Tessin"
+Insecta,Trichoptera,Leptoceridae,Ceraclea,albimacula,"Ceraclea albimacula (Rambur, 1842)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Ceraclea,annulicornis,"Ceraclea annulicornis (Stephens, 1836)",-,VU,"B2a, b(i,ii, iii,iv)",Flüsse und Seen
+Insecta,Trichoptera,Leptoceridae,Ceraclea,aurea,"Ceraclea aurea (Pictet, 1834)",-,VU,"B2a, b( iii)",Flüsse
+Insecta,Trichoptera,Leptoceridae,Ceraclea,dissimilis,"Ceraclea dissimilis (Stephens, 1836)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Ceraclea,fulva,"Ceraclea fulva (Rambur, 1842)",-,EN,"B2a, b(i,ii,iii,iv)","Flüsse und Seen, Larven in Schwämmen"
+Insecta,Trichoptera,Leptoceridae,Ceraclea,nigronervosa,"Ceraclea nigronervosa (Retzius, 1783)",-,EN,"B2a, b(i,ii,iii,iv)","Flüsse und Seen, Larven in Schwämmen"
+Insecta,Trichoptera,Leptoceridae,Ceraclea,riparia,"Ceraclea riparia (Albarda, 1874)",-,CR,"B2a, b(i,ii,iii,iv)","Flüsse, Mittelland"
+Insecta,Trichoptera,Leptoceridae,Ceraclea,senilis,"Ceraclea senilis (Burmeister, 1839)",-,CR,"B2a, b(iv)","Seen, Larve in Schwämmen"
+Insecta,Trichoptera,Limnephilidae,Chaetopterygopsis,maclachlani,"Chaetopterygopsis maclachlani Stein, 1874",-,EN,"B2a, b(i,ii,iv)",
+Insecta,Trichoptera,Limnephilidae,Chaetopteryx,gessneri,"Chaetopteryx gessneri McLachlan, 1876",-,VU,"B2a, b(iii)",Quellen
+Insecta,Trichoptera,Limnephilidae,Chaetopteryx,major,"Chaetopteryx major McLachlan, 1876",-,VU,"B2a, b(iii)","Quellbäche, Epirhithral"
+Insecta,Trichoptera,Limnephilidae,Chaetopteryx,villosa,"Chaetopteryx villosa (Fabricius, 1798)",-,LC,,
+Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,lepida,"Cheumatopsyche lepida (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Philopotamidae,Chimarra,marginata,"Chimarra marginata Linnaeus, 1767",-,CR,"B2a, b(i,ii,iii,iv)",Flüsse
+Insecta,Trichoptera,Limnephilidae,Consorophylax,consors,"Consorophylax consors (McLachlan, 1880)",-,NT,,
+Insecta,Trichoptera,Lepidostomatidae,Crunoecia,irrorata,"Crunoecia irrorata (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Cryptothrix,nebulicola,"Cryptothrix nebulicola McLachlan, 1867",-,NT,,
+Insecta,Trichoptera,Polycentropodidae,Cyrnus,crenaticornis,"Cyrnus crenaticornis (Kolenati, 1859)",-,NT,,
+Insecta,Trichoptera,Polycentropodidae,Cyrnus,flavidus,"Cyrnus flavidus McLachlan, 1864",-,VU,"B2a, b(ii,iv)","Seen, Flüsse"
+Insecta,Trichoptera,Polycentropodidae,Cyrnus,insolutus,"Cyrnus insolutus McLachlan, 1878",-,NT,,
+Insecta,Trichoptera,Polycentropodidae,Cyrnus,trimaculatus,"Cyrnus trimaculatus (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Hydropsychidae,Diplectrona,atra,"Diplectrona atra McLachlan, 1878",-,VU,"B2a, b(iii)","Quellbäche, Tessin"
+Insecta,Trichoptera,Limnephilidae,Drusus,alpinus,"Drusus alpinus (Meyer-Dür, 1875)",-,EN,"B2a, b(i,ii,iii,iv)","Quellbäche, Zentralalpen"
+Insecta,Trichoptera,Limnephilidae,Drusus,annulatus,"Drusus annulatus (Stephens, 1837)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Drusus,biguttatus,"Drusus biguttatus (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Drusus,chapmani,"Drusus chapmani McLachlan, 1901",-,NE,,"vermutlich die gleiche Art wie D. muelleri (Malicky, 2005)"
+Insecta,Trichoptera,Limnephilidae,Drusus,chrysotus,"Drusus chrysotus (Rambur, 1842)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Drusus,discolor,"Drusus discolor (Rambur, 1842)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Drusus,improvisus,"Drusus improvisus McLachlan, 1884",-,NE,,"unsicherer Nachweis ohne Beleg, Appennin-Endemit"
+Insecta,Trichoptera,Limnephilidae,Drusus,melanchaetes,"Drusus melanchaetes McLachlan, 1876",-,VU,"B2a, b(iii)",Quellen
+Insecta,Trichoptera,Limnephilidae,Drusus,mixtus,"Drusus mixtus (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Drusus,monticola,"Drusus monticola McLachlan, 1876",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Drusus,muelleri,"Drusus muelleri McLachlan, 1868",-,VU,"B2a, b(iii)",Quellen
+Insecta,Trichoptera,Limnephilidae,Drusus,nigrescens,"Drusus nigrescens Meyer-Dür, 1875",-,VU,"B2a, b(iii)",Quellen
+Insecta,Trichoptera,Limnephilidae,Drusus,trifidus,"Drusus trifidus McLachlan, 1868",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Ecclisopteryx,guttulata,"Ecclisopteryx guttulata (Pictet, 1834)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Ecclisopteryx,madida,"Ecclisopteryx madida (McLachlan, 1867)",-,LC,,
+Insecta,Trichoptera,Ecnomidae,Ecnomus,tenellus,"Ecnomus tenellus (Rambur, 1842)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Enoicyla,pusilla,"Enoicyla pusilla (Burmeister, 1839)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Enoicyla,reichenbachi,"Enoicyla reichenbachi (Kolenati, 1848)",-,NT,,
+Insecta,Trichoptera,Beraeidae,Ernodes,articularis,"Ernodes articularis (Pictet, 1834)",-,VU,"B2a, b(iii)","Quellen, feuchte Stellen"
+Insecta,Trichoptera,Beraeidae,Ernodes,vicinus,"Ernodes vicinus (McLachlan, 1879)",-,NT,,
+Insecta,Trichoptera,Leptoceridae,Erotesis,baltica,"Erotesis baltica McLachlan, 1877",-,EN,"B2a, b(i,ii,iii,iv)",Moore
+Insecta,Trichoptera,Glossosomatidae,Glossosoma,bifidum,"Glossosoma bifidum McLachlan, 1879",-,CR,"B2a, b(i,ii,iii,iv)",
+Insecta,Trichoptera,Glossosomatidae,Glossosoma,boltoni,"Glossosoma boltoni Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Glossosomatidae,Glossosoma,conformis,"Glossosoma conformis Neboiss, 1963",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Glyphotaelius,pellucidus,"Glyphotaelius pellucidus (Retzius, 1783)",-,LC,,
+Insecta,Trichoptera,Goeridae,Goera,pilosa,"Goera pilosa (Fabricius, 1775)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Grammotaulius,nigropunctatus,"Grammotaulius nigropunctatus (Retzius, 1783)",-,EN,"B2a, b(i,ii,iii,iv)","Moore, auch temporäre Gewässer"
+Insecta,Trichoptera,Phryganeidae,Hagenella,clathrata,"Hagenella clathrata (Kolenati, 1848)",-,EN,"B2a, b(i,ii,iii,iv)","Moore, Sümpfe"
+Insecta,Trichoptera,Limnephilidae,Halesus,digitatus,"Halesus digitatus (Schrank, 1781)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Halesus,radiatus,"Halesus radiatus (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Halesus,rubricollis,"Halesus rubricollis (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Halesus,tesselatus,"Halesus tesselatus (Rambur, 1842)",-,VU,"B2.b(ii,iii)",
+Insecta,Trichoptera,Helicopsychidae,Helicopsyche,sperata,"Helicopsyche sperata McLachlan, 1876",-,EN,"B2a, b(i,ii,iii,iv)","Quellen, Tessin"
+Insecta,Trichoptera,Polycentropodidae,Holocentropus,dubius,"Holocentropus dubius (Rambur, 1842)",-,VU,"B2a, b(i,ii,iii)","Moore, pflanzereiche Stillgewässer"
+Insecta,Trichoptera,Polycentropodidae,Holocentropus,picicornis,"Holocentropus picicornis (Stephens, 1836)",-,VU,"B2a, b(ii, iii)","Moore, pflanzereiche Stillgewässer"
+Insecta,Trichoptera,Polycentropodidae,Holocentropus,stagnalis,"Holocentropus stagnalis (Albarda, 1874)",-,EN,"B2a, b(iii)",Moorgewässer
+Insecta,Trichoptera,Limnephilidae,Hydatophylax,infumatus,"Hydatophylax infumatus (McLachlan, 1865)",-,CR,"B2a, b(ii,iv)",
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,angustipennis,"Hydropsyche angustipennis (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,bulbifera,"Hydropsyche bulbifera McLachlan, 1878",-,CR,"B2a, b(i,ii,iii,iv)",
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,contubernalis,"Hydropsyche contubernalis McLachlan, 1865",-,LC,,
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,dinarica,"Hydropsyche dinarica Marinkovic-Gospodnetic, 1979",-,LC,,
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,doehleri,"Hydropsyche doehleri Tobias, 1972",-,EN,"B2a, b(iii)",Tessin
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,exocellata,"Hydropsyche exocellata Dufour, 1841",-,EN,"B2a, b(iii)","Flüsse, Mittelland"
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,fulvipes,"Hydropsyche fulvipes Curtis, 1834",-,VU,"B2a,b(iii)",Quellen
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,guttata,"Hydropsyche guttata Pictet, 1834",-,EN,"B2a, b(i,ii,iii)",
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,incognita,"Hydropsyche incognita Pitsch, 1993",-,LC,,
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,instabilis,"Hydropsyche instabilis (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,modesta,"Hydropsyche modesta Navas, 1925",-,EN,"B2a, b(,iii)",
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,pellucidula,"Hydropsyche pellucidula (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,saxonica,"Hydropsyche saxonica McLachlan, 1884",-,VU,"B2a, b(i, ii)",Kleine Bäche
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,siltalai,"Hydropsyche siltalai Doehler, 1963",-,LC,,
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,tenuis,"Hydropsyche tenuis Navas, 1932",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,angulata,"Hydroptila angulata Mosely, 1922",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,brissaga,"Hydroptila brissaga Malicky, 1996",-,EN,"B2a, b(iii)","Seen und Flüsse,Tessin"
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,dampfi,"Hydroptila dampfi Ulmer, 1929",-,VU,"B2a, b(i,iii)",Stillgewässer
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,forcipata,"Hydroptila forcipata (Eaton, 1873)",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,insubrica,"Hydroptila insubrica Ris, 1903",-,RE,,Einziger Nachweis 1896
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,ivisa,"Hydroptila ivisa Malicky, 1972",-,VU,"B2a, b(iii)",Bäche
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,martini,"Hydroptila martini Marshall, 1977",-,CR,"B2a,b(i,ii,iv)","Quellen, Tessin"
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,occulta,"Hydroptila occulta (Eaton, 1873)",-,EN,"B2a, b(i,ii,iv)",
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,pulchricornis,"Hydroptila pulchricornis Pictet, 1834",-,CR,"B2a, b(ii,iii,iv)",Stehende Gewässer
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,rheni,"Hydroptila rheni Ris, 1896",-,RE,,"Letzter Nachweis 1944, grosse Flüsse Mittelland"
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,simulans,"Hydroptila simulans Mosely, 1920",-,CR,"B2a, b(iii)",
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,sparsa,"Hydroptila sparsa Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,tigurina,"Hydroptila tigurina Ris, 1894",-,RE,,Einziger Nachweis 1888
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,tineoides,"Hydroptila tineoides Dalman, 1819",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,valesiaca,"Hydroptila valesiaca Schmid, 1947",-,EN,"B2a, b(i,ii,iii,iv)","Quellbäche, Bäche"
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,vectis,"Hydroptila vectis Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Ironoquia,dubia,"Ironoquia dubia (Stephens, 1837)",-,CR,"B2a, b(ii,iii,iv)","Sommertrockene Rinnsale, Puppe terrestrisch"
+Insecta,Trichoptera,Hydroptilidae,Ithytrichia,clavata,"Ithytrichia clavata Morton, 1905",-,EN,"B2a, b(iii)",Seen
+Insecta,Trichoptera,Hydroptilidae,Ithytrichia,lamellaris,"Ithytrichia lamellaris Eaton, 1873",-,CR,"B2a,b(i,ii,iii,iv)",Gräben und kleine Bäche in Mooren
+Insecta,Trichoptera,Lepidostomatidae,Lepidostoma,basale,"Lepidostoma basale (Kolenati, 1848)",-,VU,"B2b(i,iii)","Flüsse, Mittelland, Totholz"
+Insecta,Trichoptera,Lepidostomatidae,Lepidostoma,hirtum,"Lepidostoma hirtum (Fabricius, 1775)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Leptocerus,lusitanicus,"Leptocerus lusitanicus (McLachlan, 1884)",-,DD,,Einziger Nachweis 2004
+Insecta,Trichoptera,Leptoceridae,Leptocerus,tineiformis,"Leptocerus tineiformis Curtis, 1834",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Leptotaulius,gracilis,"Leptotaulius gracilis Schmid, 1955",-,DD,,Einziger Nachweis 1983
+Insecta,Trichoptera,Limnephilidae,Limnephilus,affinis,"Limnephilus affinis Curtis, 1834",-,CR,"B2a, b(i,ii,iii,iv)","Moore, auch temporäre Gewässer"
+Insecta,Trichoptera,Limnephilidae,Limnephilus,algosus,"Limnephilus algosus (McLachlan, 1868)",-,CR,"B2a,b(i,ii,iii,iv)","Moore, boreoalpin"
+Insecta,Trichoptera,Limnephilidae,Limnephilus,auricula,"Limnephilus auricula Curtis, 1834",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,binotatus,"Limnephilus binotatus Curtis, 1834",-,VU,"B2a, b(ii, iii)","Moore, auch temporäre Gewässer"
+Insecta,Trichoptera,Limnephilidae,Limnephilus,bipunctatus,"Limnephilus bipunctatus Curtis, 1834",-,EN,"B2a, b(i,ii, iii,iv)","Bäche, kleine Stillgewässer, auch temporäre"
+Insecta,Trichoptera,Limnephilidae,Limnephilus,borealis,"Limnephilus borealis (Zetterstedt, 1840)",-,CR,"B2a, b(i,ii,iii,iv)","Moore, boreoalpin"
+Insecta,Trichoptera,Limnephilidae,Limnephilus,centralis,"Limnephilus centralis Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,coenosus,"Limnephilus coenosus Curtis, 1834",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,decipiens,"Limnephilus decipiens (Kolenati, 1848)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,elegans,"Limnephilus elegans Curtis, 1834",-,CR,"B2a, b(i,ii,iii,iv)","Moore, auch temporäre Gewässer"
+Insecta,Trichoptera,Limnephilidae,Limnephilus,extricatus,"Limnephilus extricatus McLachlan, 1865",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,flavicornis,"Limnephilus flavicornis (Fabricius, 1787)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,flavospinosus,"Limnephilus flavospinosus Stein, 1874",-,EN,"B2a, b(iii)",Pflanzenreiche Gräben
+Insecta,Trichoptera,Limnephilidae,Limnephilus,germanus,"Limnephilus germanus McLachlan, 1875",-,VU,"B2a, b(ii,iii)",Moore
+Insecta,Trichoptera,Limnephilidae,Limnephilus,griseus,"Limnephilus griseus (Linnaeus, 1758)",-,EN,"B2a, b(i,ii,iii,iv)","Moore, Bäche u. kleine Stillgewässer, auch temporäre"
+Insecta,Trichoptera,Limnephilidae,Limnephilus,helveticus,"Limnephilus helveticus Schmid, 1965",-,VU,"B2a, b(iii)",Moore
+Insecta,Trichoptera,Limnephilidae,Limnephilus,hirsutus,"Limnephilus hirsutus (Pictet, 1834)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,ignavus,"Limnephilus ignavus McLachlan, 1865",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,incisus,"Limnephilus incisus (Curtis, 1834)",-,EN,"B2a, b(ii,iii,iv)",Sommertrockene Stillgewässer
+Insecta,Trichoptera,Limnephilidae,Limnephilus,italicus,"Limnephilus italicus McLachlan, 1884",-,VU,"B2a, b(ii, iii)",Moore
+Insecta,Trichoptera,Limnephilidae,Limnephilus,lunatus,"Limnephilus lunatus Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,marmoratus,"Limnephilus marmoratus Curtis, 1834",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,nigriceps,"Limnephilus nigriceps (Zetterstedt, 1840)",-,EN,"B2a, b (i,ii,iii,iv)",Moore
+Insecta,Trichoptera,Limnephilidae,Limnephilus,politus,"Limnephilus politus McLachlan, 1865",-,RE,,Letzter Nachweis 1900; Kleinseen
+Insecta,Trichoptera,Limnephilidae,Limnephilus,rhombicus,"Limnephilus rhombicus (Linnaeus, 1758)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,sericeus,"Limnephilus sericeus (Say, 1824)",-,VU,"B2a, b(iii)","Moore, Alpen, boreoalpin"
+Insecta,Trichoptera,Limnephilidae,Limnephilus,sparsus,"Limnephilus sparsus Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,stigma,"Limnephilus stigma Curtis, 1834",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Limnephilus,subcentralis,"Limnephilus subcentralis Brauer, 1857",-,VU,"B2a, b(ii, iii)",Moore
+Insecta,Trichoptera,Limnephilidae,Limnephilus,tauricus,"Limnephilus tauricus Schmid, 1964",-,NE,,unsicherer Nachweis 1978 ohne Beleg
+Insecta,Trichoptera,Limnephilidae,Limnephilus,vittatus,"Limnephilus vittatus (Fabricius, 1798)",-,VU,"B2a, b(ii, iii)","Moore, auch temporäre Gewässer"
+Insecta,Trichoptera,Goeridae,Lithax,niger,"Lithax niger (Hagen, 1859)",-,LC,,
+Insecta,Trichoptera,Goeridae,Lithax,obscurus,"Lithax obscurus (Hagen, 1859)",-,CR,"B2b(i,ii,iii,iv)",Quellen u. kl. Fliessgewässer
+Insecta,Trichoptera,Psychomyiidae,Lype,phaeopa,"Lype phaeopa (Stephens, 1836)",-,LC,,
+Insecta,Trichoptera,Psychomyiidae,Lype,reducta,"Lype reducta (Hagen, 1868)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Melampophylax,melampus,"Melampophylax melampus (McLachlan, 1876)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Melampophylax,mucoreus,"Melampophylax mucoreus (Hagen, 1861)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Melampophylax,nepos,"Melampophylax nepos McLachlan, 1880",-,NE,,Fehlbestimmung
+Insecta,Trichoptera,Limnephilidae,Mesophylax,aspersus,"Mesophylax aspersus Rambur, 1842",-,DD,,Einziger Nachweis 1973
+Insecta,Trichoptera,Limnephilidae,Mesophylax,impunctatus,"Mesophylax impunctatus McLachlan, 1884",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Metanoea,flavipennis,"Metanoea flavipennis (Pictet, 1834)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Metanoea,rhaetica,"Metanoea rhaetica Schmid, 1955",-,NT,,
+Insecta,Trichoptera,Brachycentridae,Micrasema,longulum,"Micrasema longulum McLachlan, 1876",-,NE,,zwei unsicherere Nachweise ohne Belege
+Insecta,Trichoptera,Brachycentridae,Micrasema,minimum,"Micrasema minimum McLachlan, 1876",-,RE,,Einziger Nachweis 1900; grosse Flüsse Mittelland
+Insecta,Trichoptera,Brachycentridae,Micrasema,morosum,"Micrasema morosum (McLachlan, 1868)",-,NT,,
+Insecta,Trichoptera,Brachycentridae,Micrasema,setiferum,"Micrasema setiferum (Pictet, 1834)",-,EN,"B2a, b(i.ii,iii,iv)",Flüsse
+Insecta,Trichoptera,Limnephilidae,Micropterna,fissa,"Micropterna fissa (McLachlan, 1875)",-,VU,"B2a, b(ii)",
+Insecta,Trichoptera,Limnephilidae,Micropterna,lateralis,"Micropterna lateralis (Stephens, 1837)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Micropterna,nycterobia,"Micropterna nycterobia McLachlan, 1875",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Micropterna,sequax,"Micropterna sequax McLachlan, 1875",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Micropterna,testacea,"Micropterna testacea (Gmelin, 1789)",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Microptila,minutissima,"Microptila minutissima Ris, 1897",-,RE,,"Einziger Nachweis 1888, Quellbäche"
+Insecta,Trichoptera,Molannidae,Molanna,albicans,"Molanna albicans (Zetterstedt, 1840)",-,VU,"B2a, b(i,ii,iv)","Seen, nordische Art, spätglazialies Relikt"
+Insecta,Trichoptera,Molannidae,Molanna,angustata,"Molanna angustata Curtis, 1834",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Mystacides,azurea,"Mystacides azurea (Linnaeus, 1761)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Mystacides,longicornis,"Mystacides longicornis (Linnaeus, 1758)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Mystacides,nigra,"Mystacides nigra (Linnaeus, 1758)",-,EN,"B2a, b(i,ii,iiii,v)",Flüsse und Seen
+Insecta,Trichoptera,Limnephilidae,Nemotaulius,punctatolineatus,"Nemotaulius punctatolineatus Retzius, 1783",-,CR,"B2a, b(i,ii,iii,iv)",Pflanzenreiche kleine Seen
+Insecta,Trichoptera,Polycentropodidae,Neureclipsis,bimaculata,"Neureclipsis bimaculata (Linnaeus, 1758)",-,LC,,
+Insecta,Trichoptera,Sericostomatidae,Notidobia,ciliaris,"Notidobia ciliaris (Linnaeus, 1761)",-,VU,"B2a, b(ii,iii)","Quellbäche, Epirhithral"
+Insecta,Trichoptera,Odontoceridae,Odontocerum,albicorne,"Odontocerum albicorne (Scopoli, 1763)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Oecetis,furva,"Oecetis furva (Rambur, 1842)",-,VU,"B2a, b(i,ii,iii)","Flüsse, Seen, Altläufe"
+Insecta,Trichoptera,Leptoceridae,Oecetis,lacustris,"Oecetis lacustris (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Oecetis,notata,"Oecetis notata (Rambur, 1842)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Oecetis,ochracea,"Oecetis ochracea (Curtis, 1825)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Oecetis,testacea,"Oecetis testacea (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Sericostomatidae,Oecismus,monedula,"Oecismus monedula (Hagen, 1859)",-,DD,,"zwei Nachweise, letzmals 2003"
+Insecta,Trichoptera,Phryganeidae,Oligostomis,reticulata,"Oligostomis reticulata (Linnaeus, 1761)",-,EN,"B2a, b(i,ii,iii,iv)","Moore, auch austrocknende Gewässer"
+Insecta,Trichoptera,Phryganeidae,Oligotricha,striata,"Oligotricha striata (Linnaeus, 1758)",-,NT,,
+Insecta,Trichoptera,Hydroptilidae,Orthotrichia,angustella,"Orthotrichia angustella McLachlan, 1865",-,RE,,letzter Nachweis 1914; Flüsse Mittelland
+Insecta,Trichoptera,Hydroptilidae,Orthotrichia,costalis,"Orthotrichia costalis (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Orthotrichia,tragetti,"Orthotrichia tragetti Mosely, 1930",-,DD,,einziger Nachweis 2010
+Insecta,Trichoptera,Hydroptilidae,Oxyethira,falcata,"Oxyethira falcata Morton, 1893",-,CR,"B2a, b(i,ii,iii,iv)","Quellen, Quellbäche"
+Insecta,Trichoptera,Hydroptilidae,Oxyethira,flavicornis,"Oxyethira flavicornis Pictet, 1834",-,LC,,
+Insecta,Trichoptera,Hydroptilidae,Oxyethira,frici,Oxyethira frici Klapalek 1891,-,NE,,"Literaturnachweis (Ris, 1893)"
+Insecta,Trichoptera,Hydroptilidae,Oxyethira,sagittifera,"Oxyethira sagittifera Ris, 1897",-,NE,,"Literaturnachweis (Ris, 1897)"
+Insecta,Trichoptera,Hydroptilidae,Oxyethira,simplex,"Oxyethira simplex Ris, 1897",-,RE,,Letzter Nachweis 1944
+Insecta,Trichoptera,Limnephilidae,Parachiona,picicornis,"Parachiona picicornis (Pictet, 1834)",-,NT,,
+Insecta,Trichoptera,Philopotamidae,Philopotamus,ludificatus,"Philopotamus ludificatus McLachlan, 1878",-,LC,,
+Insecta,Trichoptera,Philopotamidae,Philopotamus,montanus,"Philopotamus montanus (Donovan, 1813)",-,VU,"B2a, b(ii,iii)",Kleine Bäche bis in mittlere Höhenlagen
+Insecta,Trichoptera,Philopotamidae,Philopotamus,variegatus,"Philopotamus variegatus (Scopoli, 1763)",-,LC,,
+Insecta,Trichoptera,Phryganeidae,Phryganea,bipunctata,"Phryganea bipunctata Retzius, 1783",-,NT,,
+Insecta,Trichoptera,Phryganeidae,Phryganea,grandis,"Phryganea grandis Linnaeus, 1758",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Platyphylax,frauenfeldi,"Platyphylax frauenfeldi (Brauer, 1857)",-,RE,,"Einziger Nachweis 1888, grosse Flüsse"
+Insecta,Trichoptera,Polycentropodidae,Plectrocnemia,appennina,"Plectrocnemia appennina McLachlan, 1884",-,EN,"B2a, b(i,ii,iv)","Quellbäche, Bäche"
+Insecta,Trichoptera,Polycentropodidae,Plectrocnemia,brevis,"Plectrocnemia brevis McLachlan, 1871",-,NT,,
+Insecta,Trichoptera,Polycentropodidae,Plectrocnemia,conspersa,"Plectrocnemia conspersa (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Polycentropodidae,Plectrocnemia,geniculata,"Plectrocnemia geniculata McLachlan, 1871",-,NT,,
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,corniger,"Polycentropus corniger McLachlan, 1884",-,EN,"B2a, b(iii)",
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,excisus,"Polycentropus excisus Klapalek, 1894",-,NT,,
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,flavomaculatus,"Polycentropus flavomaculatus (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,irroratus,"Polycentropus irroratus Curtis, 1835",-,VU,"B2a, b(i,ii,iii)",
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,kingi,"Polycentropus kingi McLachlan, 1881",-,CR,"B2a, b(i,ii,iv)",Kleine Bäche
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,morettii,"Polycentropus morettii Malicky, 1977",-,NT,,
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,schmidi,"Polycentropus schmidi Novak & Botosaneanu, 1965",-,DD,,Einziger Nachweis 2004
+Insecta,Trichoptera,Limnephilidae,Potamophylax,cingulatus,"Potamophylax cingulatus (Stephens, 1837)",-,LC,,im Tessin die Unterart P.C. alpinus
+Insecta,Trichoptera,Limnephilidae,Potamophylax,latipennis,"Potamophylax latipennis (Curtis, 1834)",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Potamophylax,luctuosus,"Potamophylax luctuosus Piller & Mitterpacher, 1783",-,EN,"B2a, b(i,ii, iii)","Quellbäche, Bäche"
+Insecta,Trichoptera,Limnephilidae,Potamophylax,nigricornis,"Potamophylax nigricornis (Pictet, 1834)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Potamophylax,rotundipennis,"Potamophylax rotundipennis (Brauer, 1857)",-,EN,"B2a, b(iii)",
+Insecta,Trichoptera,Limnephilidae,Pseudopsilopteryx,zimmeri,"Pseudopsilopteryx zimmeri (McLachlan, 1876)",-,LC,,
+Insecta,Trichoptera,Psychomyiidae,Psychomyia,fragilis,"Psychomyia fragilis (Pictet, 1834)",-,EN,"B2 a, b(i,ii,iv)",Fliessgewässer und Seen
+Insecta,Trichoptera,Psychomyiidae,Psychomyia,pusilla,"Psychomyia pusilla (Fabricius, 1781)",-,LC,,
+Insecta,Trichoptera,Ptilocolepidae,Ptilocolepus,granulatus,"Ptilocolepus granulatus (Pictet, 1834)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Rhadicoleptus,alpestris,"Rhadicoleptus alpestris (Kolenati, 1848)",-,NT,,
+Insecta,Trichoptera,Limnephilidae,Rhadicoleptus,ucenorum,"Rhadicoleptus ucenorum McLachlan, 1876",-,CR,"B2a, b(i,ii,iii,iv)","Moortümpel, hochalpin"
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,albardana,"Rhyacophila albardana McLachlan, 1879",-,NT,,
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,aquitanica,"Rhyacophila aquitanica McLachlan, 1879",-,EN,"B2a, b(ii,iv)",kleine Bäche
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,aurata,"Rhyacophila aurata Brauer, 1857",-,VU,"B2a, b(ii,iii)",kleine Bäche in tieferen Lagen
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,bonaparti,"Rhyacophila bonaparti Schmid, 1947",-,VU,"B2a, b(ii, iii)",Quellen
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,dorsalis,"Rhyacophila dorsalis (Curtis, 1834)",-,LC,,in der Schweiz Übergänge zw. R. d. dorsalis u. R. d. persimilis
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,fasciata,"Rhyacophila fasciata Hagen, 1859",-,LC,,
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,glareosa,"Rhyacophila glareosa McLachlan, 1867",-,NT,,
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,hirticornis,"Rhyacophila hirticornis McLachlan, 1879",-,NT,,
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,intermedia,"Rhyacophila intermedia McLachlan, 1868",-,LC,,
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,laevis,"Rhyacophila laevis Pictet, 1834",-,VU,"B2a, b(ii, iii)",Quellen
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,meyeri,"Rhyacophila meyeri McLachlan, 1879",-,VU,"B2a, b(iii)",Quellen
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,obliterata,"Rhyacophila obliterata McLachlan, 1863",-,DD,,einziger Nachweis 1995
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,orobica,"Rhyacophila orobica Moretti, 1991",-,CR,"B2a, b(i,iii,iv)","Quellen, Tessin"
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,pascoei,"Rhyacophila pascoei McLachlan, 1879",-,RE,,"Letzter Nachweis 1895, grosse Flüsse"
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,philopotamoides,"Rhyacophila philopotamoides McLachlan, 1879",-,VU,"B2a, b(ii, iii)",Quellen
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,praemorsa,"Rhyacophila praemorsa McLachlan, 1879",-,VU,"B2a, b(ii)",kleine Bäche
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,pubescens,"Rhyacophila pubescens Pictet, 1834",-,LC,,
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,rectispina,"Rhyacophila rectispina McLachlan, 1884",-,NT,,
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,simulatrix,"Rhyacophila simulatrix McLachlan, 1879",-,CR,"B2a, b(iii)","Alpen, in der Schweiz nur die Unterart R.s.vinconi"
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,stigmatica,"Rhyacophila stigmatica (Kolenati, 1859)",-,VU,"B2a, b(iii)","Quellen, kl. Bäche"
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,torrentium,"Rhyacophila torrentium Pictet, 1834",-,LC,,
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,tristis,"Rhyacophila tristis Pictet, 1834",-,LC,,
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,vulgaris,"Rhyacophila vulgaris Pictet, 1834",-,LC,,
+Insecta,Trichoptera,Sericostomatidae,Sericostoma,flavicorne,"Sericostoma flavicorne Schneider, 1845",-,NT,,
+Insecta,Trichoptera,Sericostomatidae,Sericostoma,galeatum,"Sericostoma galeatum Rambur, 1842",-,EN,"B2a, b(i,ii,iii,iv)",Seen
+Insecta,Trichoptera,Sericostomatidae,Sericostoma,personatum,"Sericostoma personatum (Kirby & Spence, 1862)",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Setodes,argentipunctellus,"Setodes argentipunctellus McLachlan, 1877",-,LC,,
+Insecta,Trichoptera,Leptoceridae,Setodes,punctatus,"Setodes punctatus (Fabricius, 1793)",-,LC,,
+Insecta,Trichoptera,Goeridae,Silo,nigricornis,"Silo nigricornis (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Goeridae,Silo,pallipes,"Silo pallipes (Fabricius, 1781)",-,LC,,
+Insecta,Trichoptera,Goeridae,Silo,piceus,"Silo piceus (Brauer, 1857)",-,VU,"B2a,b(i,iii)",Grössere Fliessgewässer
+Insecta,Trichoptera,Hydroptilidae,Stactobia,eatoniella,"Stactobia eatoniella McLachlan, 1880",-,RE,,"Letzter Nachweis 1944, Quellbäche"
+Insecta,Trichoptera,Hydroptilidae,Stactobia,furcata,"Stactobia furcata Mosely, 1930",-,DD,,einziger Nachweis 1991
+Insecta,Trichoptera,Hydroptilidae,Stactobia,moselyi,"Stactobia moselyi Kimmins, 1949",-,EN,"B2a, b(i,ii,iv)","Quellen, ausschliesslich hygropterisch"
+Insecta,Trichoptera,Hydroptilidae,Stactobiella,risi,"Stactobiella risi (Felber, 1908)",-,RE,,"letzter Nachweis 1908, Quellbäche"
+Insecta,Trichoptera,Limnephilidae,Stenophylax,mitis,"Stenophylax mitis McLachlan, 1875",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Stenophylax,mucronatus,"Stenophylax mucronatus McLachlan, 1880",-,EN,"B2a, b(i,ii,iii,iv)",
+Insecta,Trichoptera,Limnephilidae,Stenophylax,permistus,"Stenophylax permistus McLachlan, 1895",-,LC,,
+Insecta,Trichoptera,Limnephilidae,Stenophylax,vibex,"Stenophylax vibex (Curtis, 1834)",-,NT,,
+Insecta,Trichoptera,Glossosomatidae,Synagapetus,dubitans,"Synagapetus dubitans McLachlan, 1879",-,NT,,
+Insecta,Trichoptera,Glossosomatidae,Synagapetus,iridipennis,"Synagapetus iridipennis McLachlan, 1879",-,VU,"B2a, b(ii, iii)",Quellen
+Insecta,Trichoptera,Psychomyiidae,Tinodes,antonioi,"Tinodes antonioi Botosaneanu & Taticchi-Vigano, 1974",-,EN,"B2a, b(iii)",Tessin
+Insecta,Trichoptera,Psychomyiidae,Tinodes,assimilis,"Tinodes assimilis McLachlan, 1865",-,DD,"B2a,b(iii)","Quellen, Quellbäche, hygropetrisch"
+Insecta,Trichoptera,Psychomyiidae,Tinodes,dives,"Tinodes dives (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Psychomyiidae,Tinodes,luscinia,"Tinodes luscinia Ris, 1903",-,EN,"B2a, b(iii)",Tessin
+Insecta,Trichoptera,Psychomyiidae,Tinodes,maclachlani,"Tinodes maclachlani Kimmins, 1966",-,VU,"B2a, b(iii)","Quellbäche, Epirhithral"
+Insecta,Trichoptera,Psychomyiidae,Tinodes,maculicornis,"Tinodes maculicornis (Pictet, 1834)",-,VU,"B2a, b(iii)","Stehende und fliessende Gewässer, auch hygropetrisch"
+Insecta,Trichoptera,Psychomyiidae,Tinodes,pallidulus,"Tinodes pallidulus McLachlan, 1878",-,EN,"B2a, b(i, ii,iii,iv)","Kleine Bäche, Giessen"
+Insecta,Trichoptera,Psychomyiidae,Tinodes,rostocki,"Tinodes rostocki McLachlan, 1878",-,NT,,
+Insecta,Trichoptera,Psychomyiidae,Tinodes,sylvia,"Tinodes sylvia Ris, 1903",-,CR,"B2a, b(i,ii,iii,iv)","Quellen, Tessin"
+Insecta,Trichoptera,Psychomyiidae,Tinodes,unicolor,"Tinodes unicolor (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Psychomyiidae,Tinodes,waeneri,"Tinodes waeneri (Linnaeus, 1758)",-,LC,,
+Insecta,Trichoptera,Psychomyiidae,Tinodes,zelleri,"Tinodes zelleri McLachlan, 1878",-,VU,"B2a, b( iii)","Quellen, hygropetrisch"
+Insecta,Trichoptera,Leptoceridae,Triaenodes,bicolor,"Triaenodes bicolor (Curtis, 1834)",-,CR,"B2a, b(i,ii,iii,iv)","Moore, pflanzenreiche Stillgewässer"
+Insecta,Trichoptera,Hydroptilidae,Tricholeiochiton,fagesii,"Tricholeiochiton fagesii (Guinard, 1879)",-,CR,"B2a, b(i,ii,iii,iv)","Moore, Stillgewässer"
+Insecta,Trichoptera,Phryganeidae,Trichostegia,minor,"Trichostegia minor (Curtis, 1834)",-,VU,"B2a, b(iii)","Moore, auch temporäre Gewässer"
+Insecta,Trichoptera,Philopotamidae,Wormaldia,copiosa,"Wormaldia copiosa (McLachlan, 1868)",-,LC,,
+Insecta,Trichoptera,Philopotamidae,Wormaldia,mediana,"Wormaldia mediana McLachlan, 1878",-,CR,"B2a, b(i,ii,iii,iv)","Bäche, Tessin"
+Insecta,Trichoptera,Philopotamidae,Wormaldia,occipitalis,"Wormaldia occipitalis (Pictet, 1834)",-,LC,,
+Insecta,Trichoptera,Philopotamidae,Wormaldia,pulla,"Wormaldia pulla (McLachlan, 1878)",-,EN,"B2a, b(i,ii,iiii,iv)",
+Insecta,Trichoptera,Philopotamidae,Wormaldia,subnigra,"Wormaldia subnigra McLachlan, 1865",-,RE,,"Letzter Nachweis 1900, Flüsse Mittelland"
+Insecta,Trichoptera,Philopotamidae,Wormaldia,variegata,"Wormaldia variegata maclachlani Kimmins, 1953",-,VU,"B2a, b(iii)","Tessin, in der Schweiz die Unterart W. v. maclachlani"

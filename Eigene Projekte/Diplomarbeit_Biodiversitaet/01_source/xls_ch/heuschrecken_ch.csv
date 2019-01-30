@@ -1,0 +1,113 @@
+classe,ordre,famille,genre,espèce,nom scientifique,D,Cat.,Criteria UICN,Prot.,Bemerkungen
+Insecta,orthoptera,Tettigonidae,Anonconotus,"alpinus (Yersin, 1858)","Anonconotus alpinus (Yersin, 1858)",Alpenschrecke,VU,"B2a, B2b(iii,iv)",,Grünlandart
+Insecta,orthoptera,Tettigonidae,Antaxius,"difformis (Brunner von Wattenwyl, 1861)","Antaxius difformis (Brunner von Wattenwyl, 1861)",Alpine Bergschrecke,NT,,,
+Insecta,orthoptera,Tettigonidae,Antaxius,"pedestris (Fabricius, 1787)","Antaxius pedestris (Fabricius, 1787)",Atlantische Bergschrecke,NT,,,
+Insecta,orthoptera,Tettigonidae,Barbitistes,"obtusus Targioni-Tozzetti, 1881","Barbitistes obtusus Targioni-Tozzetti, 1881",Südalpen-Säbelschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Barbitistes,"serricauda (Fabricius, 1794)","Barbitistes serricauda (Fabricius, 1794)",Laubholz-Säbelschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Conocephalus,"dorsalis (Latreille, 1804)","Conocephalus dorsalis (Latreille, 1804)",Kurzflüglige Schwertschrecke,EN,"B2a, B2b(iii,iv)",,Sumpfart
+Insecta,orthoptera,Tettigonidae,Conocephalus,"fuscus (Fabricius, 1793)","Conocephalus fuscus (Fabricius, 1793)",Langflüglige Schwertschrecke,VU,"B2b(iii,iv)",,Sumpfart
+Insecta,orthoptera,Tettigonidae,Decticus,"verrucivorus (Linnaeus, 1758)","Decticus verrucivorus (Linnaeus, 1758)",Warzenbeisser,NT,,,
+Insecta,orthoptera,Tettigonidae,Ephippiger,"ephippiger diurnus Dufour, 1841","Ephippiger ephippiger diurnus Dufour, 1841",Westliche Sattelschrecke,EN,"B2a, B2b(iii,iv)",§CH,"Waldrandart, auch verbuschter Flächen"
+Insecta,orthoptera,Tettigonidae,Ephippiger,"terrestris bormansi von Wattenwyl, 1882","Ephippiger terrestris bormansi von Wattenwyl, 1882",Südalpen-Sattelschrecke,VU,"B2b(iii,iv)",,Grünlandart
+Insecta,orthoptera,Tettigonidae,Ephippiger,"vicheti Harz, 1966","Ephippiger vicheti Harz, 1966",Strauch-Sattelschrecke,VU,"B2b(iii,iv)",,Waldrandart
+Insecta,orthoptera,Tettigonidae,Eupholidoptera,"chabrieri (Charpentier, 1825)","Eupholidoptera chabrieri (Charpentier, 1825)",Grüne Strauchschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Leptophyes,"albovittata (Kollar, 1833)","Leptophyes albovittata (Kollar, 1833)",Gestreifte Zartschrecke,DD,,,Erstnachweis 1999
+Insecta,orthoptera,Tettigonidae,Leptophyes,"laticauda (Frivaldsky, 1867)","Leptophyes laticauda (Frivaldsky, 1867)",Südliche Zartschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Leptophyes,"punctatissima (Bosc, 1792)","Leptophyes punctatissima (Bosc, 1792)",Punktierte Zartschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Meconema,"meridionale Costa, 1860","Meconema meridionale Costa, 1860",Südliche Eichenschrecke,LC,,,In Ausbreitung
+Insecta,orthoptera,Tettigonidae,Meconema,"thalassinum (De Geer, 1773)","Meconema thalassinum (De Geer, 1773)",Gemeine Eichenschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Metrioptera,"bicolor (Philippi, 1830)","Metrioptera bicolor (Philippi, 1830)",Zweifarbige Beissschrecke,VU,"B2b(iii,iv)",,Grünlandart
+Insecta,orthoptera,Tettigonidae,Metrioptera,"brachyptera (Linnaeus, 1761)","Metrioptera brachyptera (Linnaeus, 1761)",Kurzflüglige Beissschrecke,NT,,,
+Insecta,orthoptera,Tettigonidae,Metrioptera,"fedtschenkoi minor (Nadig, 1961)","Metrioptera fedtschenkoi minor (Nadig, 1961)",Bachufer-Beissschrecke,LC,,,In Ausbreitung
+Insecta,orthoptera,Tettigonidae,Metrioptera,"roeselii (Hagenbach, 1822)","Metrioptera roeselii (Hagenbach, 1822)",Roesels Beissschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Metrioptera,"saussuriana (Frey-Gessner, 1872)","Metrioptera saussuriana (Frey-Gessner, 1872)",Gebirgs-Beissschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Pachytrachis,"striolatus (Fieber, 1853)","Pachytrachis striolatus (Fieber, 1853)",Gestreifte Südschrecke,CR,"B2a, B2b(i,ii,iii,iv)",§CH,Grünlandart
+Insecta,orthoptera,Tettigonidae,Phaneroptera,"falcata (Poda, 1761)","Phaneroptera falcata (Poda, 1761)",Gemeine Sichelschrecke,VU,"B2b(iii,iv)",,Grünlandart
+Insecta,orthoptera,Tettigonidae,Phaneroptera,"nana Fieber, 1853","Phaneroptera nana Fieber, 1853",Vierpunktige Sichelschrecke,LC,,,In Ausbreitung
+Insecta,orthoptera,Tettigonidae,Pholidoptera,"aptera (Fabricius, 1793)","Pholidoptera aptera (Fabricius, 1793)",Alpen-Strauchschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Pholidoptera,"fallax (Fischer, 1853)","Pholidoptera fallax (Fischer, 1853)",Südliche Strauchschrecke,NT,,,
+Insecta,orthoptera,Tettigonidae,Pholidoptera,"griseoaptera (De Geer, 1773)","Pholidoptera griseoaptera (De Geer, 1773)",Gewöhnliche Strauchschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Pholidoptera,"littoralis insubrica Nadig, 1961","Pholidoptera littoralis insubrica Nadig, 1961",Insubrische Strauchschrecke,VU,"B2b(iii,iv)",§CH,Grünlandart
+Insecta,orthoptera,Tettigonidae,Platycleis,"albopunctata albopunctata (Goeze, 1778)","Platycleis albopunctata albopunctata (Goeze, 1778)",Westliche Beissschrecke,NT,,,
+Insecta,orthoptera,Tettigonidae,Platycleis,"albopunctata grisea (Fabricius, 1781)","Platycleis albopunctata grisea (Fabricius, 1781)",Graue Beissschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Platycleis,"tessellata (Charpentier, 1825)","Platycleis tessellata (Charpentier, 1825)",Braunfleckige Beissschrecke,CR,"B2a, B2b(iii,iv)",§CH,"Erstnachweis 1995, Grünlandart"
+Insecta,orthoptera,Tettigonidae,Polysarcus,"denticauda (Charpentier, 1825)","Polysarcus denticauda (Charpentier, 1825)",Wanstschrecke,NT,,§CH,
+Insecta,orthoptera,Tettigonidae,Ruspolia,"nitidula (Scopoli, 1786)","Ruspolia nitidula (Scopoli, 1786)",Grosse Schiefkopfschrecke,NT,,,In Ausbreitung
+Insecta,orthoptera,Tettigonidae,Saga,"pedo (Pallas, 1771)","Saga pedo (Pallas, 1771)",Sägeschrecke,CR,"B2a, B2b(iii,iv), C2i",§CH,"Grünlandart, Berner Konvention"
+Insecta,orthoptera,Tettigonidae,Tettigonia,"cantans (Fuessly, 1775)","Tettigonia cantans (Fuessly, 1775)",Zwitscherschrecke,LC,,,
+Insecta,orthoptera,Tettigonidae,Tettigonia,"caudata (Charpentier, 1842)","Tettigonia caudata (Charpentier, 1842)",Östliches Heupferd,VU,"B2b(iii,iv)",§CH,Grünlandart
+Insecta,orthoptera,Tettigonidae,Tettigonia,"viridissima (Linnaeus, 1758)","Tettigonia viridissima (Linnaeus, 1758)",Grünes Heupferd,LC,,,
+Insecta,orthoptera,Tettigonidae,Yersinella,"raymondii (Yersin, 1860)","Yersinella raymondii (Yersin, 1860)",Kleine Strauchschrecke,NT,,,
+Insecta,orthoptera,Raphidophoridae,Tachycines,"asynamorus Adelung, 1902","Tachycines asynamorus Adelung, 1902",Gewächshausschrecke,NE,,,"Synanthrop, eingeführt"
+Insecta,orthoptera,Raphidophoridae,Troglophilus,"cavicola (Kollar, 1833)","Troglophilus cavicola (Kollar, 1833)",Kollars Höhlenschrecke,NE,,,Erstnachweis in 2004
+Insecta,orthoptera,Gryllidae,Acheta,"domesticus (Linnaeus, 1758)","Acheta domesticus (Linnaeus, 1758)",Heimchen,NE,,,Synanthrop
+Insecta,orthoptera,Gryllidae,Eumodicogryllus,"bordigalensis (Latreille, 1804)","Eumodicogryllus bordigalensis (Latreille, 1804)",Südliche Grille,NT,,,
+Insecta,orthoptera,Gryllidae,Gryllomorpha,"dalmatina (Ocskay, 1833)","Gryllomorpha dalmatina (Ocskay, 1833)",Stumme Grille,NE,,,Synanthrop
+Insecta,orthoptera,Gryllidae,Gryllus,"campestris Linnaeus, 1758","Gryllus campestris Linnaeus, 1758",Feldgrille,LC,,,
+Insecta,orthoptera,Gryllidae,Melanogryllus,"desertus (Pallas, 1771)","Melanogryllus desertus (Pallas, 1771)",Steppengrille,RE,,,Letzte Beobachtung 1960
+Insecta,orthoptera,Gryllidae,Nemobius,"sylvestris (Bosc, 1792)","Nemobius sylvestris (Bosc, 1792)",Waldgrille,LC,,,
+Insecta,orthoptera,Gryllidae,Oecanthus,"pellucens (Scopoli, 1763)","Oecanthus pellucens (Scopoli, 1763)",Weinhähnchen,LC,,,In Ausbreitung
+Insecta,orthoptera,Gryllidae,Pteronemobius,"heydenii (Fischer, 1853)","Pteronemobius heydenii (Fischer, 1853)",Sumpfgrille,VU,"B2a, B2b(iii,iv)",,Sumpfart
+Insecta,orthoptera,Gryllidae,Pteronemobius,"lineolatus (Brullé, 1835)","Pteronemobius lineolatus (Brullé, 1835)",Gestreifte Sumpfgrille,CR,"B2a, B2b(iii,iv)",,Pionierart
+Insecta,orthoptera,Gryllotalpidae,Gryllotalpa,"gryllotalpa (Linnaeus, 1758)","Gryllotalpa gryllotalpa (Linnaeus, 1758)",Maulwurfsgrille,DD,,,
+Insecta,orthoptera,Tetrigidae,Tetrix,"bipunctata (Linnaeus, 1758)","Tetrix bipunctata (Linnaeus, 1758)",Zweitpunkt-Dornschrecke,NT,,,
+Insecta,orthoptera,Tetrigidae,Tetrix,"ceperoi Bolivar, 1887","Tetrix ceperoi Bolivar, 1887",Westliche Dornschrecke,EN,"B2a, B2b(iii,iv), B2c(iii)",,Pionierart
+Insecta,orthoptera,Tetrigidae,Tetrix,"subulata (Linnaeus, 1758)","Tetrix subulata (Linnaeus, 1758)",Säbeldornschrecke,LC,,,
+Insecta,orthoptera,Tetrigidae,Tetrix,"tenuicornis Sahlberg, 1893","Tetrix tenuicornis Sahlberg, 1893",Langfühler-Dornschrecke,LC,,,
+Insecta,orthoptera,Tetrigidae,Tetrix,"tuerki Krauss, 1876","Tetrix tuerki Krauss, 1876",Türks Dornschrecke,CR,"B2a, B2b(iii,iv)",,"Pionierart, im Rückgang"
+Insecta,orthoptera,Tetrigidae,Tetrix,"undulata (Sowerby, 1806)","Tetrix undulata (Sowerby, 1806)",Gemeine Dornschrecke,LC,,,
+Insecta,orthoptera,Tetrigidae,Uvarovitettix,"depressus (Brisout de Barneville, 1849)","Uvarovitettix depressus (Brisout de Barneville, 1849)",Eingedrückte Dornschrecke,VU,"B2a, B2b(iii,iv)",,Pionierart
+Insecta,orthoptera,Tridactylidae,Xya,"pfaendleri Harz, 1970","Xya pfaendleri Harz, 1970",Pfaendlers Grabschrecke,NE,,,"Gemeldet im 19. Jh., zweifelhaft"
+Insecta,orthoptera,Tridactylidae,Xya,"variegata Latreille, 1809","Xya variegata Latreille, 1809",Dreizehen-Grabschrecke,RE,,,"Pionierart, gemeldet im 19. Jh."
+Insecta,orthoptera,Catantopidae,Anacridium,"aegyptium (Linnaeus, 1764)","Anacridium aegyptium (Linnaeus, 1764)",Ägyptische Heuschrecke,NE,,,
+Insecta,orthoptera,Catantopidae,Bohemanella,"frigida (Boheman, 1846)","Bohemanella frigida (Boheman, 1846)",Nordische Gebirgsschrecke,LC,,,
+Insecta,orthoptera,Catantopidae,Calliptamus,"barbarus (O.G. Costa, 1836)","Calliptamus barbarus (O.G. Costa, 1836)",Costas Schönschrecke,EN,"B2a, B2b(iii,iv)",,Pionierart
+Insecta,orthoptera,Catantopidae,Calliptamus,"italicus (Linnaeus, 1758)","Calliptamus italicus (Linnaeus, 1758)",Italienische Schönschrecke,VU,"B2b(iii,iv)",§CH,Grünlandart
+Insecta,orthoptera,Catantopidae,Calliptamus,"siciliae Ramme, 1927","Calliptamus siciliae Ramme, 1927",Provence-Schönschrecke,EN,"B2b(iii,iv), B2c(iii)",§CH,Pionierart
+Insecta,orthoptera,Catantopidae,Miramella,"alpina (Kollar, 1833)","Miramella alpina (Kollar, 1833)",Alpine Gebirgsschrecke,LC,,,
+Insecta,orthoptera,Catantopidae,Miramella,"formosanta (Fruhstorfer, 1921)","Miramella formosanta (Fruhstorfer, 1921)",Tessiner Gebirgsschrecke,LC,,,In Ausbreitung
+Insecta,orthoptera,Catantopidae,Odontopodisma,"decipiens insubrica Nadig, 1980","Odontopodisma decipiens insubrica Nadig, 1980",Insubrische Grünschrecke,LC,,,
+Insecta,orthoptera,Catantopidae,Pezotettix,"giornae (Rossi, 1794)","Pezotettix giornae (Rossi, 1794)",Kleine Knarrschrecke,NT,,,
+Insecta,orthoptera,Catantopidae,Podisma,"pedestris (Linnaeus, 1758)","Podisma pedestris (Linnaeus, 1758)",Gewöhnliche Gebirgsschrecke,LC,,,Population im Jura isoliert
+Insecta,orthoptera,Acrididae,Acrotylus,"patruelis (Herrich-Schäffer, 1838)","Acrotylus patruelis (Herrich-Schäffer, 1838)",Schlanke Ödlandschrecke,NE,,,Erstnachweis 2003
+Insecta,orthoptera,Acrididae,Aeropedellus,"variegatus (Fischer von Waldheim, 1846)","Aeropedellus variegatus (Fischer von Waldheim, 1846)",Alpen-Keulenschrecke,NT,,,
+Insecta,orthoptera,Acrididae,Aiolopus,"strepens (Latreille, 1804)","Aiolopus strepens (Latreille, 1804)",Braune Strandschrecke,LC,,,
+Insecta,orthoptera,Acrididae,Aiolopus,"thalassinus (Fabricius, 1781)","Aiolopus thalassinus (Fabricius, 1781)",Grüne Strandschrecke,EN,"B2b(iii,iv), B2c(iii)",§CH,Pionierart
+Insecta,orthoptera,Acrididae,Arcyptera,"fusca (Pallas, 1773)","Arcyptera fusca (Pallas, 1773)",Grosse Höckerschrecke,VU,"B2b(iii,iv)",,Grünlandart
+Insecta,orthoptera,Acrididae,Bryodemella,"tuberculata (Fabricius, 1775)","Bryodemella tuberculata (Fabricius, 1775)",Gefleckte Schnarrschrecke,RE,,,"Pionierart, letzter Nachweis 1960"
+Insecta,orthoptera,Acrididae,Chorthippus,"albomarginatus (De Geer, 1773)","Chorthippus albomarginatus (De Geer, 1773)",Weissrandiger Grashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Chorthippus,"apricarius (Linnaeus, 1758)","Chorthippus apricarius (Linnaeus, 1758)",Feld-Grashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Chorthippus,"biguttulus (Linnaeus, 1758)","Chorthippus biguttulus (Linnaeus, 1758)",Nachtigall-Grashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Chorthippus,"brunneus (Thunberg, 1815)","Chorthippus brunneus (Thunberg, 1815)",Brauner Grashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Chorthippus,"dorsatus (Zetterstedt, 1821)","Chorthippus dorsatus (Zetterstedt, 1821)",Wiesengrashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Chorthippus,"eisentrauti (Ramme, 1931)","Chorthippus eisentrauti (Ramme, 1931)",Südlicher Grashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Chorthippus,"mollis (Charpentier, 1825)","Chorthippus mollis (Charpentier, 1825)",Verkannter Grashüpfer,NT,,,
+Insecta,orthoptera,Acrididae,Chorthippus,"montanus (Charpentier, 1825)","Chorthippus montanus (Charpentier, 1825)",Sumpfgrashüpfer,VU,"B2b(iii,iv)",,Sumpfart
+Insecta,orthoptera,Acrididae,Chorthippus,"parallelus (Zetterstedt, 1821)","Chorthippus parallelus (Zetterstedt, 1821)",Gemeiner Grashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Chorthippus,"pullus (Philippi, 1830)","Chorthippus pullus (Philippi, 1830)",Kiesbank-Grashüpfer,CR,"B2a, B2b(ii,iii,iv)",,"Pionierart, im Rückgang"
+Insecta,orthoptera,Acrididae,Chorthippus,"vagans (Eversmann, 1848)","Chorthippus vagans (Eversmann, 1848)",Steppen-Grashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Chrysochraon,"dispar (Germar, 1834)","Chrysochraon dispar (Germar, 1834)",Grosse Goldschrecke,NT,,,
+Insecta,orthoptera,Acrididae,Epacromius,"tergestinus ponticus (Charpentier, 1825)","Epacromius tergestinus ponticus (Charpentier, 1825)",Fluss-Strandschrecke,CR,"B2a, B2b(iii,iv), C2i",§CH,"Pionierart, 2004 wieder eingeführt"
+Insecta,orthoptera,Acrididae,Euchorthippus,"declivus (Brisout de Barneville, 1849)","Euchorthippus declivus (Brisout de Barneville, 1849)",Dickkopf-Grashüpfer,VU,"B2b(iii,iv)",,Grünlandart
+Insecta,orthoptera,Acrididae,Euthystira,"brachyptera (Ocskay, 1826)","Euthystira brachyptera (Ocskay, 1826)",Kleine Goldschrecke,LC,,,
+Insecta,orthoptera,Acrididae,Gomphocerippus,"rufus (Linnaeus, 1758)","Gomphocerippus rufus (Linnaeus, 1758)",Rote Keulenschrecke,LC,,,
+Insecta,orthoptera,Acrididae,Gomphocerus,"sibiricus (Linnaeus, 1767)","Gomphocerus sibiricus (Linnaeus, 1767)",Sibirische Keulenschrecke,LC,,,
+Insecta,orthoptera,Acrididae,Locusta,"migratoria cinerascens (Fabricius, 1781)","Locusta migratoria cinerascens (Fabricius, 1781)",Wanderheuschrecke,CR,"B2b(i,ii,iii,iv), B2c(iii)",§CH,Pionierart
+Insecta,orthoptera,Acrididae,Mecostethus,"parapleurus (Hagenbach, 1822)","Mecostethus parapleurus (Hagenbach, 1822)",Lauchschrecke,LC,,,
+Insecta,orthoptera,Acrididae,Myrmeleotettix,"maculatus (Thunberg, 1815)","Myrmeleotettix maculatus (Thunberg, 1815)",Gefleckte Keulenschrecke,EN,"B2a, B2b(i,ii,iii,iv)",,"Pionierart, im Rückgang"
+Insecta,orthoptera,Acrididae,Oedaleus,"decorus (Germar, 1825)","Oedaleus decorus (Germar, 1825)",Kreuzschrecke,CR,"B2a, B2b(iii,iv)",§CH,Pionierart
+Insecta,orthoptera,Acrididae,Oedipoda,"caerulescens (Linnaeus, 1758)","Oedipoda caerulescens (Linnaeus, 1758)",Blauflüglige Ödlandschrecke,NT,,§CH,
+Insecta,orthoptera,Acrididae,Oedipoda,"germanica (Latreille, 1804)","Oedipoda germanica (Latreille, 1804)",Rotflüglige Ödlandschrecke,VU,"B2b(iii,iv)",§CH,Pionierart
+Insecta,orthoptera,Acrididae,Omocestus,"haemorrhoidalis (Charpentier, 1825)","Omocestus haemorrhoidalis (Charpentier, 1825)",Rotleibiger Grashüpfer,NT,,,
+Insecta,orthoptera,Acrididae,Omocestus,"rufipes (Zetterstedt, 1821)","Omocestus rufipes (Zetterstedt, 1821)",Buntbäuchiger Grashüpfer,NT,,,
+Insecta,orthoptera,Acrididae,Omocestus,"viridulus (Linnaeus, 1758)","Omocestus viridulus (Linnaeus, 1758)",Bunter Grashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Paracinema,"tricolor bisignata (Charpentier, 1825)","Paracinema tricolor bisignata (Charpentier, 1825)",Dreifarbschrecke,DD,,,Indigenität nicht erwiesen
+Insecta,orthoptera,Acrididae,Podismopsis,"keisti (Nadig, 1989)","Podismopsis keisti (Nadig, 1989)",Schweizer Goldschrecke,EN,"B2a, B2b(ii,iii,iv)",§CH,"Grünlandart, endemisch"
+Insecta,orthoptera,Acrididae,Psophus,"stridulus (Linnaeus, 1758)","Psophus stridulus (Linnaeus, 1758)",Rotflüglige Schnarrschrecke,VU,"B2b(iii,iv)",§CH,Grünlandart
+Insecta,orthoptera,Acrididae,Sphingonotus,"caerulans (Linnaeus, 1767)","Sphingonotus caerulans (Linnaeus, 1767)",Blauflüglige Sandschrecke,VU,"B2b(iii,iv), B2c(iii)",§CH,Pionierart
+Insecta,orthoptera,Acrididae,Stauroderus,"scalaris (Fischer von Waldheim, 1846)","Stauroderus scalaris (Fischer von Waldheim, 1846)",Gebirgsgrashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Stenobothrus,"lineatus (Panzer, 1796)","Stenobothrus lineatus (Panzer, 1796)",Heidegrashüpfer,LC,,,
+Insecta,orthoptera,Acrididae,Stenobothrus,"nigromaculatus (Herrich-Schäffer, 1840)","Stenobothrus nigromaculatus (Herrich-Schäffer, 1840)",Schwarzfleckiger Heidegrashüpfer,VU,"B2a, B2b(iii,iv)",,Grünlandart
+Insecta,orthoptera,Acrididae,Stenobothrus,"rubicundulus Kruseman & Jeekel, 1967","Stenobothrus rubicundulus Kruseman & Jeekel, 1967",Bunter Alpengrashüpfer,NT,,,
+Insecta,orthoptera,Acrididae,Stenobothrus,"stigmaticus (Rambur, 1838)","Stenobothrus stigmaticus (Rambur, 1838)",Kleiner Heidegrashüpfer,CR,"B2a, B2b(iii,iv)",,"Grünlandart, Erstnachweis 1993"
+Insecta,orthoptera,Acrididae,Stethophyma,"grossum (Linnaeus, 1758)","Stethophyma grossum (Linnaeus, 1758)",Sumpfschrecke,VU,"B2b(iii,iv)",§CH,Sumpfart

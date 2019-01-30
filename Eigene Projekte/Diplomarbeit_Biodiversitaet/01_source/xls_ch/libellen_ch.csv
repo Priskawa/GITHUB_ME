@@ -1,0 +1,83 @@
+classe,ordre,famille,genre,espèce,sous-espèce,D,statut CH,critères,Bemerkungen
+Insecta,Odonata,Calopterygidae,Calopteryx,splendens,splendens,Gebänderte Prachtlibelle,LC,,
+Insecta,Odonata,Calopterygidae,Calopteryx,splendens,caprai,,NT,"B1,B2",Zunahme in den Südalpen
+Insecta,Odonata,Calopterygidae,Calopteryx,splendens,xanthostoma,,DD,,
+Insecta,Odonata,Calopterygidae,Calopteryx,virgo,virgo,Blauflügel-Prachtlibelle,LC,,
+Insecta,Odonata,Calopterygidae,Calopteryx,virgo,meridionalis,Südliche Prachtlibelle,VU,B2 b,"ihre seltenen Populationen sind stabil, aber ihr Lebensraum ist lokal sehr bedroht"
+Insecta,Odonata,Lestidae,Chalcolestes,viridis,,Weidenjungfer,LC,,
+Insecta,Odonata,Lestidae,Lestes,barbarus,,Südliche Binsenjungfer,NE,,
+Insecta,Odonata,Lestidae,Lestes,dryas,,Glänzende Binsenjungfer,CR,"B2 a, b",starker Rückgang
+Insecta,Odonata,Lestidae,Lestes,macrostigma,,Dunkle Binsenjungfer,DD,,
+Insecta,Odonata,Lestidae,Lestes,sponsa,,Gemeine Binsenjungfer,NT,A2c,"starker Rückgang, aber noch häufige Populationen, die untereinander verbunden sind"
+Insecta,Odonata,Lestidae,Lestes,virens,vestalis,Kleine Binsenjungfer,CR,"B2 a, b",starker Rückgang
+Insecta,Odonata,Lestidae,Sympecma,fusca,,Gemeine Winterlibelle,LC,,
+Insecta,Odonata,Lestidae,Sympecma,paedisca,,Sibirische Winterlibelle,CR,"B2a, 2b",Rückgang
+Insecta,Odonata,Platycnemididae,Platycnemis,pennipes,,Federlibelle,LC,,
+Insecta,Odonata,Coenagrionidae,Cercion,lindenii,,Pokal-Azurjungfer,NT,,besiedelt künstliche Lebensräume und erhält sich dort
+Insecta,Odonata,Coenagrionidae,Ceriagrion,tenellum,,Späte Adonislibelle,EN,"B2a, 2b","stabilisierte, aber meistens isolierte Populationen; zerstückelter Lebensraum"
+Insecta,Odonata,Coenagrionidae,Coenagrion,hastulatum,,Speer-Azurjungfer,NT,"B2a, 2b","stabilisierte Populationen, aber empfindliche Lebensräume"
+Insecta,Odonata,Coenagrionidae,Coenagrion,lunulatum,,Mond- Azurjungfer,CR,"B2a, 2b",letzte Beobachtung 1989
+Insecta,Odonata,Coenagrionidae,Coenagrion,mercuriale,,Helm-Azurjungfer,CR,"B2a, 2b","stabilisierte Populationen, aber grosse Zerstückelung des Lebensraumes und Isolation der Populationen"
+Insecta,Odonata,Coenagrionidae,Coenagrion,ornatum,,Vogel-Azurjungfer,RE,,letzte Beobachtung 1957
+Insecta,Odonata,Coenagrionidae,Coenagrion,puella,,Hufeisen-Azurjungfer,LC,,
+Insecta,Odonata,Coenagrionidae,Coenagrion,pulchellum,,Fledermaus-Azurjungfer,NT,A2,starker Rückgang
+Insecta,Odonata,Coenagrionidae,Coenagrion,scitulum,,Gabel-Azurjungfer,DD,,1 Standort 2001 entdeckt
+Insecta,Odonata,Coenagrionidae,Enallagma,cyathigerum,,Becher-Azurjungfer,LC,,
+Insecta,Odonata,Coenagrionidae,Erythromma,najas,,Grosses Granatauge,LC,,
+Insecta,Odonata,Coenagrionidae,Erythromma,viridulum,,Kleines Granatauge,LC,,
+Insecta,Odonata,Coenagrionidae,Ischnura,elegans,,Grosse Pechlibelle,LC,,
+Insecta,Odonata,Coenagrionidae,Ischnura,pumilio,,Kleine Pechlibelle,LC,,
+Insecta,Odonata,Coenagrionidae,Nehalennia,speciosa,,Zwerglibelle,CR,"B2a, 2b",letzte Beobachtung 1990
+Insecta,Odonata,Coenagrionidae,Pyrrhosoma,nymphula,,Frühe Adonislibelle,LC,,
+Insecta,Odonata,Aeshnidae,Aeshna,affinis,,Südliche Mosaikjungfer,NE,,
+Insecta,Odonata,Aeshnidae,Aeshna,caerulea,,Alpen-Mosaikjungfer,VU,B2b,"stabile Populationen, aber empfindlicher Lebensraum"
+Insecta,Odonata,Aeshnidae,Aeshna,cyanea,,Blaugrüne Mosaikjungfer,LC,,
+Insecta,Odonata,Aeshnidae,Aeshna,grandis,,Braune Mosaikjungfer,LC,,
+Insecta,Odonata,Aeshnidae,Aeshna,juncea,,Torf-Mosaikjungfer,LC,,
+Insecta,Odonata,Aeshnidae,Aeshna,mixta,,Herbst-Mosaikjungfer,LC,,
+Insecta,Odonata,Aeshnidae,Aeshna,subarctica,elisabethae,Hochmoor-Mosaikjungfer,VU,"B2a, 2b",empfindlicher Lebensraum
+Insecta,Odonata,Aeshnidae,Anaciaeschna,isosceles,,Keilfleck-Mosaikjungfer,LC,,
+Insecta,Odonata,Aeshnidae,Anax,imperator,,Grosse Königslibelle,LC,,
+Insecta,Odonata,Aeshnidae,Anax,parthenope,,Kleine Königslibelle,LC,,
+Insecta,Odonata,Aeshnidae,Boyeria,irene,,Boyeria,EN,"B2a, 2b","letzte Beobachtung im Tessin 1987; sehr lokal, Schweizer Populationen isoliert"
+Insecta,Odonata,Aeshnidae,Brachytron,pratense,,Kleine Mosaikjungfer,LC,,
+Insecta,Odonata,Aeshnidae,Hemianax,ephippiger,,Schabrackenlibelle,NE,,
+Insecta,Odonata,Gomphidae,Gomphus,flavipes,,Asiatische Keiljungfer,DD,,
+Insecta,Odonata,Gomphidae,Gomphus,pulchellus,,Westliche Keiljungfer,VU,B2b,Rückgang
+Insecta,Odonata,Gomphidae,Gomphus,simillimus,,Gelbe Keiljungfer,CR,"B2a, 2b",Rückgang
+Insecta,Odonata,Gomphidae,Gomphus,vulgatissimus,,Gemeine Keiljungfer,NT,B2b,stabile Populationen
+Insecta,Odonata,Gomphidae,Onychogomphus,forcipatus,forcipatus,Kleine Zangenlibelle,NT,B2b,stabile Populationen
+Insecta,Odonata,Gomphidae,Onychogomphus,forcipatus,unguiculatus,,EN,B2a,
+Insecta,Odonata,Gomphidae,Onychogomphus,uncatus,,Grosse Zangenlibelle,RE,,letzte Beobachtung 1979
+Insecta,Odonata,Gomphidae,Ophiogomphus,cecilia,,Grüne Keiljungfer,EN,B2b,Rückgang
+Insecta,Odonata,Cordulegastridae,Cordulegaster,bidentata,,Gestreifte Quelljungfer,NT,B2b,lokale Rückgänge
+Insecta,Odonata,Cordulegastridae,Cordulegaster,boltonii,,Zweigestreifte Quelljungfer,LC,,
+Insecta,Odonata,Corduliidae,Cordulia,aenea,,Gemeine Smaragdlibelle,LC,,
+Insecta,Odonata,Corduliidae,Epitheca,bimaculata,,Zweifleck-Smaragdlibelle,CR,"B2a, 2b","stark isolierte Populationen, starker Rückgang"
+Insecta,Odonata,Corduliidae,Oxygastra,curtisii,,Gekielte Smaragdlibelle,EN,"B1a, B2a",sehr lokale Populationen
+Insecta,Odonata,Corduliidae,Somatochlora,alpestris,,Alpen-Smaragdlibelle,LC,,
+Insecta,Odonata,Corduliidae,Somatochlora,arctica,,Artkische Smaragdlibelle,NT,"B2a, 2b",empfindlicher Lebensraum
+Insecta,Odonata,Corduliidae,Somatochlora,flavomaculata,,Gefleckte Smaragdlibelle,LC,,
+Insecta,Odonata,Corduliidae,Somatochlora,metallica,,Glänzende Smaragdlibelle,LC,,
+Insecta,Odonata,Libellulidae,Crocothemis,erythraea,,Feuerlibelle,LC,,
+Insecta,Odonata,Libellulidae,Leucorrhinia,albifrons,,Östliche Moosjungfer,CR,"B2a, 2b","extreme Isolierung, Rückgang"
+Insecta,Odonata,Libellulidae,Leucorrhinia,caudalis,,Zierliche Moosjungfer,CR,"B2a, 2b","extreme Isolierung, Rückgang"
+Insecta,Odonata,Libellulidae,Leucorrhinia,dubia,,Kleine Moosjungfer,NT,"B2a, 2b",empfindlicher Lebensraum
+Insecta,Odonata,Libellulidae,Leucorrhinia,pectoralis,,Grosse Moosjungfer,CR,"B2a, 2b",starker Rückgang
+Insecta,Odonata,Libellulidae,Leucorrhinia,rubicunda,,Nordische Moosjungfer,NE,,
+Insecta,Odonata,Libellulidae,Libellula,depressa,,Plattbauch,LC,,
+Insecta,Odonata,Libellulidae,Libellula,fulva,,Spitzenfleck,LC,,
+Insecta,Odonata,Libellulidae,Libellula,quadrimaculata,,Vierfleck,LC,,
+Insecta,Odonata,Libellulidae,Orthetrum,albistylum,,Östlicher Blaupfeil,EN,"A2, B2b",starker Rückgang
+Insecta,Odonata,Libellulidae,Orthetrum,brunneum,,Südlicher Blaupfeil,LC,,
+Insecta,Odonata,Libellulidae,Orthetrum,cancellatum,,Grosser Blaupfeil,LC,,
+Insecta,Odonata,Libellulidae,Orthetrum,coerulescens,,Kleiner Blaupfeil,NT,B2b,empfindlicher Lebensraum
+Insecta,Odonata,Libellulidae,Sympetrum,danae,,Schwarze Heidelibelle,NT,B2b,Rückgang
+Insecta,Odonata,Libellulidae,Sympetrum,depressiusculum,,Sumpf-Heidelibelle,VU,"B2a, 2b",empfindlicher Lebensraum
+Insecta,Odonata,Libellulidae,Sympetrum,flaveolum,,Gefleckte Heidelibelle,EN,"A2, B2b",starker Rückgang
+Insecta,Odonata,Libellulidae,Sympetrum,fonscolombii,,Frühe Heidelibelle,NE,,
+Insecta,Odonata,Libellulidae,Sympetrum,meridionale,,Südliche Heidelibelle,NE,,
+Insecta,Odonata,Libellulidae,Sympetrum,pedemontanum,,Gebänderte Heidelibelle,CR,"B2a, 2b",starker Rückgang
+Insecta,Odonata,Libellulidae,Sympetrum,sanguineum,,Blutrote Heidelibelle,LC,,
+Insecta,Odonata,Libellulidae,Sympetrum,striolatum,,Grosse Heidelibelle,LC,,
+Insecta,Odonata,Libellulidae,Sympetrum,vulgatum,,Gemeine Heidelibelle,LC,,

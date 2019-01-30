@@ -1,0 +1,65 @@
+ORDER,Scientific name,deutscher Name,CAT
+Mammalia,Bos primigenius,"Ur, Auerochse († 1627, Polen)",EX
+Mammalia,Ursus arctos,"Braunbär († 1904, Engadin)",RE
+Mammalia,Alces alces,"Elch († Mittelalter, CH)",RE
+Mammalia,Lutra lutra,"Fischotter († 1989, Neuenburgersee)",RE
+Mammalia,Cricetus cricetus,"Hamster  (†  ?, CH)",RE
+Mammalia,Mustela lutreola,"Nerz († ca. 1900?, CH)",RE
+Mammalia,Equus przewalskii,"Wildpferd (†  ?, CH)",RE
+Mammalia,Bison bonasus,"Wisent  († ca. 17.Jh., CH)",RE
+Mammalia,Canis lupus,"Wolf  († 1890, CH)",RE
+Mammalia,Castor fiber,Biber,CR
+Mammalia,Lynx lynx,Luchs,CR
+Mammalia,Rattus rattus,Hausratte,EN
+Mammalia,Felis silvestris,Wildkatze,EN
+Mammalia,Pitymys multiplex,Fatio Kleinwühlmaus,VU
+Mammalia,Lepus europaeus,Feldhase,VU
+Mammalia,Crocidura leucodon,Feldspitzmaus,VU
+Mammalia,Crocidura suaveolens,Gartenspitzmaus,VU
+Mammalia,Muscardinus avellanarius,Haselmaus,VU
+Mammalia,Mustela putorius,Iltis,VU
+Mammalia,Mustela nivalis,Mauswiesel,VU
+Mammalia,Neomys anomalus,Sumpfspitzmaus,VU
+Mammalia,Neomys fodiens,Wasserspitzmaus,VU
+Mammalia,Micromys minutus,Zwergmaus,VU
+Mammalia,Dryomys nitedula,Baumschläfer,NT
+Mammalia,Talpa caeca,Blindmaulwurf,NT
+Mammalia,Pitymys savii,Savi Kleinwühlmaus,NT
+Mammalia,Oryctolagus cuniculus,Wildkaninchen,NT
+Mammalia,Marmota marmota,Alpenmurmeltier,LC
+Mammalia,Sorex alpinus,Alpenspitzmaus,LC
+Mammalia,Apodemus alpicola,Alpenwaldmaus,LC
+Mammalia,Martes martes,"Baummarder, Edelmarder",LC
+Mammalia,Sylvilagus floridanus,Baumwollschwanzkaninchen,LC
+Mammalia,Meles meles,Dachs,LC
+Mammalia,Sciurus vulgaris,Eichhörnchen,LC
+Mammalia,Microtus agrestis,Erdmaus,LC
+Mammalia,Suncus etruscus,Etruskerspitzmaus,LC
+Mammalia,Talpa europaea,Eurasischer Maulwurf,LC
+Mammalia,Microtus arvalis,Feldmaus,LC
+Mammalia,Eliomys quercinus,Gartenschläfer,LC
+Mammalia,Apodemus flavicollis,Gelbhalsmaus,LC
+Mammalia,Rupicapra rupicapra,Gemse,LC
+Mammalia,Mus musculus,Hausmaus,LC
+Mammalia,Crocidura russula,Hausspitzmaus,LC
+Mammalia,Mustela erminea,"Hermelin, Kurzschwanzwiesel",LC
+Mammalia,Erinaceus europaeus,Igel,LC
+Mammalia,Pitymys subterraneus,Kleinwühlmaus,LC
+Mammalia,Capreolus capreolus,Reh,LC
+Mammalia,Clethrionomys glareolus,Rötelmaus,LC
+Mammalia,Vulpes vulpes,Rotfuchs,LC
+Mammalia,Cervus elaphus,Rothirsch,LC
+Mammalia,Sorex coronatus,Schabrackenspitzmaus,LC
+Mammalia,Arvicola terrestris,Schermaus,LC
+Mammalia,Lepus timidus,Schneehase,LC
+Mammalia,Microtus nivalis,Schneemaus,LC
+Mammalia,Glis glis,Siebenschläfer,LC
+Mammalia,Capra ibex,Steinbock,LC
+Mammalia,Martes foina,"Steinmarder, Hausmarder",LC
+Mammalia,Mus poschiavinus,Tabakmaus,LC
+Mammalia,Apodemus sylvaticus,Waldmaus,LC
+Mammalia,Sorex araneus,Waldspitzmaus,LC
+Mammalia,Sorex antinorii,Walliser Spitzmaus,LC
+Mammalia,Rattus norvegicus,Wanderratte,LC
+Mammalia,Sus scrofa,Wildschwein,LC
+Mammalia,Sorex minutus,Zwergspitzmaus,LC
