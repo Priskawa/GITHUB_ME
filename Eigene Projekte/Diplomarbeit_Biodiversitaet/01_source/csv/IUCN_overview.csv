@@ -1,0 +1,9 @@
+cat,est number of described species,numb of species evaluated by 2018,numb of threatened species in 2018,"sp ev in 2018, as % of species described",non threat,not evaluated
+mammals,5692,5692,1219,100,4473,0
+birds,11126,11126,1492,100,9634,0
+reptiles,10793,7127,1307,66,5820,3666
+amphibians,7926,6722,2092,85,4630,1204
+fishes,34000,16803,2332,49,14471,17197
+molluscs,85000,8627,2195,10,6432,76373
+insects,1000000,8037,1537,0.8,6500,991963
+plants and fungi,362722,27595,13358,7.6,14237,335127
